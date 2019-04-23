@@ -1,0 +1,6836 @@
+{
+ "hu_gen_fis_noincomp__zoo_40_minion_98493": {
+  "freq sols": -1,
+  "sr_time": 24.83327007293701,
+  "sols": 64,
+  "solver_time": 12.278175999999997
+ },
+ "hu_gen_fis_noincomp__german_50_minion_5581": {
+  "freq sols": -1,
+  "sr_time": 4698.030793428421,
+  "sols": 398,
+  "solver_time": 4464.6405700000005
+ },
+ "hu_gen_fis_noincomp__vote_40_minion_84734": {
+  "freq sols": -1,
+  "sr_time": 21.185201406478882,
+  "sols": 5,
+  "solver_time": 4.043641
+ },
+ "hu_gen_fis__lymph_10_nbc_12120": {
+  "freq sols": -1,
+  "sr_time": 58.306984663009644,
+  "sols": 2391,
+  "solver_time": 26.240000000000006
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_nbc_39795": {
+  "freq sols": -1,
+  "sr_time": 5362.658103466034,
+  "sols": 15520,
+  "solver_time": 4743.279999999908
+ },
+ "hu_closed_cost_util_freqmining__zoo_10_nbc_99504": {
+  "freq sols": -1,
+  "sr_time": 5.8515625,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_30_glucose_53259": {
+  "freq sols": -1,
+  "sr_time": 11.949534893035889,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_10_glucose_93956": {
+  "freq sols": -1,
+  "sr_time": 22.395583152770996,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_50_nbc_65964": {
+  "freq sols": -1,
+  "sr_time": 61.64386868476868,
+  "sols": 527,
+  "solver_time": 24.75999999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_10_glucose_24894": {
+  "freq sols": -1,
+  "sr_time": 15029.602454423904,
+  "sols": 6421,
+  "solver_time": 11531.364979999984
+ },
+ "hu_gen_fis__german_20_nbc_44930": {
+  "freq sols": -1,
+  "sr_time": 1273.2990493774414,
+  "sols": 6,
+  "solver_time": 1179.31
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_20_glucose_35109": {
+  "freq sols": -1,
+  "sr_time": 45.427611351013184,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_glucose_70091": {
+  "freq sols": -1,
+  "sr_time": 12.551251649856567,
+  "sols": 68,
+  "solver_time": 2.0765859999999994
+ },
+ "hu_gen_fis__german_50_nbc_52097": {
+  "freq sols": -1,
+  "sr_time": 190.6874542236328,
+  "sols": 398,
+  "solver_time": 105.92000000000002
+ },
+ "hu_closed_cost_util_freqmining__tumor_10_nbc_57770": {
+  "freq sols": -1,
+  "sr_time": 48.00141668319702,
+  "sols": 3812,
+  "solver_time": 14.809999999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_glucose_64672": {
+  "freq sols": -1,
+  "sr_time": 6.049593925476074,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_nbc_62132": {
+  "freq sols": -1,
+  "sr_time": 23.648446083068848,
+  "sols": 61,
+  "solver_time": 6.940000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_glucose_6071": {
+  "freq sols": -1,
+  "sr_time": 408.3557221889496,
+  "sols": 268,
+  "solver_time": 347.6364670000001
+ },
+ "hu_gen_fis_noincomp__tumor_10_glucose_27342": {
+  "freq sols": -1,
+  "sr_time": 8.556294441223145,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_40_minion_91268": {
+  "freq sols": -1,
+  "sr_time": 856.5366313457489,
+  "sols": 4928,
+  "solver_time": 899.9973470000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_minion_17825": {
+  "freq sols": -1,
+  "sr_time": 3341.239244222641,
+  "sols": 1224,
+  "solver_time": 918.27619
+ },
+ "hu_closed_cost_util_freqmining__lymph_20_minion_62711": {
+  "freq sols": -1,
+  "sr_time": 2653.306592464447,
+  "sols": 6322,
+  "solver_time": 1591.45433
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_glucose_40858": {
+  "freq sols": -1,
+  "sr_time": 14.552623510360718,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_10_glucose_81922": {
+  "freq sols": -1,
+  "sr_time": 37.953309059143066,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_50_nbc_85813": {
+  "freq sols": -1,
+  "sr_time": 29.744752883911133,
+  "sols": 61,
+  "solver_time": 1.02
+ },
+ "hu_gen_fis__tumor_10_nbc_18318": {
+  "freq sols": -1,
+  "sr_time": 8.904382944107056,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_20_glucose_56216": {
+  "freq sols": -1,
+  "sr_time": 134.53106331825256,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_40_glucose_66660": {
+  "freq sols": -1,
+  "sr_time": 22.83982276916504,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_minion_37157": {
+  "freq sols": -1,
+  "sr_time": 7595.804170370102,
+  "sols": 611,
+  "solver_time": 7438.9208100000005
+ },
+ "hu_gen_fis__zoo_40_minion_83875": {
+  "freq sols": -1,
+  "sr_time": 7.401208400726318,
+  "sols": 64,
+  "solver_time": 0.6587250000000001
+ },
+ "hu_gen_fis__vote_40_minion_31939": {
+  "freq sols": -1,
+  "sr_time": 23.108453035354614,
+  "sols": 5,
+  "solver_time": 5.379477
+ },
+ "hu_closed_cost_util_freqmining__vote_40_minion_12980": {
+  "freq sols": -1,
+  "sr_time": 23.05890464782715,
+  "sols": 5,
+  "solver_time": 5.5623439999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_40_glucose_85": {
+  "freq sols": -1,
+  "sr_time": 2005.8656420707703,
+  "sols": 8125,
+  "solver_time": 1732.497272999994
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_nbc_28833": {
+  "freq sols": -1,
+  "sr_time": 15.723040103912354,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_20_glucose_1533": {
+  "freq sols": -1,
+  "sr_time": 772.464329957962,
+  "sols": 6,
+  "solver_time": 716.4178999999999
+ },
+ "hu_closed_cost_util_freqmining__zoo_20_minion_7275": {
+  "freq sols": -1,
+  "sr_time": 153.8472707271576,
+  "sols": 4374,
+  "solver_time": 125.58578899999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_10_glucose_9665": {
+  "freq sols": -1,
+  "sr_time": 19.44892120361328,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_50_glucose_59226": {
+  "freq sols": -1,
+  "sr_time": 140.3074893951416,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_30_minion_23492": {
+  "freq sols": -1,
+  "sr_time": 420.38160824775696,
+  "sols": 268,
+  "solver_time": 350.2426169999999
+ },
+ "hu_gen_fis_noincomp__tumor_20_glucose_76750": {
+  "freq sols": -1,
+  "sr_time": 11.976416110992432,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_20_glucose_4407": {
+  "freq sols": -1,
+  "sr_time": 20.523083209991455,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_50_nbc_45127": {
+  "freq sols": -1,
+  "sr_time": 10.13594102859497,
+  "sols": 7,
+  "solver_time": 0.01
+ },
+ "hu_closed_cost_util_freqmining__lymph_10_nbc_3416": {
+  "freq sols": -1,
+  "sr_time": 75.60135579109192,
+  "sols": 3876,
+  "solver_time": 35.51
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_10_glucose_97253": {
+  "freq sols": -1,
+  "sr_time": 20.816200733184814,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_glucose_51242": {
+  "freq sols": -1,
+  "sr_time": 27.622568130493164,
+  "sols": 5,
+  "solver_time": 6.018149
+ },
+ "hu_gen_fis_noincomp__vote_10_glucose_55448": {
+  "freq sols": -1,
+  "sr_time": 18.816569089889526,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hepatit_40_nbc_22054": {
+  "freq sols": -1,
+  "sr_time": 69.29025602340698,
+  "sols": 5903,
+  "solver_time": 29.080000000000002
+ },
+ "hu_gen_fis_noincomp__anneal_30_glucose_26232": {
+  "freq sols": -1,
+  "sr_time": 27.763216972351074,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_glucose_87928": {
+  "freq sols": -1,
+  "sr_time": 6.650339365005493,
+  "sols": 7,
+  "solver_time": 0.17237
+ },
+ "hu_gen_fis__tumor_20_nbc_7155": {
+  "freq sols": -1,
+  "sr_time": 37.74664235115051,
+  "sols": 1998,
+  "solver_time": 9.780000000000003
+ },
+ "hu_gen_fis_noincomp__hepatit_20_glucose_26417": {
+  "freq sols": -1,
+  "sr_time": 10.430087804794312,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_50_nbc_25926": {
+  "freq sols": -1,
+  "sr_time": 89.11769843101501,
+  "sols": 527,
+  "solver_time": 33.11999999999999
+ },
+ "hu_closed_cost_util_freqmining__anneal_50_nbc_61853": {
+  "freq sols": -1,
+  "sr_time": 343.90665769577026,
+  "sols": 4436,
+  "solver_time": 473.3700000000001
+ },
+ "hu_gen_fis_noincomp__heart_30_glucose_22881": {
+  "freq sols": -1,
+  "sr_time": 21.823888778686523,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_glucose_6479": {
+  "freq sols": -1,
+  "sr_time": 19.02358317375183,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_glucose_17484": {
+  "freq sols": -1,
+  "sr_time": 10.3101065158844,
+  "sols": 68,
+  "solver_time": 2.0626489999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_glucose_45219": {
+  "freq sols": -1,
+  "sr_time": 4648.894275665283,
+  "sols": 4964,
+  "solver_time": 4392.668864000012
+ },
+ "hu_gen_fis_noincomp__krvskp_50_glucose_24501": {
+  "freq sols": -1,
+  "sr_time": 146.46469259262085,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_glucose_6239": {
+  "freq sols": -1,
+  "sr_time": 812.727564573288,
+  "sols": 387,
+  "solver_time": 252.89292100000003
+ },
+ "hu_gen_fis__vote_40_nbc_13953": {
+  "freq sols": -1,
+  "sr_time": 29.563388347625732,
+  "sols": 5,
+  "solver_time": 4.8100000000000005
+ },
+ "hu_closed_cost_util_freqmining__zoo_30_nbc_60829": {
+  "freq sols": -1,
+  "sr_time": 10.641440391540527,
+  "sols": 628,
+  "solver_time": 0.7000000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_20_glucose_14291": {
+  "freq sols": -1,
+  "sr_time": 140.739266872406,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_50_nbc_45911": {
+  "freq sols": -1,
+  "sr_time": 22.367270708084106,
+  "sols": 1044,
+  "solver_time": 1.4300000000000004
+ },
+ "hu_gen_fis__aus_50_minion_80891": {
+  "freq sols": -1,
+  "sr_time": 932.4639611244202,
+  "sols": 4488,
+  "solver_time": 758.0178799999998
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_minion_62827": {
+  "freq sols": -1,
+  "sr_time": 7.865355014801025,
+  "sols": 7,
+  "solver_time": 1.104492
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_minion_68035": {
+  "freq sols": -1,
+  "sr_time": 15.485171556472778,
+  "sols": 0,
+  "solver_time": 0.154843
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_glucose_17654": {
+  "freq sols": -1,
+  "sr_time": 11.172424077987671,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_glucose_4786": {
+  "freq sols": -1,
+  "sr_time": 6.133196115493774,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_minion_43461": {
+  "freq sols": -1,
+  "sr_time": 11287.452904939651,
+  "sols": 601,
+  "solver_time": 10992.111410000001
+ },
+ "hu_gen_fis_noincomp__heart_50_glucose_36947": {
+  "freq sols": -1,
+  "sr_time": 21.309591054916382,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_10_glucose_80219": {
+  "freq sols": -1,
+  "sr_time": 4753.313889741898,
+  "sols": 4637,
+  "solver_time": 3275.8023400000025
+ },
+ "hu_gen_fis__anneal_40_nbc_60555": {
+  "freq sols": -1,
+  "sr_time": 31.819997549057007,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_30_glucose_26851": {
+  "freq sols": -1,
+  "sr_time": 21.065693855285645,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_30_nbc_36562": {
+  "freq sols": -1,
+  "sr_time": 52.01277208328247,
+  "sols": 586,
+  "solver_time": 21.13
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_10_glucose_59070": {
+  "freq sols": -1,
+  "sr_time": 13964.467683553696,
+  "sols": 11397,
+  "solver_time": 13415.773659999975
+ },
+ "hu_gen_fis_noincomp__zoo_10_glucose_83389": {
+  "freq sols": -1,
+  "sr_time": 5.596442699432373,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_nbc_66702": {
+  "freq sols": -1,
+  "sr_time": 8888.421873569489,
+  "sols": 5103,
+  "solver_time": 5342.060000000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_glucose_19085": {
+  "freq sols": -1,
+  "sr_time": 7432.194677352905,
+  "sols": 455,
+  "solver_time": 7129.059070000005
+ },
+ "hu_gen_fis_noincomp__german_30_glucose_99055": {
+  "freq sols": -1,
+  "sr_time": 67.68323278427124,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_20_glucose_5574": {
+  "freq sols": -1,
+  "sr_time": 7021.038667201996,
+  "sols": 2629,
+  "solver_time": 6951.276590999991
+ },
+ "hu_gen_fis__audio_40_minion_91072": {
+  "freq sols": -1,
+  "sr_time": 1301.8234450817108,
+  "sols": 1808,
+  "solver_time": 1225.4753220000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_40_glucose_89660": {
+  "freq sols": -1,
+  "sr_time": 33.63953161239624,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_30_glucose_65924": {
+  "freq sols": -1,
+  "sr_time": 6762.762407064438,
+  "sols": 14899,
+  "solver_time": 6268.883401999983
+ },
+ "hu_gen_fis_noincomp__hepatit_50_minion_73597": {
+  "freq sols": -1,
+  "sr_time": 12949.213563203812,
+  "sols": 3610,
+  "solver_time": 12127.943432000002
+ },
+ "hu_closed_cost_util_freqmining__krvskp_50_minion_66230": {
+  "freq sols": -1,
+  "sr_time": 5374.864287853241,
+  "sols": 381,
+  "solver_time": 6805.425990000001
+ },
+ "hu_closed_cost_util_freqmining__vote_50_minion_74545": {
+  "freq sols": -1,
+  "sr_time": 15.05367374420166,
+  "sols": 0,
+  "solver_time": 0.161049
+ },
+ "hu_gen_fis_noincomp__heart_40_glucose_73442": {
+  "freq sols": -1,
+  "sr_time": 21.351807594299316,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__german_50_minion_96666": {
+  "freq sols": -1,
+  "sr_time": 5065.522087812424,
+  "sols": 398,
+  "solver_time": 4259.329090000001
+ },
+ "hu_gen_fis_noincomp__vote_40_glucose_6100": {
+  "freq sols": -1,
+  "sr_time": 26.436718225479126,
+  "sols": 5,
+  "solver_time": 5.204338000000001
+ },
+ "hu_closed_cost_util_freqmining__vote_10_nbc_32751": {
+  "freq sols": -1,
+  "sr_time": 100.66511583328247,
+  "sols": 5267,
+  "solver_time": 65.38000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_glucose_9351": {
+  "freq sols": -1,
+  "sr_time": 399.4360921382904,
+  "sols": 6,
+  "solver_time": 328.7998
+ },
+ "hu_gen_fis__aus_30_nbc_60480": {
+  "freq sols": -1,
+  "sr_time": 2143.1601917743683,
+  "sols": 295,
+  "solver_time": 2941.6559999999995
+ },
+ "hu_closed_cost_util_freqmining__hepatit_40_nbc_89809": {
+  "freq sols": -1,
+  "sr_time": 71.72491216659546,
+  "sols": 5903,
+  "solver_time": 34.53999999999999
+ },
+ "hu_gen_fis__hypo_10_nbc_8754": {
+  "freq sols": -1,
+  "sr_time": 10150.78321313858,
+  "sols": 1029,
+  "solver_time": 9811.1
+ },
+ "hu_gen_fis_noincomp__lymph_50_glucose_88408": {
+  "freq sols": -1,
+  "sr_time": 400.1395947933197,
+  "sols": 2355,
+  "solver_time": 308.536085
+ },
+ "hu_closed_cost_util_freqmining__tumor_30_nbc_10765": {
+  "freq sols": -1,
+  "sr_time": 30.51932406425476,
+  "sols": 1191,
+  "solver_time": 6.669999999999999
+ },
+ "hu_closed_cost_util_freqmining__audio_30_nbc_1141": {
+  "freq sols": -1,
+  "sr_time": 106.8702449798584,
+  "sols": 7357,
+  "solver_time": 18.78
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_nbc_88620": {
+  "freq sols": -1,
+  "sr_time": 10.889644861221313,
+  "sols": 84,
+  "solver_time": 1.2000000000000008
+ },
+ "hu_closed_cost_util_freqmining__vote_10_nbc_93081": {
+  "freq sols": -1,
+  "sr_time": 105.70282030105591,
+  "sols": 5267,
+  "solver_time": 52.27000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_40_glucose_58348": {
+  "freq sols": -1,
+  "sr_time": 130.49147009849548,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_50_glucose_90327": {
+  "freq sols": -1,
+  "sr_time": 146.12414526939392,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_30_nbc_17412": {
+  "freq sols": -1,
+  "sr_time": 39.29232382774353,
+  "sols": 1191,
+  "solver_time": 2.27
+ },
+ "hu_gen_fis_noincomp__anneal_10_glucose_66230": {
+  "freq sols": -1,
+  "sr_time": 11961.68242430687,
+  "sols": 1432,
+  "solver_time": 16602.266240000004
+ },
+ "hu_gen_fis_noincomp__hepatit_10_glucose_10335": {
+  "freq sols": -1,
+  "sr_time": 10318.832466363907,
+  "sols": 6127,
+  "solver_time": 15701.226524999945
+ },
+ "hu_gen_fis_noincomp__audio_40_glucose_43717": {
+  "freq sols": -1,
+  "sr_time": 19.54210090637207,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_40_glucose_90999": {
+  "freq sols": -1,
+  "sr_time": 46.67680263519287,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__krvskp_20_nbc_15317": {
+  "freq sols": -1,
+  "sr_time": 6459.278064727783,
+  "sols": 0,
+  "solver_time": 16591.87
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_glucose_75884": {
+  "freq sols": -1,
+  "sr_time": 124.31988286972046,
+  "sols": 1162,
+  "solver_time": 72.09716600000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_40_glucose_7983": {
+  "freq sols": -1,
+  "sr_time": 37.389423847198486,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__vote_20_nbc_31553": {
+  "freq sols": -1,
+  "sr_time": 183.19539976119995,
+  "sols": 35012,
+  "solver_time": 69.64000000000001
+ },
+ "hu_closed_cost_util_freqmining__tumor_20_nbc_37342": {
+  "freq sols": -1,
+  "sr_time": 51.26240348815918,
+  "sols": 4741,
+  "solver_time": 15.270000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_30_glucose_36282": {
+  "freq sols": -1,
+  "sr_time": 44.89739727973938,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_30_minion_57629": {
+  "freq sols": -1,
+  "sr_time": 442.1539695262909,
+  "sols": 268,
+  "solver_time": 25.18916
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_minion_2968": {
+  "freq sols": -1,
+  "sr_time": 6.62988805770874,
+  "sols": 7,
+  "solver_time": 1.142517
+ },
+ "hu_closed_cost_util_freqmining__hypo_30_nbc_24233": {
+  "freq sols": -1,
+  "sr_time": 6153.722725868225,
+  "sols": 2748,
+  "solver_time": 10908.309999999998
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_40_glucose_29688": {
+  "freq sols": -1,
+  "sr_time": 132.76166677474976,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_10_glucose_75986": {
+  "freq sols": -1,
+  "sr_time": 14020.372530221939,
+  "sols": 5349,
+  "solver_time": 16499.466178000006
+ },
+ "hu_gen_fis_noincomp__aus_50_glucose_85527": {
+  "freq sols": -1,
+  "sr_time": 47.56970524787903,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__anneal_20_nbc_77157": {
+  "freq sols": -1,
+  "sr_time": 1090.3491549491882,
+  "sols": 6200,
+  "solver_time": 409.10840700000006
+ },
+ "hu_closed_cost_util_freqmining__hepatit_50_nbc_10610": {
+  "freq sols": -1,
+  "sr_time": 51.87147259712219,
+  "sols": 3590,
+  "solver_time": 11.37
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_50_nbc_859": {
+  "freq sols": -1,
+  "sr_time": 4782.795394420624,
+  "sols": 8611,
+  "solver_time": 4324.54
+ },
+ "hu_gen_fis_noincomp__hypo_10_glucose_79131": {
+  "freq sols": -1,
+  "sr_time": 145.50833439826965,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__aus_50_nbc_95891": {
+  "freq sols": -1,
+  "sr_time": 379.73284816741943,
+  "sols": 4488,
+  "solver_time": 646.8036999999998
+ },
+ "hu_closed_cost_util_freqmining__audio_40_nbc_60993": {
+  "freq sols": -1,
+  "sr_time": 91.17872285842896,
+  "sols": 8283,
+  "solver_time": 18.630000000000003
+ },
+ "hu_closed_cost_util_freqmining__audio_30_nbc_94758": {
+  "freq sols": -1,
+  "sr_time": 144.30589771270752,
+  "sols": 7357,
+  "solver_time": 15.369999999999992
+ },
+ "hu_gen_fis_noincomp__hepatit_30_glucose_73949": {
+  "freq sols": -1,
+  "sr_time": 10.707141876220703,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_nbc_17783": {
+  "freq sols": -1,
+  "sr_time": 229.7213294506073,
+  "sols": 268,
+  "solver_time": 170.04000000000008
+ },
+ "hu_gen_fis_noincomp__anneal_20_glucose_50978": {
+  "freq sols": -1,
+  "sr_time": 35.16473841667175,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__krvskp_30_nbc_40237": {
+  "freq sols": -1,
+  "sr_time": 6930.385065078735,
+  "sols": 4371,
+  "solver_time": 21074.509999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_glucose_25626": {
+  "freq sols": -1,
+  "sr_time": 11.176488161087036,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__vote_50_nbc_14040": {
+  "freq sols": -1,
+  "sr_time": 17.10921812057495,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_glucose_93088": {
+  "freq sols": -1,
+  "sr_time": 12.366641998291016,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_40_glucose_39155": {
+  "freq sols": -1,
+  "sr_time": 324.05549693107605,
+  "sols": 310,
+  "solver_time": 129.47106399999998
+ },
+ "hu_gen_fis_noincomp__tumor_40_glucose_4161": {
+  "freq sols": -1,
+  "sr_time": 12.579875230789185,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__aus_40_minion_52796": {
+  "freq sols": -1,
+  "sr_time": 7408.536863327026,
+  "sols": 18,
+  "solver_time": 5915.449717000002
+ },
+ "hu_closed_cost_util_freqmining__audio_20_nbc_17278": {
+  "freq sols": -1,
+  "sr_time": 136.7620599269867,
+  "sols": 9667,
+  "solver_time": 34.73
+ },
+ "hu_gen_fis__hypo_10_nbc_69771": {
+  "freq sols": -1,
+  "sr_time": 9932.58584856987,
+  "sols": 1029,
+  "solver_time": 16852.26
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_nbc_16031": {
+  "freq sols": -1,
+  "sr_time": 4.867453575134277,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hepatit_40_nbc_4416": {
+  "freq sols": -1,
+  "sr_time": 63.84297323226929,
+  "sols": 5903,
+  "solver_time": 23.380000000000003
+ },
+ "hu_gen_fis_noincomp__tumor_50_minion_33225": {
+  "freq sols": -1,
+  "sr_time": 36.38633751869202,
+  "sols": 61,
+  "solver_time": 18.037576
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_10_glucose_60312": {
+  "freq sols": -1,
+  "sr_time": 13.20630955696106,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_10_glucose_910": {
+  "freq sols": -1,
+  "sr_time": 13963.818660497665,
+  "sols": 1432,
+  "solver_time": 6424.9874199999895
+ },
+ "hu_closed_cost_util_freqmining__german_50_nbc_43209": {
+  "freq sols": -1,
+  "sr_time": 190.32811570167542,
+  "sols": 377,
+  "solver_time": 105.42
+ },
+ "hu_closed_cost_util_freqmining__hepatit_50_minion_63064": {
+  "freq sols": -1,
+  "sr_time": 86.67510890960693,
+  "sols": 3590,
+  "solver_time": 50.258807999999995
+ },
+ "hu_closed_cost_util_freqmining__lymph_50_nbc_90976": {
+  "freq sols": -1,
+  "sr_time": 22.363871812820435,
+  "sols": 1492,
+  "solver_time": 1.7499999999999998
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_10_glucose_32053": {
+  "freq sols": -1,
+  "sr_time": 64.66958427429199,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_20_nbc_29475": {
+  "freq sols": -1,
+  "sr_time": 68.23589372634888,
+  "sols": 6322,
+  "solver_time": 21.01
+ },
+ "hu_gen_fis_noincomp__audio_50_glucose_30864": {
+  "freq sols": -1,
+  "sr_time": 19.902804851531982,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_30_nbc_4757": {
+  "freq sols": -1,
+  "sr_time": 9177.038170337677,
+  "sols": 9620,
+  "solver_time": 2800.0100000000875
+ },
+ "hu_gen_fis_noincomp__hepatit_30_glucose_15013": {
+  "freq sols": -1,
+  "sr_time": 679.9827210903168,
+  "sols": 803,
+  "solver_time": 628.5388200000006
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_nbc_73036": {
+  "freq sols": -1,
+  "sr_time": 315.2656316757202,
+  "sols": 564,
+  "solver_time": 259.43000000000023
+ },
+ "hu_gen_fis__audio_50_nbc_16074": {
+  "freq sols": -1,
+  "sr_time": 3696.6855750083923,
+  "sols": 278407,
+  "solver_time": 5692.8240000000005
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_glucose_51149": {
+  "freq sols": -1,
+  "sr_time": 14.145498037338257,
+  "sols": 0,
+  "solver_time": 0.001008
+ },
+ "hu_gen_fis_noincomp__lymph_40_glucose_28222": {
+  "freq sols": -1,
+  "sr_time": 4121.093489646912,
+  "sols": 7374,
+  "solver_time": 5914.882612999997
+ },
+ "hu_gen_fis_noincomp__german_50_glucose_39657": {
+  "freq sols": -1,
+  "sr_time": 58.89816761016846,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_40_minion_21737": {
+  "freq sols": -1,
+  "sr_time": 80.28371739387512,
+  "sols": 1711,
+  "solver_time": 51.03808
+ },
+ "hu_gen_fis_noincomp__german_30_glucose_13238": {
+  "freq sols": -1,
+  "sr_time": 6723.429866552353,
+  "sols": 223,
+  "solver_time": 6490.322999999999
+ },
+ "hu_gen_fis_noincomp__aus_30_glucose_50469": {
+  "freq sols": -1,
+  "sr_time": 47.70099592208862,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_10_glucose_97838": {
+  "freq sols": -1,
+  "sr_time": 148.15334582328796,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_10_glucose_21957": {
+  "freq sols": -1,
+  "sr_time": 3469.4080140590668,
+  "sols": 4637,
+  "solver_time": 3264.770167999992
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_40_glucose_79590": {
+  "freq sols": -1,
+  "sr_time": 43.55047416687012,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_nbc_77632": {
+  "freq sols": -1,
+  "sr_time": 25.906242609024048,
+  "sols": 5,
+  "solver_time": 2.86
+ },
+ "hu_gen_fis__krvskp_50_minion_49421": {
+  "freq sols": -1,
+  "sr_time": 5638.861421346664,
+  "sols": 427,
+  "solver_time": 5484.043180000001
+ },
+ "hu_closed_cost_util_freqmining__anneal_20_nbc_630": {
+  "freq sols": -1,
+  "sr_time": 1104.2294573783875,
+  "sols": 6200,
+  "solver_time": 993.6999999999997
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_20_glucose_64790": {
+  "freq sols": -1,
+  "sr_time": 43.186856746673584,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_glucose_11017": {
+  "freq sols": -1,
+  "sr_time": 6.632505416870117,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_30_nbc_72104": {
+  "freq sols": -1,
+  "sr_time": 54.63257575035095,
+  "sols": 586,
+  "solver_time": 19.889999999999993
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_nbc_64441": {
+  "freq sols": -1,
+  "sr_time": 305.10976219177246,
+  "sols": 310,
+  "solver_time": 53.87000000000001
+ },
+ "hu_closed_cost_util_freqmining__krvskp_20_nbc_72828": {
+  "freq sols": -1,
+  "sr_time": 17028.70914530754,
+  "sols": 23859,
+  "solver_time": 16224.91
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_glucose_56458": {
+  "freq sols": -1,
+  "sr_time": 6640.880585432053,
+  "sols": 455,
+  "solver_time": 6139.1541600000055
+ },
+ "hu_closed_cost_util_freqmining__anneal_40_nbc_85501": {
+  "freq sols": -1,
+  "sr_time": 514.4342992305756,
+  "sols": 5519,
+  "solver_time": 422.41
+ },
+ "hu_gen_fis_noincomp__anneal_20_glucose_22319": {
+  "freq sols": -1,
+  "sr_time": 37.90425515174866,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__tumor_30_minion_27797": {
+  "freq sols": -1,
+  "sr_time": 21.31821584701538,
+  "sols": 1191,
+  "solver_time": 4.248298
+ },
+ "hu_closed_cost_util_freqmining__lymph_30_nbc_68220": {
+  "freq sols": -1,
+  "sr_time": 51.15823268890381,
+  "sols": 3902,
+  "solver_time": 9.99
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_30_glucose_66590": {
+  "freq sols": -1,
+  "sr_time": 137.62992477416992,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_10_glucose_67756": {
+  "freq sols": -1,
+  "sr_time": 19.243865728378296,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_nbc_72512": {
+  "freq sols": -1,
+  "sr_time": 3745.3731713294983,
+  "sols": 597,
+  "solver_time": 3171.9099999999967
+ },
+ "hu_gen_fis__anneal_30_nbc_66736": {
+  "freq sols": -1,
+  "sr_time": 31.404536485671997,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__aus_20_nbc_74545": {
+  "freq sols": -1,
+  "sr_time": 8526.966788053513,
+  "sols": 4312,
+  "solver_time": 8163.699999999999
+ },
+ "hu_gen_fis__audio_50_nbc_32609": {
+  "freq sols": -1,
+  "sr_time": 3793.4134340286255,
+  "sols": 278407,
+  "solver_time": 2561.9800000000014
+ },
+ "hu_gen_fis__vote_30_nbc_90368": {
+  "freq sols": -1,
+  "sr_time": 43.4799907207489,
+  "sols": 268,
+  "solver_time": 13.399999999999999
+ },
+ "hu_gen_fis_noincomp__vote_30_glucose_58358": {
+  "freq sols": -1,
+  "sr_time": 19.050907373428345,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__audio_20_nbc_53295": {
+  "freq sols": -1,
+  "sr_time": 153.33412504196167,
+  "sols": 9667,
+  "solver_time": 59.44999999999997
+ },
+ "hu_gen_fis_noincomp__aus_50_glucose_86451": {
+  "freq sols": -1,
+  "sr_time": 42.238818407058716,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_minion_53430": {
+  "freq sols": -1,
+  "sr_time": 0.802034854888916,
+  "sols": 0,
+  "solver_time": 1.104492
+ },
+ "hu_gen_fis__hepatit_50_nbc_34528": {
+  "freq sols": -1,
+  "sr_time": 42.592127561569214,
+  "sols": 3610,
+  "solver_time": 7.4199999999999955
+ },
+ "hu_closed_cost_util_freqmining__anneal_10_nbc_36924": {
+  "freq sols": -1,
+  "sr_time": 1491.1194071769714,
+  "sols": 8788,
+  "solver_time": 529.6914700000001
+ },
+ "hu_gen_fis_noincomp__anneal_10_glucose_50994": {
+  "freq sols": -1,
+  "sr_time": 37.700297832489014,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__audio_40_nbc_50677": {
+  "freq sols": -1,
+  "sr_time": 72.35762524604797,
+  "sols": 1808,
+  "solver_time": 6.510000000000002
+ },
+ "hu_gen_fis__heart_40_nbc_99137": {
+  "freq sols": -1,
+  "sr_time": 237.71286034584045,
+  "sols": 4928,
+  "solver_time": 159.31000000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_glucose_3704": {
+  "freq sols": -1,
+  "sr_time": 60.60702657699585,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_50_minion_31130": {
+  "freq sols": -1,
+  "sr_time": 66.1366446018219,
+  "sols": 3610,
+  "solver_time": 31.905936
+ },
+ "hu_gen_fis__vote_10_nbc_35732": {
+  "freq sols": -1,
+  "sr_time": 127.8496994972229,
+  "sols": 9962,
+  "solver_time": 61.1
+ },
+ "hu_closed_cost_util_freqmining__hepatit_40_minion_98422": {
+  "freq sols": -1,
+  "sr_time": 426.6376037597656,
+  "sols": 5903,
+  "solver_time": 376.26180600000004
+ },
+ "hu_gen_fis__hypo_20_nbc_74318": {
+  "freq sols": -1,
+  "sr_time": 6583.992057323456,
+  "sols": 47,
+  "solver_time": 18059.920000000006
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_glucose_77910": {
+  "freq sols": -1,
+  "sr_time": 4884.178517103195,
+  "sols": 3812,
+  "solver_time": 1013.5935459999996
+ },
+ "hu_closed_cost_util_freqmining__hepatit_20_nbc_3405": {
+  "freq sols": -1,
+  "sr_time": 65.1199049949646,
+  "sols": 179,
+  "solver_time": 36.510000000000005
+ },
+ "hu_gen_fis_noincomp__tumor_10_minion_81879": {
+  "freq sols": -1,
+  "sr_time": 8.61355209350586,
+  "sols": 0,
+  "solver_time": 0.06077
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_glucose_84012": {
+  "freq sols": -1,
+  "sr_time": 11.808582782745361,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_40_glucose_89140": {
+  "freq sols": -1,
+  "sr_time": 42.57897663116455,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__vote_30_minion_63588": {
+  "freq sols": -1,
+  "sr_time": 29.843489170074463,
+  "sols": 268,
+  "solver_time": 9.821931999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_40_glucose_74843": {
+  "freq sols": -1,
+  "sr_time": 9463.393112897873,
+  "sols": 8051,
+  "solver_time": 9111.125078000015
+ },
+ "hu_gen_fis__zoo_20_nbc_56745": {
+  "freq sols": -1,
+  "sr_time": 25.483651876449585,
+  "sols": 4286,
+  "solver_time": 2.689999999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_minion_30279": {
+  "freq sols": -1,
+  "sr_time": 49.83102536201477,
+  "sols": 96,
+  "solver_time": 18.347044999999994
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_10_glucose_61739": {
+  "freq sols": -1,
+  "sr_time": 44.65813851356506,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__german_30_minion_17758": {
+  "freq sols": -1,
+  "sr_time": 2797.216032266617,
+  "sols": 144,
+  "solver_time": 2696.0139599999998
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_30_glucose_90834": {
+  "freq sols": -1,
+  "sr_time": 42.89221954345703,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__aus_20_nbc_84178": {
+  "freq sols": -1,
+  "sr_time": 9409.629814863205,
+  "sols": 4312,
+  "solver_time": 932.7
+ },
+ "hu_closed_cost_util_freqmining__krvskp_40_nbc_12922": {
+  "freq sols": -1,
+  "sr_time": 3336.2131242752075,
+  "sols": 1035,
+  "solver_time": 7655.308999999999
+ },
+ "hu_closed_cost_util_freqmining__aus_30_nbc_7976": {
+  "freq sols": -1,
+  "sr_time": 3421.781553030014,
+  "sols": 9566,
+  "solver_time": 5161.605439999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_minion_48434": {
+  "freq sols": -1,
+  "sr_time": 11314.877316236496,
+  "sols": 601,
+  "solver_time": 11011.80012
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_40_glucose_55527": {
+  "freq sols": -1,
+  "sr_time": 11.066529273986816,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__zoo_50_nbc_11797": {
+  "freq sols": -1,
+  "sr_time": 24.244321584701538,
+  "sols": 7,
+  "solver_time": 0.01
+ },
+ "hu_gen_fis__heart_30_nbc_40213": {
+  "freq sols": -1,
+  "sr_time": 254.21355414390564,
+  "sols": 21,
+  "solver_time": 225.11999999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_nbc_59810": {
+  "freq sols": -1,
+  "sr_time": 11.769104719161987,
+  "sols": 80,
+  "solver_time": 1.2400000000000009
+ },
+ "hu_closed_cost_util_freqmining__zoo_50_minion_91746": {
+  "freq sols": -1,
+  "sr_time": 6.54153299331665,
+  "sols": 7,
+  "solver_time": 0.45543199999999995
+ },
+ "hu_gen_fis_noincomp__hepatit_10_glucose_46354": {
+  "freq sols": -1,
+  "sr_time": 12.138786315917969,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_glucose_82931": {
+  "freq sols": -1,
+  "sr_time": 19.685973405838013,
+  "sols": 0,
+  "solver_time": 3.38322
+ },
+ "hu_gen_fis__anneal_40_nbc_51055": {
+  "freq sols": -1,
+  "sr_time": 32.31768608093262,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__audio_30_nbc_49355": {
+  "freq sols": -1,
+  "sr_time": 93.34632110595703,
+  "sols": 7357,
+  "solver_time": 17.57999999999999
+ },
+ "hu_gen_fis_noincomp__vote_20_minion_60110": {
+  "freq sols": -1,
+  "sr_time": 17369.40753173828,
+  "sols": 2983,
+  "solver_time": 8590.080555000006
+ },
+ "hu_gen_fis_noincomp__lymph_20_glucose_15685": {
+  "freq sols": -1,
+  "sr_time": 11.800260066986084,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_nbc_7205": {
+  "freq sols": -1,
+  "sr_time": 324.7877941131592,
+  "sols": 369,
+  "solver_time": 163.85999999999996
+ },
+ "hu_gen_fis__hepatit_10_nbc_80915": {
+  "freq sols": -1,
+  "sr_time": 106.96502470970154,
+  "sols": 4643,
+  "solver_time": 64.11999999999999
+ },
+ "hu_gen_fis_noincomp__zoo_30_minion_28164": {
+  "freq sols": -1,
+  "sr_time": 795.1697125434875,
+  "sols": 1132,
+  "solver_time": 732.0448139999996
+ },
+ "hu_gen_fis_noincomp__lymph_20_glucose_79979": {
+  "freq sols": -1,
+  "sr_time": 16.99323296546936,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_50_glucose_86430": {
+  "freq sols": -1,
+  "sr_time": 54.33380055427551,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_40_glucose_67381": {
+  "freq sols": -1,
+  "sr_time": 11.351145267486572,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__tumor_20_nbc_68771": {
+  "freq sols": -1,
+  "sr_time": 40.51690196990967,
+  "sols": 1998,
+  "solver_time": 10.75
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_30_glucose_48852": {
+  "freq sols": -1,
+  "sr_time": 36.42108511924744,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__audio_50_nbc_92684": {
+  "freq sols": -1,
+  "sr_time": 3781.9454011917114,
+  "sols": 278407,
+  "solver_time": 1914.4300000000005
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_20_nbc_52417": {
+  "freq sols": -1,
+  "sr_time": 14008.478541612625,
+  "sols": 127,
+  "solver_time": 13506.97
+ },
+ "hu_closed_cost_util_freqmining__german_40_nbc_50333": {
+  "freq sols": -1,
+  "sr_time": 388.8878026008606,
+  "sols": 1969,
+  "solver_time": 293.8400000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_minion_39462": {
+  "freq sols": -1,
+  "sr_time": 4.47277307510376,
+  "sols": 0,
+  "solver_time": 0.025036
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_20_glucose_59553": {
+  "freq sols": -1,
+  "sr_time": 14280.581651449203,
+  "sols": 168,
+  "solver_time": 13568.242199999997
+ },
+ "hu_closed_cost_util_freqmining__hypo_50_nbc_69306": {
+  "freq sols": -1,
+  "sr_time": 2399.5583028793335,
+  "sols": 1342,
+  "solver_time": 2170.2100000000005
+ },
+ "hu_gen_fis__german_50_nbc_33812": {
+  "freq sols": -1,
+  "sr_time": 171.46040391921997,
+  "sols": 398,
+  "solver_time": 84.60000000000002
+ },
+ "hu_gen_fis_noincomp__zoo_20_glucose_20724": {
+  "freq sols": -1,
+  "sr_time": 3265.1235649585724,
+  "sols": 5759,
+  "solver_time": 528.9052640000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_30_glucose_25376": {
+  "freq sols": -1,
+  "sr_time": 21.15353560447693,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_50_nbc_35694": {
+  "freq sols": -1,
+  "sr_time": 28.44832181930542,
+  "sols": 1492,
+  "solver_time": 1.7999999999999998
+ },
+ "hu_closed_cost_util_freqmining__zoo_50_nbc_59089": {
+  "freq sols": -1,
+  "sr_time": 6.968331813812256,
+  "sols": 7,
+  "solver_time": 0.04
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_glucose_62788": {
+  "freq sols": -1,
+  "sr_time": 13.4168062210083,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__krvskp_50_nbc_52130": {
+  "freq sols": -1,
+  "sr_time": 1839.7011015415192,
+  "sols": 427,
+  "solver_time": 1625.8999999999999
+ },
+ "hu_closed_cost_util_freqmining__hypo_40_nbc_30118": {
+  "freq sols": -1,
+  "sr_time": 3932.004422903061,
+  "sols": 1629,
+  "solver_time": 5330.18
+ },
+ "hu_gen_fis_noincomp__hypo_20_glucose_88716": {
+  "freq sols": -1,
+  "sr_time": 5959.449273109436,
+  "sols": 75,
+  "solver_time": 5488.154399999999
+ },
+ "hu_gen_fis_noincomp__german_40_glucose_10295": {
+  "freq sols": -1,
+  "sr_time": 69.57123565673828,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_minion_58809": {
+  "freq sols": -1,
+  "sr_time": 467.7601890563965,
+  "sols": 268,
+  "solver_time": 415.55672099999987
+ },
+ "hu_closed_cost_util_freqmining__hypo_20_nbc_85281": {
+  "freq sols": -1,
+  "sr_time": 7622.111750125885,
+  "sols": 39,
+  "solver_time": 2311.4700000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_glucose_11920": {
+  "freq sols": -1,
+  "sr_time": 4.798533201217651,
+  "sols": 0,
+  "solver_time": 0.001114
+ },
+ "hu_gen_fis_noincomp__tumor_40_minion_39489": {
+  "freq sols": -1,
+  "sr_time": 156.5903127193451,
+  "sols": 310,
+  "solver_time": 119.09014299999997
+ },
+ "hu_gen_fis_noincomp__heart_10_glucose_44012": {
+  "freq sols": -1,
+  "sr_time": 22.34469175338745,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__anneal_30_nbc_75933": {
+  "freq sols": -1,
+  "sr_time": 29.701361894607544,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__krvskp_40_minion_62089": {
+  "freq sols": -1,
+  "sr_time": 10364.497311592102,
+  "sols": 1035,
+  "solver_time": 8362.692879999999
+ },
+ "hu_gen_fis__hepatit_40_nbc_76480": {
+  "freq sols": -1,
+  "sr_time": 81.24509596824646,
+  "sols": 9231,
+  "solver_time": 23.030000000000005
+ },
+ "hu_gen_fis_noincomp__lymph_50_glucose_41425": {
+  "freq sols": -1,
+  "sr_time": 11.122896194458008,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_30_minion_15424": {
+  "freq sols": -1,
+  "sr_time": 5234.754011392593,
+  "sols": 21,
+  "solver_time": 5123.232362000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_nbc_68870": {
+  "freq sols": -1,
+  "sr_time": 359.9873676300049,
+  "sols": 268,
+  "solver_time": 310.74999999999983
+ },
+ "hu_closed_cost_util_freqmining__hypo_30_nbc_70508": {
+  "freq sols": -1,
+  "sr_time": 6716.863933563232,
+  "sols": 2748,
+  "solver_time": 7000.219999999999
+ },
+ "hu_gen_fis__lymph_30_nbc_6358": {
+  "freq sols": -1,
+  "sr_time": 71.34380054473877,
+  "sols": 9811,
+  "solver_time": 15.660000000000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_30_glucose_21044": {
+  "freq sols": -1,
+  "sr_time": 20.417627811431885,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_40_glucose_94190": {
+  "freq sols": -1,
+  "sr_time": 5991.130332946777,
+  "sols": 7374,
+  "solver_time": 1871.9831429999983
+ },
+ "hu_closed_cost_util_freqmining__aus_40_nbc_69254": {
+  "freq sols": -1,
+  "sr_time": 1022.424286365509,
+  "sols": 4474,
+  "solver_time": 2019.09
+ },
+ "hu_gen_fis__lymph_30_nbc_10744": {
+  "freq sols": -1,
+  "sr_time": 67.53482103347778,
+  "sols": 9811,
+  "solver_time": 14.450000000000003
+ },
+ "hu_gen_fis_noincomp__hepatit_10_glucose_67002": {
+  "freq sols": -1,
+  "sr_time": 9938.307559490204,
+  "sols": 6127,
+  "solver_time": 1774.1367379999997
+ },
+ "hu_gen_fis_noincomp__heart_10_glucose_66500": {
+  "freq sols": -1,
+  "sr_time": 22.244264841079712,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_20_glucose_69347": {
+  "freq sols": -1,
+  "sr_time": 23.28780746459961,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_30_glucose_98873": {
+  "freq sols": -1,
+  "sr_time": 133.61529278755188,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_30_glucose_96613": {
+  "freq sols": -1,
+  "sr_time": 933.3597803115845,
+  "sols": 1211,
+  "solver_time": 849.3657250000006
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_50_glucose_61536": {
+  "freq sols": -1,
+  "sr_time": 132.0027871131897,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_10_glucose_33189": {
+  "freq sols": -1,
+  "sr_time": 12.705522537231445,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_50_glucose_29718": {
+  "freq sols": -1,
+  "sr_time": 15.128276824951172,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__german_20_nbc_96636": {
+  "freq sols": -1,
+  "sr_time": 1099.106736421585,
+  "sols": 4,
+  "solver_time": 2178.956999999999
+ },
+ "hu_gen_fis__tumor_50_nbc_6127": {
+  "freq sols": -1,
+  "sr_time": 16.436209678649902,
+  "sols": 61,
+  "solver_time": 1.4000000000000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_40_glucose_39365": {
+  "freq sols": -1,
+  "sr_time": 1993.9813504219055,
+  "sols": 8125,
+  "solver_time": 1692.3794499999954
+ },
+ "hu_gen_fis__german_20_nbc_17696": {
+  "freq sols": -1,
+  "sr_time": 1151.6168253421783,
+  "sols": 6,
+  "solver_time": 1075.5999999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_glucose_22882": {
+  "freq sols": -1,
+  "sr_time": 19.88779616355896,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_glucose_4802": {
+  "freq sols": -1,
+  "sr_time": 11.93458366394043,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_40_glucose_51149": {
+  "freq sols": -1,
+  "sr_time": 20.46307635307312,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__tumor_30_nbc_48678": {
+  "freq sols": -1,
+  "sr_time": 32.35314917564392,
+  "sols": 1191,
+  "solver_time": 6.49
+ },
+ "hu_closed_cost_util_freqmining__german_40_minion_66482": {
+  "freq sols": -1,
+  "sr_time": 604.5705254077911,
+  "sols": 1969,
+  "solver_time": 734.6712900000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_minion_20113": {
+  "freq sols": -1,
+  "sr_time": 207.8725459575653,
+  "sols": 310,
+  "solver_time": 134.24371200000004
+ },
+ "hu_gen_fis_noincomp__german_10_glucose_92495": {
+  "freq sols": -1,
+  "sr_time": 65.5617048740387,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_nbc_53712": {
+  "freq sols": -1,
+  "sr_time": 461.74081015586853,
+  "sols": 446,
+  "solver_time": 109.89999999999999
+ },
+ "hu_gen_fis_noincomp__hepatit_10_glucose_30011": {
+  "freq sols": -1,
+  "sr_time": 11.888131380081177,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_10_glucose_65421": {
+  "freq sols": -1,
+  "sr_time": 20.06361675262451,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__vote_20_nbc_84916": {
+  "freq sols": -1,
+  "sr_time": 84.13672852516174,
+  "sols": 2983,
+  "solver_time": 34.32
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_40_glucose_9893": {
+  "freq sols": -1,
+  "sr_time": 132.33882355690002,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__zoo_40_nbc_86144": {
+  "freq sols": -1,
+  "sr_time": 27.27568006515503,
+  "sols": 43,
+  "solver_time": 0.13
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_40_glucose_9041": {
+  "freq sols": -1,
+  "sr_time": 9300.440992832184,
+  "sols": 8051,
+  "solver_time": 8933.273692999986
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_glucose_48723": {
+  "freq sols": -1,
+  "sr_time": 838.42333984375,
+  "sols": 387,
+  "solver_time": 539.4191659999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_glucose_49321": {
+  "freq sols": -1,
+  "sr_time": 870.4849035739899,
+  "sols": 4805,
+  "solver_time": 678.6428759999994
+ },
+ "hu_gen_fis__hypo_20_nbc_81806": {
+  "freq sols": -1,
+  "sr_time": 7261.999947309494,
+  "sols": 47,
+  "solver_time": 19686.920000000013
+ },
+ "hu_gen_fis_noincomp__tumor_50_minion_88834": {
+  "freq sols": -1,
+  "sr_time": 39.85446000099182,
+  "sols": 61,
+  "solver_time": 17.626730000000002
+ },
+ "hu_gen_fis_noincomp__german_10_glucose_85191": {
+  "freq sols": -1,
+  "sr_time": 66.24177622795105,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_40_glucose_60007": {
+  "freq sols": -1,
+  "sr_time": 2477.896945476532,
+  "sols": 3660,
+  "solver_time": 2290.333116999999
+ },
+ "hu_gen_fis_noincomp__anneal_30_minion_95106": {
+  "freq sols": -1,
+  "sr_time": 30.223817825317383,
+  "sols": 0,
+  "solver_time": 0.610745
+ },
+ "hu_gen_fis__hypo_50_nbc_28258": {
+  "freq sols": -1,
+  "sr_time": 5551.566676855087,
+  "sols": 20634,
+  "solver_time": 4979.859999999999
+ },
+ "hu_gen_fis_noincomp__aus_40_glucose_24167": {
+  "freq sols": -1,
+  "sr_time": 495.73680567741394,
+  "sols": 21,
+  "solver_time": 439.94679
+ },
+ "hu_gen_fis__aus_20_nbc_49398": {
+  "freq sols": -1,
+  "sr_time": 3997.3580498695374,
+  "sols": 5,
+  "solver_time": 3870.4300000000003
+ },
+ "hu_gen_fis_noincomp__lymph_50_glucose_78241": {
+  "freq sols": -1,
+  "sr_time": 950.0136723518372,
+  "sols": 2355,
+  "solver_time": 309.0712089999996
+ },
+ "hu_gen_fis__aus_10_nbc_14921": {
+  "freq sols": -1,
+  "sr_time": 13593.116796255112,
+  "sols": 8912,
+  "solver_time": 26466.600000000002
+ },
+ "hu_gen_fis_noincomp__anneal_40_glucose_57777": {
+  "freq sols": -1,
+  "sr_time": 29.209381341934204,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_glucose_4870": {
+  "freq sols": -1,
+  "sr_time": 428.15920424461365,
+  "sols": 6,
+  "solver_time": 360.5631
+ },
+ "hu_gen_fis__krvskp_30_nbc_65552": {
+  "freq sols": -1,
+  "sr_time": 4453.836985588074,
+  "sols": 166,
+  "solver_time": 4237.219999999998
+ },
+ "hu_gen_fis__zoo_20_nbc_18566": {
+  "freq sols": -1,
+  "sr_time": 23.664329528808594,
+  "sols": 4286,
+  "solver_time": 2.3799999999999994
+ },
+ "hu_gen_fis__hepatit_30_minion_33453": {
+  "freq sols": -1,
+  "sr_time": 557.3479557037354,
+  "sols": 586,
+  "solver_time": 522.2110720000001
+ },
+ "hu_gen_fis_noincomp__lymph_30_glucose_80642": {
+  "freq sols": -1,
+  "sr_time": 6700.030374288559,
+  "sols": 14899,
+  "solver_time": 6201.875977000032
+ },
+ "hu_gen_fis__krvskp_40_minion_77945": {
+  "freq sols": -1,
+  "sr_time": 11529.618055343628,
+  "sols": 1230,
+  "solver_time": 11350.614470000002
+ },
+ "hu_gen_fis_noincomp__hepatit_40_glucose_66170": {
+  "freq sols": -1,
+  "sr_time": 7293.522178649902,
+  "sols": 12433,
+  "solver_time": 6900.826277999976
+ },
+ "hu_gen_fis_noincomp__tumor_50_glucose_11481": {
+  "freq sols": -1,
+  "sr_time": 13.114602327346802,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_50_glucose_75578": {
+  "freq sols": -1,
+  "sr_time": 19.621336936950684,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_10_minion_51415": {
+  "freq sols": -1,
+  "sr_time": 73.7200345993042,
+  "sols": 3812,
+  "solver_time": 48.87984699999999
+ },
+ "hu_gen_fis_noincomp__audio_20_glucose_18882": {
+  "freq sols": -1,
+  "sr_time": 21.622668981552124,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_glucose_56269": {
+  "freq sols": -1,
+  "sr_time": 39.00432634353638,
+  "sols": 61,
+  "solver_time": 21.225757999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_nbc_75942": {
+  "freq sols": -1,
+  "sr_time": 22.311818838119507,
+  "sols": 5,
+  "solver_time": 1.3199999999999998
+ },
+ "hu_closed_cost_util_freqmining__tumor_50_nbc_30101": {
+  "freq sols": -1,
+  "sr_time": 28.47375774383545,
+  "sols": 61,
+  "solver_time": 1.09
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_20_glucose_74200": {
+  "freq sols": -1,
+  "sr_time": 37.03124928474426,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_10_glucose_24022": {
+  "freq sols": -1,
+  "sr_time": 148.00225687026978,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_30_glucose_61379": {
+  "freq sols": -1,
+  "sr_time": 11.37382984161377,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__anneal_10_nbc_3658": {
+  "freq sols": -1,
+  "sr_time": 356.14689087867737,
+  "sols": 886,
+  "solver_time": 280.92
+ },
+ "hu_gen_fis_noincomp__german_20_glucose_44846": {
+  "freq sols": -1,
+  "sr_time": 481.78784370422363,
+  "sols": 9,
+  "solver_time": 412.74949999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_glucose_32922": {
+  "freq sols": -1,
+  "sr_time": 10.520763158798218,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_50_glucose_47182": {
+  "freq sols": -1,
+  "sr_time": 19.934815406799316,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_20_glucose_40526": {
+  "freq sols": -1,
+  "sr_time": 37.38904404640198,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_10_glucose_10253": {
+  "freq sols": -1,
+  "sr_time": 15516.006825685501,
+  "sols": 6421,
+  "solver_time": 11583.039289999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_minion_67562": {
+  "freq sols": -1,
+  "sr_time": 40.47242450714111,
+  "sols": 61,
+  "solver_time": 17.529025999999998
+ },
+ "hu_gen_fis_noincomp__heart_10_minion_12093": {
+  "freq sols": -1,
+  "sr_time": 0.9294662475585938,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_40_glucose_19280": {
+  "freq sols": -1,
+  "sr_time": 517.7837753295898,
+  "sols": 21,
+  "solver_time": 462.56007000000005
+ },
+ "hu_closed_cost_util_freqmining__german_10_nbc_59747": {
+  "freq sols": -1,
+  "sr_time": 7467.365476369858,
+  "sols": 5581,
+  "solver_time": 13651.569789999998
+ },
+ "hu_gen_fis_noincomp__hepatit_40_glucose_95784": {
+  "freq sols": -1,
+  "sr_time": 9.775757074356079,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_50_glucose_27352": {
+  "freq sols": -1,
+  "sr_time": 6.356229782104492,
+  "sols": 7,
+  "solver_time": 0.14973199999999998
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_30_nbc_20857": {
+  "freq sols": -1,
+  "sr_time": 3414.59729719162,
+  "sols": 9541,
+  "solver_time": 2922.8100000000804
+ },
+ "hu_closed_cost_util_freqmining__hepatit_10_nbc_84393": {
+  "freq sols": -1,
+  "sr_time": 120.13620233535767,
+  "sols": 3166,
+  "solver_time": 82.73
+ },
+ "hu_gen_fis_noincomp__tumor_50_glucose_11193": {
+  "freq sols": -1,
+  "sr_time": 38.93235540390015,
+  "sols": 61,
+  "solver_time": 22.491962
+ },
+ "hu_gen_fis_noincomp__zoo_50_glucose_34922": {
+  "freq sols": -1,
+  "sr_time": 6.786688566207886,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__german_40_nbc_90255": {
+  "freq sols": -1,
+  "sr_time": 459.56603264808655,
+  "sols": 2338,
+  "solver_time": 355.53000000000003
+ },
+ "hu_gen_fis_noincomp__tumor_10_glucose_52921": {
+  "freq sols": -1,
+  "sr_time": 8.73171067237854,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_50_nbc_23687": {
+  "freq sols": -1,
+  "sr_time": 7.200713872909546,
+  "sols": 7,
+  "solver_time": 0.02
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_glucose_86643": {
+  "freq sols": -1,
+  "sr_time": 10.827357292175293,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_10_glucose_72925": {
+  "freq sols": -1,
+  "sr_time": 151.57548928260803,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_50_nbc_25169": {
+  "freq sols": -1,
+  "sr_time": 53.84195017814636,
+  "sols": 3610,
+  "solver_time": 9.499999999999993
+ },
+ "hu_gen_fis__krvskp_30_nbc_48019": {
+  "freq sols": -1,
+  "sr_time": 5726.489016294479,
+  "sols": 166,
+  "solver_time": 5412.379999999999
+ },
+ "hu_closed_cost_util_freqmining__german_40_nbc_39446": {
+  "freq sols": -1,
+  "sr_time": 461.61481380462646,
+  "sols": 1969,
+  "solver_time": 382.02416999999997
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_50_glucose_10556": {
+  "freq sols": -1,
+  "sr_time": 49.06950116157532,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_glucose_97291": {
+  "freq sols": -1,
+  "sr_time": 10.633845567703247,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_30_glucose_31049": {
+  "freq sols": -1,
+  "sr_time": 144.78516173362732,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_30_nbc_53883": {
+  "freq sols": -1,
+  "sr_time": 339.2932095527649,
+  "sols": 21,
+  "solver_time": 297.88000000000005
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_30_glucose_51544": {
+  "freq sols": -1,
+  "sr_time": 138.31650376319885,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_30_glucose_16527": {
+  "freq sols": -1,
+  "sr_time": 678.1321160793304,
+  "sols": 803,
+  "solver_time": 627.8975200000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_glucose_60070": {
+  "freq sols": -1,
+  "sr_time": 1266.1965034008026,
+  "sols": 7765,
+  "solver_time": 1070.424502
+ },
+ "hu_gen_fis_noincomp__tumor_30_glucose_99278": {
+  "freq sols": -1,
+  "sr_time": 1425.7281312942505,
+  "sols": 1211,
+  "solver_time": 809.6519099999994
+ },
+ "hu_gen_fis__anneal_50_nbc_83498": {
+  "freq sols": -1,
+  "sr_time": 768.1865906715393,
+  "sols": 46920,
+  "solver_time": 477.97
+ },
+ "hu_gen_fis__lymph_10_nbc_88101": {
+  "freq sols": -1,
+  "sr_time": 62.83604168891907,
+  "sols": 2391,
+  "solver_time": 21.070000000000004
+ },
+ "hu_gen_fis_noincomp__tumor_10_glucose_95574": {
+  "freq sols": -1,
+  "sr_time": 7.940521240234375,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__vote_30_nbc_54255": {
+  "freq sols": -1,
+  "sr_time": 189.54820227622986,
+  "sols": 34548,
+  "solver_time": 75.14
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_glucose_84066": {
+  "freq sols": -1,
+  "sr_time": 1367.685450553894,
+  "sols": 500,
+  "solver_time": 969.700380999999
+ },
+ "hu_gen_fis_noincomp__anneal_10_glucose_66017": {
+  "freq sols": -1,
+  "sr_time": 40.710347175598145,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_50_glucose_56912": {
+  "freq sols": -1,
+  "sr_time": 6.006569147109985,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_nbc_19146": {
+  "freq sols": -1,
+  "sr_time": 16226.852518320084,
+  "sols": 15994,
+  "solver_time": 2292.650000000076
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_10_glucose_52461": {
+  "freq sols": -1,
+  "sr_time": 11.156264066696167,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__tumor_10_nbc_54683": {
+  "freq sols": -1,
+  "sr_time": 8.915309429168701,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_20_nbc_74394": {
+  "freq sols": -1,
+  "sr_time": 92.66583132743835,
+  "sols": 12996,
+  "solver_time": 29.310000000000002
+ },
+ "hu_gen_fis_noincomp__hepatit_40_glucose_92031": {
+  "freq sols": -1,
+  "sr_time": 7517.535679101944,
+  "sols": 12433,
+  "solver_time": 10988.862162000009
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_minion_19328": {
+  "freq sols": -1,
+  "sr_time": 31.454509735107422,
+  "sols": 96,
+  "solver_time": 19.569027000000006
+ },
+ "hu_gen_fis_noincomp__lymph_50_glucose_93087": {
+  "freq sols": -1,
+  "sr_time": 403.366197347641,
+  "sols": 2355,
+  "solver_time": 313.68198100000006
+ },
+ "hu_gen_fis_noincomp__heart_50_glucose_11828": {
+  "freq sols": -1,
+  "sr_time": 1573.056949853897,
+  "sols": 591,
+  "solver_time": 1488.8741380000015
+ },
+ "hu_gen_fis__krvskp_30_nbc_65941": {
+  "freq sols": -1,
+  "sr_time": 4719.95003080368,
+  "sols": 166,
+  "solver_time": 8063.289999999999
+ },
+ "hu_closed_cost_util_freqmining__anneal_10_nbc_29806": {
+  "freq sols": -1,
+  "sr_time": 1239.0972921848297,
+  "sols": 8788,
+  "solver_time": 322.19146999999987
+ },
+ "hu_gen_fis_noincomp__vote_40_glucose_71405": {
+  "freq sols": -1,
+  "sr_time": 20.12173056602478,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hepatit_30_nbc_54843": {
+  "freq sols": -1,
+  "sr_time": 39.69015049934387,
+  "sols": 72,
+  "solver_time": 16.770000000000003
+ },
+ "hu_closed_cost_util_freqmining__krvskp_30_nbc_69383": {
+  "freq sols": -1,
+  "sr_time": 7306.631712913513,
+  "sols": 4371,
+  "solver_time": 14109.789999999997
+ },
+ "hu_gen_fis_noincomp__vote_30_glucose_34039": {
+  "freq sols": -1,
+  "sr_time": 533.0248818397522,
+  "sols": 268,
+  "solver_time": 336.6352990000001
+ },
+ "hu_gen_fis__tumor_10_nbc_94118": {
+  "freq sols": -1,
+  "sr_time": 8.85347318649292,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_50_nbc_86406": {
+  "freq sols": -1,
+  "sr_time": 10220.23020863533,
+  "sols": 8314,
+  "solver_time": 3427.910000000006
+ },
+ "hu_gen_fis__vote_20_nbc_84465": {
+  "freq sols": -1,
+  "sr_time": 77.08268427848816,
+  "sols": 2983,
+  "solver_time": 32.07
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_glucose_72724": {
+  "freq sols": -1,
+  "sr_time": 1331.754695892334,
+  "sols": 7765,
+  "solver_time": 1064.146194
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_20_glucose_86626": {
+  "freq sols": -1,
+  "sr_time": 20.027746438980103,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_10_glucose_34438": {
+  "freq sols": -1,
+  "sr_time": 8.565377950668335,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_glucose_84843": {
+  "freq sols": -1,
+  "sr_time": 10.058281421661377,
+  "sols": 7,
+  "solver_time": 0.15703899999999998
+ },
+ "hu_gen_fis_noincomp__heart_50_glucose_67535": {
+  "freq sols": -1,
+  "sr_time": 1608.5457384586334,
+  "sols": 591,
+  "solver_time": 1251.868147999999
+ },
+ "hu_gen_fis__vote_40_nbc_33534": {
+  "freq sols": -1,
+  "sr_time": 28.184964418411255,
+  "sols": 5,
+  "solver_time": 4.57
+ },
+ "hu_gen_fis__aus_40_nbc_71452": {
+  "freq sols": -1,
+  "sr_time": 723.3471117019653,
+  "sols": 18,
+  "solver_time": 664.3000000000002
+ },
+ "hu_gen_fis__krvskp_50_nbc_86261": {
+  "freq sols": -1,
+  "sr_time": 1584.6900577545166,
+  "sols": 427,
+  "solver_time": 1379.9500000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_40_glucose_98367": {
+  "freq sols": -1,
+  "sr_time": 11.51447582244873,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__vote_40_nbc_74600": {
+  "freq sols": -1,
+  "sr_time": 28.179736852645874,
+  "sols": 5,
+  "solver_time": 5.470000000000002
+ },
+ "hu_gen_fis_noincomp__krvskp_20_glucose_91443": {
+  "freq sols": -1,
+  "sr_time": 357.09153294563293,
+  "sols": 0,
+  "solver_time": 214.43
+ },
+ "hu_gen_fis_noincomp__lymph_40_glucose_96230": {
+  "freq sols": -1,
+  "sr_time": 11.183327436447144,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_30_nbc_96550": {
+  "freq sols": -1,
+  "sr_time": 4808.433845996857,
+  "sols": 13039,
+  "solver_time": 4239.080000000105
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_10_glucose_65896": {
+  "freq sols": -1,
+  "sr_time": 149.42970418930054,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__audio_50_nbc_62642": {
+  "freq sols": -1,
+  "sr_time": 109.34147310256958,
+  "sols": 6699,
+  "solver_time": 27.08
+ },
+ "hu_closed_cost_util_freqmining__zoo_10_nbc_63521": {
+  "freq sols": -1,
+  "sr_time": 4.7987024784088135,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_20_glucose_99128": {
+  "freq sols": -1,
+  "sr_time": 11.423493385314941,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_glucose_2283": {
+  "freq sols": -1,
+  "sr_time": 13.617770433425903,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hypo_50_nbc_18726": {
+  "freq sols": -1,
+  "sr_time": 3191.1238584518433,
+  "sols": 1342,
+  "solver_time": 5385.699999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_10_glucose_84823": {
+  "freq sols": -1,
+  "sr_time": 143.60883140563965,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_30_glucose_579": {
+  "freq sols": -1,
+  "sr_time": 141.02700972557068,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__anneal_20_nbc_17953": {
+  "freq sols": -1,
+  "sr_time": 8457.286056041718,
+  "sols": 404735,
+  "solver_time": 11651.36
+ },
+ "hu_gen_fis_noincomp__krvskp_10_glucose_36390": {
+  "freq sols": -1,
+  "sr_time": 148.10755848884583,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_30_nbc_65925": {
+  "freq sols": -1,
+  "sr_time": 76.30936694145203,
+  "sols": 9811,
+  "solver_time": 15.279999999999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_glucose_27749": {
+  "freq sols": -1,
+  "sr_time": 6.022161245346069,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_40_glucose_12160": {
+  "freq sols": -1,
+  "sr_time": 6.716183423995972,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__audio_30_nbc_89834": {
+  "freq sols": -1,
+  "sr_time": 103.62270021438599,
+  "sols": 5793,
+  "solver_time": 22.610000000000003
+ },
+ "hu_gen_fis__german_10_nbc_17558": {
+  "freq sols": -1,
+  "sr_time": 5899.748426914215,
+  "sols": 8589,
+  "solver_time": 7944.27
+ },
+ "hu_closed_cost_util_freqmining__vote_30_nbc_18339": {
+  "freq sols": -1,
+  "sr_time": 36.779242753982544,
+  "sols": 268,
+  "solver_time": 10.81
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_20_glucose_89873": {
+  "freq sols": -1,
+  "sr_time": 11.641196012496948,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_30_glucose_8593": {
+  "freq sols": -1,
+  "sr_time": 42.83066654205322,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_10_glucose_30755": {
+  "freq sols": -1,
+  "sr_time": 12.377769231796265,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__german_20_glucose_25893": {
+  "freq sols": -1,
+  "sr_time": 67.55613160133362,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_20_nbc_18254": {
+  "freq sols": -1,
+  "sr_time": 99.09424448013306,
+  "sols": 12996,
+  "solver_time": 30.29
+ },
+ "hu_gen_fis_noincomp__hepatit_20_glucose_45821": {
+  "freq sols": -1,
+  "sr_time": 6859.645069599152,
+  "sols": 2629,
+  "solver_time": 5494.268848000012
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_10_glucose_59160": {
+  "freq sols": -1,
+  "sr_time": 21.62936282157898,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_30_glucose_32380": {
+  "freq sols": -1,
+  "sr_time": 46.77370643615723,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_30_glucose_8480": {
+  "freq sols": -1,
+  "sr_time": 131.58850145339966,
+  "sols": 1530,
+  "solver_time": 88.629443
+ },
+ "hu_minimal_rare_fis__audio_20_nbc_52111": {
+  "freq sols": -1,
+  "sr_time": 99.67596364021301,
+  "sols": 5793,
+  "solver_time": 23.32
+ },
+ "hu_gen_fis_noincomp__zoo_20_glucose_60734": {
+  "freq sols": -1,
+  "sr_time": 721.2013986110687,
+  "sols": 5759,
+  "solver_time": 578.5844449999998
+ },
+ "hu_gen_fis_noincomp__heart_50_minion_94503": {
+  "freq sols": -1,
+  "sr_time": 3562.1048724651337,
+  "sols": 527,
+  "solver_time": 3394.1096799999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_glucose_76067": {
+  "freq sols": -1,
+  "sr_time": 12.286507606506348,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_30_glucose_87392": {
+  "freq sols": -1,
+  "sr_time": 878.2341527938843,
+  "sols": 1530,
+  "solver_time": 82.92175900000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_nbc_7477": {
+  "freq sols": -1,
+  "sr_time": 138.8551309108734,
+  "sols": 139,
+  "solver_time": 75.62999999999998
+ },
+ "hu_closed_cost_util_freqmining__tumor_40_nbc_10465": {
+  "freq sols": -1,
+  "sr_time": 23.100539922714233,
+  "sols": 310,
+  "solver_time": 2.4
+ },
+ "hu_gen_fis_noincomp__tumor_30_minion_92106": {
+  "freq sols": -1,
+  "sr_time": 1523.2046236991882,
+  "sols": 1191,
+  "solver_time": 1304.2307269999992
+ },
+ "hu_gen_fis__lymph_20_nbc_34057": {
+  "freq sols": -1,
+  "sr_time": 98.19058442115784,
+  "sols": 12996,
+  "solver_time": 30.89
+ },
+ "hu_gen_fis__hepatit_50_nbc_68984": {
+  "freq sols": -1,
+  "sr_time": 43.80987524986267,
+  "sols": 3610,
+  "solver_time": 8.849999999999994
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_glucose_44480": {
+  "freq sols": -1,
+  "sr_time": 65.62832355499268,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_50_glucose_3031": {
+  "freq sols": -1,
+  "sr_time": 34.73331046104431,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_10_glucose_65211": {
+  "freq sols": -1,
+  "sr_time": 11.334380388259888,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__german_20_nbc_35748": {
+  "freq sols": -1,
+  "sr_time": 1136.6565597057343,
+  "sols": 6,
+  "solver_time": 2357.412
+ },
+ "hu_closed_cost_util_freqmining__aus_50_nbc_97705": {
+  "freq sols": -1,
+  "sr_time": 359.23979783058167,
+  "sols": 2093,
+  "solver_time": 269.2
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_nbc_19886": {
+  "freq sols": -1,
+  "sr_time": 702.1210007667542,
+  "sols": 544,
+  "solver_time": 627.7200000000003
+ },
+ "hu_gen_fis_noincomp__zoo_30_glucose_77257": {
+  "freq sols": -1,
+  "sr_time": 6.150482177734375,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__german_10_nbc_75938": {
+  "freq sols": -1,
+  "sr_time": 5832.334557533264,
+  "sols": 8589,
+  "solver_time": 5591.579999999999
+ },
+ "hu_gen_fis_noincomp__heart_30_glucose_95475": {
+  "freq sols": -1,
+  "sr_time": 21.258626699447632,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_20_nbc_85268": {
+  "freq sols": -1,
+  "sr_time": 84.00148820877075,
+  "sols": 1819,
+  "solver_time": 37.240000000000016
+ },
+ "hu_gen_fis_noincomp__tumor_20_glucose_32046": {
+  "freq sols": -1,
+  "sr_time": 12.009764909744263,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__vote_10_minion_31896": {
+  "freq sols": -1,
+  "sr_time": 137.8800458908081,
+  "sols": 9962,
+  "solver_time": 88.887208
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_minion_75728": {
+  "freq sols": -1,
+  "sr_time": 226.7235813140869,
+  "sols": 310,
+  "solver_time": 128.38631799999996
+ },
+ "hu_minimal_rare_fis__tumor_20_nbc_56954": {
+  "freq sols": -1,
+  "sr_time": 7.508422374725342,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_glucose_67891": {
+  "freq sols": -1,
+  "sr_time": 11.748769283294678,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_30_minion_76890": {
+  "freq sols": -1,
+  "sr_time": 884.4749758243561,
+  "sols": 1132,
+  "solver_time": 715.506541999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_40_glucose_81953": {
+  "freq sols": -1,
+  "sr_time": 20.304216384887695,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_30_glucose_17650": {
+  "freq sols": -1,
+  "sr_time": 20.14993166923523,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__zoo_10_nbc_59847": {
+  "freq sols": -1,
+  "sr_time": 4.844706296920776,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_glucose_86310": {
+  "freq sols": -1,
+  "sr_time": 19.288193464279175,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__krvskp_40_nbc_515": {
+  "freq sols": -1,
+  "sr_time": 3378.576706647873,
+  "sols": 1230,
+  "solver_time": 3133.73
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_glucose_68008": {
+  "freq sols": -1,
+  "sr_time": 6.418248176574707,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_10_glucose_33297": {
+  "freq sols": -1,
+  "sr_time": 4.6729302406311035,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_20_glucose_41264": {
+  "freq sols": -1,
+  "sr_time": 815.6566309928894,
+  "sols": 6,
+  "solver_time": 742.2071
+ },
+ "hu_minimal_rare_fis__zoo_40_nbc_63003": {
+  "freq sols": -1,
+  "sr_time": 93.96195864677429,
+  "sols": 48764,
+  "solver_time": 29.749999999999993
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_30_glucose_28873": {
+  "freq sols": -1,
+  "sr_time": 20.634490489959717,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_50_glucose_25051": {
+  "freq sols": -1,
+  "sr_time": 134.6785590648651,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__heart_30_glucose_97293": {
+  "freq sols": -1,
+  "sr_time": 22.449766397476196,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_40_glucose_85905": {
+  "freq sols": -1,
+  "sr_time": 26.786458253860474,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__heart_10_glucose_39538": {
+  "freq sols": -1,
+  "sr_time": 8274.619359731674,
+  "sols": 304,
+  "solver_time": 12859.873409999997
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_nbc_54640": {
+  "freq sols": -1,
+  "sr_time": 15.969499826431274,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__tumor_50_nbc_18443": {
+  "freq sols": -1,
+  "sr_time": 16.44840669631958,
+  "sols": 61,
+  "solver_time": 1.5100000000000005
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_40_glucose_22167": {
+  "freq sols": -1,
+  "sr_time": 54.27791953086853,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_40_nbc_67937": {
+  "freq sols": -1,
+  "sr_time": 31.233736276626587,
+  "sols": 310,
+  "solver_time": 2.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_nbc_13752": {
+  "freq sols": -1,
+  "sr_time": 857.125018119812,
+  "sols": 575,
+  "solver_time": 603.7400000000002
+ },
+ "hu_gen_fis__german_30_nbc_12529": {
+  "freq sols": -1,
+  "sr_time": 573.1768164634705,
+  "sols": 144,
+  "solver_time": 486.8300000000001
+ },
+ "hu_gen_fis_noincomp__lymph_50_minion_72465": {
+  "freq sols": -1,
+  "sr_time": 760.8853936195374,
+  "sols": 1044,
+  "solver_time": 516.0561549999999
+ },
+ "hu_gen_fis_noincomp__hepatit_50_minion_83788": {
+  "freq sols": -1,
+  "sr_time": 14970.363984584808,
+  "sols": 3610,
+  "solver_time": 13767.813016999997
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_40_glucose_95284": {
+  "freq sols": -1,
+  "sr_time": 11.04198408126831,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_40_nbc_19514": {
+  "freq sols": -1,
+  "sr_time": 226.85935306549072,
+  "sols": 4928,
+  "solver_time": 154.69999999999993
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_glucose_68733": {
+  "freq sols": -1,
+  "sr_time": 5420.866890192032,
+  "sols": 5099,
+  "solver_time": 2006.2672640000017
+ },
+ "hu_gen_fis_noincomp__zoo_10_glucose_49097": {
+  "freq sols": -1,
+  "sr_time": 5.129510164260864,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hepatit_10_nbc_61411": {
+  "freq sols": -1,
+  "sr_time": 131.0682430267334,
+  "sols": 3166,
+  "solver_time": 85.17999999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_10_glucose_99190": {
+  "freq sols": -1,
+  "sr_time": 20.60701847076416,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_glucose_71418": {
+  "freq sols": -1,
+  "sr_time": 1338.4992771148682,
+  "sols": 500,
+  "solver_time": 982.2922060000005
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_glucose_48743": {
+  "freq sols": -1,
+  "sr_time": 4838.0377361774445,
+  "sols": 3812,
+  "solver_time": 5144.563380000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_nbc_40430": {
+  "freq sols": -1,
+  "sr_time": 1377.0870451927185,
+  "sols": 1224,
+  "solver_time": 579.22
+ },
+ "hu_gen_fis__hypo_30_nbc_72103": {
+  "freq sols": -1,
+  "sr_time": 6575.70830821991,
+  "sols": 3222,
+  "solver_time": 6262.630000000001
+ },
+ "hu_gen_fis_noincomp__vote_30_glucose_35703": {
+  "freq sols": -1,
+  "sr_time": 20.38879895210266,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_20_glucose_13456": {
+  "freq sols": -1,
+  "sr_time": 15193.068516016006,
+  "sols": 168,
+  "solver_time": 14472.400300000003
+ },
+ "hu_closed_cost_util_freqmining__anneal_20_nbc_58798": {
+  "freq sols": -1,
+  "sr_time": 1358.5899541378021,
+  "sols": 6200,
+  "solver_time": 1252.45
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_20_glucose_8877": {
+  "freq sols": -1,
+  "sr_time": 143.85764718055725,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_nbc_45249": {
+  "freq sols": -1,
+  "sr_time": 56.16621136665344,
+  "sols": 61,
+  "solver_time": 4.97
+ },
+ "hu_gen_fis_noincomp__zoo_40_glucose_58537": {
+  "freq sols": -1,
+  "sr_time": 6.410563945770264,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__anneal_50_nbc_88749": {
+  "freq sols": -1,
+  "sr_time": 340.94970321655273,
+  "sols": 4436,
+  "solver_time": 261.9599999999999
+ },
+ "hu_gen_fis_noincomp__anneal_40_minion_31641": {
+  "freq sols": -1,
+  "sr_time": 27.889923095703125,
+  "sols": 0,
+  "solver_time": 0.580473
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_nbc_95138": {
+  "freq sols": -1,
+  "sr_time": 13612.657455921173,
+  "sols": 14239,
+  "solver_time": 5700.759999999985
+ },
+ "hu_closed_cost_util_freqmining__anneal_40_nbc_71052": {
+  "freq sols": -1,
+  "sr_time": 537.3976833820343,
+  "sols": 5519,
+  "solver_time": 450.38999999999993
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_10_glucose_72515": {
+  "freq sols": -1,
+  "sr_time": 10.724522113800049,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_30_glucose_33813": {
+  "freq sols": -1,
+  "sr_time": 36.51471471786499,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__aus_30_nbc_49595": {
+  "freq sols": -1,
+  "sr_time": 2341.9939436912537,
+  "sols": 295,
+  "solver_time": 2234.15
+ },
+ "hu_closed_cost_util_freqmining__tumor_50_minion_18515": {
+  "freq sols": -1,
+  "sr_time": 13.487531661987305,
+  "sols": 61,
+  "solver_time": 1.599481
+ },
+ "hu_gen_fis_noincomp__vote_50_minion_61882": {
+  "freq sols": -1,
+  "sr_time": 14.31269884109497,
+  "sols": 0,
+  "solver_time": 0.157113
+ },
+ "hu_gen_fis_noincomp__heart_40_glucose_15121": {
+  "freq sols": -1,
+  "sr_time": 21.00141716003418,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_glucose_24938": {
+  "freq sols": -1,
+  "sr_time": 6.100525856018066,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__aus_10_nbc_8504": {
+  "freq sols": -1,
+  "sr_time": 16390.957109689713,
+  "sols": 8912,
+  "solver_time": 1646.1699999999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_40_glucose_25751": {
+  "freq sols": -1,
+  "sr_time": 10.313770532608032,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_50_glucose_64749": {
+  "freq sols": -1,
+  "sr_time": 1246.4843263626099,
+  "sols": 4400,
+  "solver_time": 1102.009200000001
+ },
+ "hu_gen_fis_noincomp__lymph_30_glucose_46297": {
+  "freq sols": -1,
+  "sr_time": 11.594641208648682,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__heart_20_glucose_47384": {
+  "freq sols": -1,
+  "sr_time": 21.89602255821228,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_20_glucose_73136": {
+  "freq sols": -1,
+  "sr_time": 37.181145429611206,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__german_40_glucose_62966": {
+  "freq sols": -1,
+  "sr_time": 62.05210208892822,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_20_nbc_66277": {
+  "freq sols": -1,
+  "sr_time": 78.50539207458496,
+  "sols": 1819,
+  "solver_time": 45.77
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_nbc_10801": {
+  "freq sols": -1,
+  "sr_time": 2146.5082364082336,
+  "sols": 2031,
+  "solver_time": 79.71999999999954
+ },
+ "hu_closed_cost_util_freqmining__german_30_nbc_27849": {
+  "freq sols": -1,
+  "sr_time": 992.482194185257,
+  "sols": 9087,
+  "solver_time": 846.3699999999999
+ },
+ "hu_gen_fis__audio_30_nbc_3904": {
+  "freq sols": -1,
+  "sr_time": 6926.307024240494,
+  "sols": 466380,
+  "solver_time": 6774.009999999999
+ },
+ "hu_gen_fis_noincomp__heart_20_glucose_68546": {
+  "freq sols": -1,
+  "sr_time": 21.69022488594055,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__heart_10_glucose_41167": {
+  "freq sols": -1,
+  "sr_time": 8484.20563173294,
+  "sols": 304,
+  "solver_time": 8357.757689999993
+ },
+ "hu_gen_fis_noincomp__tumor_20_glucose_32685": {
+  "freq sols": -1,
+  "sr_time": 12.53014326095581,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_glucose_16798": {
+  "freq sols": -1,
+  "sr_time": 5.558213949203491,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_40_minion_97684": {
+  "freq sols": -1,
+  "sr_time": 27.565263032913208,
+  "sols": 64,
+  "solver_time": 11.497776
+ },
+ "hu_closed_cost_util_freqmining__audio_40_nbc_13692": {
+  "freq sols": -1,
+  "sr_time": 96.51571345329285,
+  "sols": 8283,
+  "solver_time": 21.049999999999994
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_20_glucose_74201": {
+  "freq sols": -1,
+  "sr_time": 136.2873411178589,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_10_glucose_23575": {
+  "freq sols": -1,
+  "sr_time": 149.41250872612,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__german_10_nbc_86895": {
+  "freq sols": -1,
+  "sr_time": 7385.382127523422,
+  "sols": 8589,
+  "solver_time": 11223.899999999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_glucose_66654": {
+  "freq sols": -1,
+  "sr_time": 898.778267621994,
+  "sols": 1203,
+  "solver_time": 800.1173009999998
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_10_glucose_11372": {
+  "freq sols": -1,
+  "sr_time": 141.42504596710205,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__german_50_glucose_18496": {
+  "freq sols": -1,
+  "sr_time": 7841.523507595062,
+  "sols": 510,
+  "solver_time": 7365.730740000002
+ },
+ "hu_closed_cost_util_freqmining__krvskp_50_nbc_30211": {
+  "freq sols": -1,
+  "sr_time": 1529.5446453094482,
+  "sols": 381,
+  "solver_time": 1295.1500000000003
+ },
+ "hu_closed_cost_util_freqmining__hypo_30_nbc_90626": {
+  "freq sols": -1,
+  "sr_time": 8176.368782758713,
+  "sols": 2748,
+  "solver_time": 7367.549999999999
+ },
+ "hu_gen_fis__zoo_40_nbc_50544": {
+  "freq sols": -1,
+  "sr_time": 8.159486055374146,
+  "sols": 64,
+  "solver_time": 0.16000000000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_20_glucose_42967": {
+  "freq sols": -1,
+  "sr_time": 40.24291920661926,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_40_glucose_42615": {
+  "freq sols": -1,
+  "sr_time": 11.544034242630005,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__audio_10_nbc_75708": {
+  "freq sols": -1,
+  "sr_time": 101.0738263130188,
+  "sols": 5793,
+  "solver_time": 23.04
+ },
+ "hu_gen_fis_noincomp__hepatit_10_glucose_82692": {
+  "freq sols": -1,
+  "sr_time": 11.489442110061646,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__heart_20_nbc_93104": {
+  "freq sols": -1,
+  "sr_time": 1563.3484163284302,
+  "sols": 8484,
+  "solver_time": 2580.6544320000003
+ },
+ "hu_gen_fis_noincomp__zoo_40_glucose_27268": {
+  "freq sols": -1,
+  "sr_time": 38.66883850097656,
+  "sols": 68,
+  "solver_time": 1.8885440000000002
+ },
+ "hu_closed_cost_util_freqmining__zoo_40_nbc_6348": {
+  "freq sols": -1,
+  "sr_time": 7.407614469528198,
+  "sols": 43,
+  "solver_time": 0.15000000000000002
+ },
+ "hu_gen_fis__zoo_10_nbc_99097": {
+  "freq sols": -1,
+  "sr_time": 5.254923343658447,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_30_glucose_47434": {
+  "freq sols": -1,
+  "sr_time": 46.79985022544861,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_50_glucose_59272": {
+  "freq sols": -1,
+  "sr_time": 19.89418077468872,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__aus_40_nbc_17800": {
+  "freq sols": -1,
+  "sr_time": 1127.4443752765656,
+  "sols": 4474,
+  "solver_time": 1576.176651
+ },
+ "hu_closed_cost_util_freqmining__lymph_20_nbc_51335": {
+  "freq sols": -1,
+  "sr_time": 76.0977258682251,
+  "sols": 6322,
+  "solver_time": 30.660000000000004
+ },
+ "hu_gen_fis__anneal_20_nbc_40222": {
+  "freq sols": -1,
+  "sr_time": 9560.661562204361,
+  "sols": 404735,
+  "solver_time": 9118.529999999999
+ },
+ "hu_minimal_rare_fis__tumor_30_nbc_47769": {
+  "freq sols": -1,
+  "sr_time": 8.187768697738647,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_10_minion_28566": {
+  "freq sols": -1,
+  "sr_time": 7817.621709346771,
+  "sols": 3876,
+  "solver_time": 3471.81244
+ },
+ "hu_gen_fis__lymph_20_minion_12513": {
+  "freq sols": -1,
+  "sr_time": 639.8221905231476,
+  "sols": 12996,
+  "solver_time": 572.702845
+ },
+ "hu_closed_cost_util_freqmining__aus_30_nbc_79337": {
+  "freq sols": -1,
+  "sr_time": 3233.6787927150726,
+  "sols": 9566,
+  "solver_time": 2953.2400000000007
+ },
+ "hu_gen_fis__zoo_20_minion_27645": {
+  "freq sols": -1,
+  "sr_time": 49.61881113052368,
+  "sols": 4286,
+  "solver_time": 26.646611
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_nbc_49499": {
+  "freq sols": -1,
+  "sr_time": 14.25635814666748,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_10_nbc_89736": {
+  "freq sols": -1,
+  "sr_time": 2017.5953645706177,
+  "sols": 256,
+  "solver_time": 1937.0000000000005
+ },
+ "hu_gen_fis_noincomp__tumor_10_minion_33546": {
+  "freq sols": -1,
+  "sr_time": 8.743688821792603,
+  "sols": 0,
+  "solver_time": 0.068312
+ },
+ "hu_closed_cost_util_freqmining__aus_50_nbc_62567": {
+  "freq sols": -1,
+  "sr_time": 367.71429467201233,
+  "sols": 2093,
+  "solver_time": 287.41
+ },
+ "hu_closed_cost_util_freqmining__anneal_30_nbc_10934": {
+  "freq sols": -1,
+  "sr_time": 634.0870776176453,
+  "sols": 4470,
+  "solver_time": 550.6800000000001
+ },
+ "hu_gen_fis_noincomp__vote_30_glucose_26766": {
+  "freq sols": -1,
+  "sr_time": 556.0105147361755,
+  "sols": 268,
+  "solver_time": 360.76904499999995
+ },
+ "hu_closed_cost_util_freqmining__vote_40_nbc_80119": {
+  "freq sols": -1,
+  "sr_time": 27.72207808494568,
+  "sols": 5,
+  "solver_time": 4.78
+ },
+ "hu_gen_fis_noincomp__zoo_50_minion_21175": {
+  "freq sols": -1,
+  "sr_time": 7.107551574707031,
+  "sols": 7,
+  "solver_time": 1.1695740000000001
+ },
+ "hu_gen_fis_noincomp__zoo_50_glucose_96922": {
+  "freq sols": -1,
+  "sr_time": 6.326303958892822,
+  "sols": 7,
+  "solver_time": 0.161784
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_50_glucose_3060": {
+  "freq sols": -1,
+  "sr_time": 142.72389459609985,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_40_glucose_52396": {
+  "freq sols": -1,
+  "sr_time": 20.838167190551758,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__tumor_30_nbc_94533": {
+  "freq sols": -1,
+  "sr_time": 30.588549613952637,
+  "sols": 1191,
+  "solver_time": 5.8599999999999985
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_10_glucose_90759": {
+  "freq sols": -1,
+  "sr_time": 37.38877534866333,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hypo_50_nbc_40909": {
+  "freq sols": -1,
+  "sr_time": 6769.282628059387,
+  "sols": 20634,
+  "solver_time": 1493.9242600000002
+ },
+ "hu_gen_fis_noincomp__lymph_30_glucose_97505": {
+  "freq sols": -1,
+  "sr_time": 7051.89742732048,
+  "sols": 14899,
+  "solver_time": 6599.666891999971
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_glucose_8819": {
+  "freq sols": -1,
+  "sr_time": 6.6643571853637695,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__german_50_minion_86173": {
+  "freq sols": -1,
+  "sr_time": 171.82415986061096,
+  "sols": 377,
+  "solver_time": 107.77484000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_glucose_7654": {
+  "freq sols": -1,
+  "sr_time": 7.056583642959595,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_10_glucose_17443": {
+  "freq sols": -1,
+  "sr_time": 55.31111025810242,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_40_glucose_42136": {
+  "freq sols": -1,
+  "sr_time": 28.00200128555298,
+  "sols": 5,
+  "solver_time": 5.161519
+ },
+ "hu_gen_fis_noincomp__hypo_20_glucose_93594": {
+  "freq sols": -1,
+  "sr_time": 6256.61357831955,
+  "sols": 75,
+  "solver_time": 5847.548700000001
+ },
+ "hu_gen_fis__krvskp_20_nbc_84139": {
+  "freq sols": -1,
+  "sr_time": 7392.621443271637,
+  "sols": 0,
+  "solver_time": 18393.39
+ },
+ "hu_closed_cost_util_freqmining__german_30_nbc_93656": {
+  "freq sols": -1,
+  "sr_time": 1048.3292922973633,
+  "sols": 9087,
+  "solver_time": 2280.668
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_30_glucose_70646": {
+  "freq sols": -1,
+  "sr_time": 37.06171107292175,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__german_20_nbc_61432": {
+  "freq sols": -1,
+  "sr_time": 1089.9462196826935,
+  "sols": 4,
+  "solver_time": 925.94536
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_glucose_84999": {
+  "freq sols": -1,
+  "sr_time": 11.40725588798523,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_glucose_85522": {
+  "freq sols": -1,
+  "sr_time": 11.649208307266235,
+  "sols": 68,
+  "solver_time": 2.0990240000000004
+ },
+ "hu_gen_fis_noincomp__german_50_glucose_55422": {
+  "freq sols": -1,
+  "sr_time": 68.89541339874268,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_50_minion_46356": {
+  "freq sols": -1,
+  "sr_time": 102.9700882434845,
+  "sols": 527,
+  "solver_time": 61.508681
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_glucose_86691": {
+  "freq sols": -1,
+  "sr_time": 6.727024078369141,
+  "sols": 7,
+  "solver_time": 0.169774
+ },
+ "hu_gen_fis_noincomp__anneal_30_glucose_74375": {
+  "freq sols": -1,
+  "sr_time": 27.46589422225952,
+  "sols": 0,
+  "solver_time": 0.00108
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_10_glucose_76454": {
+  "freq sols": -1,
+  "sr_time": 20.488051652908325,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__german_30_nbc_43563": {
+  "freq sols": -1,
+  "sr_time": 1113.2480771541595,
+  "sols": 9087,
+  "solver_time": 954.0800000000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_nbc_45299": {
+  "freq sols": -1,
+  "sr_time": 9.487043380737305,
+  "sols": 7,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_40_glucose_44184": {
+  "freq sols": -1,
+  "sr_time": 11.945780515670776,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__zoo_50_nbc_4267": {
+  "freq sols": -1,
+  "sr_time": 93.83152437210083,
+  "sols": 48776,
+  "solver_time": 30.26
+ },
+ "hu_gen_fis__lymph_50_nbc_49968": {
+  "freq sols": -1,
+  "sr_time": 22.348212480545044,
+  "sols": 1044,
+  "solver_time": 1.34
+ },
+ "hu_closed_cost_util_freqmining__hypo_40_nbc_90233": {
+  "freq sols": -1,
+  "sr_time": 3774.4688839912415,
+  "sols": 1629,
+  "solver_time": 7556.3
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_glucose_73568": {
+  "freq sols": -1,
+  "sr_time": 2387.887664079666,
+  "sols": 5099,
+  "solver_time": 4224.077324000005
+ },
+ "hu_gen_fis_noincomp__tumor_50_glucose_24279": {
+  "freq sols": -1,
+  "sr_time": 13.945713520050049,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_10_glucose_79855": {
+  "freq sols": -1,
+  "sr_time": 149.04630708694458,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_50_glucose_16905": {
+  "freq sols": -1,
+  "sr_time": 33.70351314544678,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_40_glucose_35710": {
+  "freq sols": -1,
+  "sr_time": 11.29468059539795,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_50_glucose_53195": {
+  "freq sols": -1,
+  "sr_time": 9.385009288787842,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_30_glucose_14145": {
+  "freq sols": -1,
+  "sr_time": 735.7610769271851,
+  "sols": 803,
+  "solver_time": 682.9864720000003
+ },
+ "hu_gen_fis_noincomp__vote_40_glucose_68985": {
+  "freq sols": -1,
+  "sr_time": 19.604979515075684,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_40_glucose_72968": {
+  "freq sols": -1,
+  "sr_time": 27.914193153381348,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_20_glucose_33380": {
+  "freq sols": -1,
+  "sr_time": 2523.0893766880035,
+  "sols": 2003,
+  "solver_time": 1662.5067459999996
+ },
+ "hu_gen_fis__krvskp_50_nbc_64029": {
+  "freq sols": -1,
+  "sr_time": 1524.9461884498596,
+  "sols": 427,
+  "solver_time": 1314.62
+ },
+ "hu_closed_cost_util_freqmining__heart_30_nbc_43919": {
+  "freq sols": -1,
+  "sr_time": 692.4624214172363,
+  "sols": 7165,
+  "solver_time": 1411.509
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_glucose_25610": {
+  "freq sols": -1,
+  "sr_time": 19.218481063842773,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_30_glucose_52200": {
+  "freq sols": -1,
+  "sr_time": 29.8222393989563,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__zoo_30_nbc_84876": {
+  "freq sols": -1,
+  "sr_time": 10.758994579315186,
+  "sols": 628,
+  "solver_time": 0.6200000000000001
+ },
+ "hu_gen_fis__tumor_20_nbc_86783": {
+  "freq sols": -1,
+  "sr_time": 40.45612049102783,
+  "sols": 1998,
+  "solver_time": 9.44
+ },
+ "hu_minimal_rare_fis__vote_10_nbc_98024": {
+  "freq sols": -1,
+  "sr_time": 13.280662298202515,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_30_glucose_52025": {
+  "freq sols": -1,
+  "sr_time": 12.01582646369934,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__tumor_10_nbc_82199": {
+  "freq sols": -1,
+  "sr_time": 90.20399475097656,
+  "sols": 27939,
+  "solver_time": 29.53
+ },
+ "hu_gen_fis_noincomp__lymph_10_glucose_5443": {
+  "freq sols": -1,
+  "sr_time": 12.447582721710205,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_50_minion_4468": {
+  "freq sols": -1,
+  "sr_time": 678.3810141086578,
+  "sols": 1044,
+  "solver_time": 602.2129889999995
+ },
+ "hu_gen_fis_noincomp__anneal_10_glucose_62213": {
+  "freq sols": -1,
+  "sr_time": 13013.178455114365,
+  "sols": 1432,
+  "solver_time": 11543.70506
+ },
+ "hu_gen_fis_noincomp__anneal_30_glucose_81918": {
+  "freq sols": -1,
+  "sr_time": 29.306925296783447,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_50_glucose_27471": {
+  "freq sols": -1,
+  "sr_time": 40.23920702934265,
+  "sols": 61,
+  "solver_time": 22.97963199999999
+ },
+ "hu_closed_cost_util_freqmining__tumor_10_nbc_95117": {
+  "freq sols": -1,
+  "sr_time": 49.906394481658936,
+  "sols": 3812,
+  "solver_time": 18.240000000000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_nbc_95834": {
+  "freq sols": -1,
+  "sr_time": 12174.48139500618,
+  "sols": 3019,
+  "solver_time": 1658.140000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_glucose_51069": {
+  "freq sols": -1,
+  "sr_time": 12.049443006515503,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_40_nbc_3041": {
+  "freq sols": -1,
+  "sr_time": 7.659228324890137,
+  "sols": 64,
+  "solver_time": 0.17000000000000004
+ },
+ "hu_gen_fis_noincomp__hepatit_20_glucose_39372": {
+  "freq sols": -1,
+  "sr_time": 11.332546472549438,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_10_glucose_78447": {
+  "freq sols": -1,
+  "sr_time": 4.713123321533203,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_40_nbc_2583": {
+  "freq sols": -1,
+  "sr_time": 50.566189765930176,
+  "sols": 4181,
+  "solver_time": 5.239999999999997
+ },
+ "hu_gen_fis__tumor_40_nbc_45313": {
+  "freq sols": -1,
+  "sr_time": 20.468157291412354,
+  "sols": 310,
+  "solver_time": 2.5599999999999996
+ },
+ "hu_gen_fis_noincomp__lymph_40_glucose_97115": {
+  "freq sols": -1,
+  "sr_time": 12.323224782943726,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_10_glucose_36605": {
+  "freq sols": -1,
+  "sr_time": 21.268274784088135,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_nbc_41506": {
+  "freq sols": -1,
+  "sr_time": 6561.6924431324005,
+  "sols": 3010,
+  "solver_time": 6294.380000000007
+ },
+ "hu_gen_fis__german_20_minion_6665": {
+  "freq sols": -1,
+  "sr_time": 10753.924110889435,
+  "sols": 6,
+  "solver_time": 8037.951100000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_nbc_32437": {
+  "freq sols": -1,
+  "sr_time": 109.91276097297668,
+  "sols": 310,
+  "solver_time": 71.97999999999999
+ },
+ "hu_gen_fis__aus_10_nbc_5707": {
+  "freq sols": -1,
+  "sr_time": 13450.142512083054,
+  "sols": 8912,
+  "solver_time": 13797.360000000004
+ },
+ "hu_gen_fis__vote_50_nbc_39133": {
+  "freq sols": -1,
+  "sr_time": 16.59942865371704,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__german_20_glucose_96842": {
+  "freq sols": -1,
+  "sr_time": 446.2845242023468,
+  "sols": 9,
+  "solver_time": 377.3897999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_20_glucose_20619": {
+  "freq sols": -1,
+  "sr_time": 13868.346115112305,
+  "sols": 168,
+  "solver_time": 13067.255099999997
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_minion_73": {
+  "freq sols": -1,
+  "sr_time": 7681.810396432877,
+  "sols": 611,
+  "solver_time": 7524.855219999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_30_glucose_14062": {
+  "freq sols": -1,
+  "sr_time": 135.32820653915405,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_30_glucose_91879": {
+  "freq sols": -1,
+  "sr_time": 6.228417158126831,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__german_50_minion_93760": {
+  "freq sols": -1,
+  "sr_time": 199.52269744873047,
+  "sols": 398,
+  "solver_time": 122.34279000000001
+ },
+ "hu_closed_cost_util_freqmining__zoo_10_nbc_25114": {
+  "freq sols": -1,
+  "sr_time": 5.082873106002808,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__german_30_glucose_1979": {
+  "freq sols": -1,
+  "sr_time": 6587.953559398651,
+  "sols": 223,
+  "solver_time": 7242.149699999996
+ },
+ "hu_closed_cost_util_freqmining__anneal_30_nbc_59181": {
+  "freq sols": -1,
+  "sr_time": 637.2998533248901,
+  "sols": 4470,
+  "solver_time": 535.0999999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_glucose_77030": {
+  "freq sols": -1,
+  "sr_time": 187.4763147830963,
+  "sols": 310,
+  "solver_time": 144.96682200000006
+ },
+ "hu_closed_cost_util_freqmining__german_10_nbc_36483": {
+  "freq sols": -1,
+  "sr_time": 5356.513698816299,
+  "sols": 5581,
+  "solver_time": 9658.84
+ },
+ "hu_gen_fis__aus_50_nbc_38725": {
+  "freq sols": -1,
+  "sr_time": 408.30571579933167,
+  "sols": 4488,
+  "solver_time": 295.5699999999999
+ },
+ "hu_closed_cost_util_freqmining__tumor_50_nbc_76928": {
+  "freq sols": -1,
+  "sr_time": 18.36028289794922,
+  "sols": 61,
+  "solver_time": 1.3
+ },
+ "hu_closed_cost_util_freqmining__heart_30_minion_51930": {
+  "freq sols": -1,
+  "sr_time": 12723.842562913895,
+  "sols": 7165,
+  "solver_time": 11142.526649999998
+ },
+ "hu_gen_fis__hepatit_40_nbc_32276": {
+  "freq sols": -1,
+  "sr_time": 81.6959638595581,
+  "sols": 9231,
+  "solver_time": 22.4
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_minion_88766": {
+  "freq sols": -1,
+  "sr_time": 18.974836349487305,
+  "sols": 5,
+  "solver_time": 3.493502
+ },
+ "hu_gen_fis__anneal_20_nbc_19288": {
+  "freq sols": -1,
+  "sr_time": 10652.698847055435,
+  "sols": 404735,
+  "solver_time": 8432.680000000002
+ },
+ "hu_gen_fis_noincomp__tumor_20_glucose_22734": {
+  "freq sols": -1,
+  "sr_time": 1777.7687644958496,
+  "sols": 2003,
+  "solver_time": 1669.5843399999994
+ },
+ "hu_gen_fis_noincomp__hypo_50_glucose_65766": {
+  "freq sols": -1,
+  "sr_time": 154.14880323410034,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_30_minion_2023": {
+  "freq sols": -1,
+  "sr_time": 24.819291591644287,
+  "sols": 1191,
+  "solver_time": 5.384741
+ },
+ "hu_closed_cost_util_freqmining__heart_50_minion_98767": {
+  "freq sols": -1,
+  "sr_time": 86.59879970550537,
+  "sols": 483,
+  "solver_time": 48.972077
+ },
+ "hu_gen_fis__anneal_10_nbc_76709": {
+  "freq sols": -1,
+  "sr_time": 335.053729057312,
+  "sols": 886,
+  "solver_time": 268.50999999999993
+ },
+ "hu_gen_fis_noincomp__hypo_40_glucose_87501": {
+  "freq sols": -1,
+  "sr_time": 139.28494358062744,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_glucose_97090": {
+  "freq sols": -1,
+  "sr_time": 11.177800416946411,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_30_glucose_41386": {
+  "freq sols": -1,
+  "sr_time": 20.44737410545349,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_10_nbc_75991": {
+  "freq sols": -1,
+  "sr_time": 2069.9241824150085,
+  "sols": 256,
+  "solver_time": 1990.3199999999997
+ },
+ "hu_gen_fis_noincomp__vote_50_glucose_3554": {
+  "freq sols": -1,
+  "sr_time": 13.61712384223938,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_30_glucose_61539": {
+  "freq sols": -1,
+  "sr_time": 20.27156949043274,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__krvskp_30_nbc_26069": {
+  "freq sols": -1,
+  "sr_time": 8733.254536390305,
+  "sols": 4371,
+  "solver_time": 14507.419999999996
+ },
+ "hu_gen_fis_noincomp__tumor_10_glucose_15955": {
+  "freq sols": -1,
+  "sr_time": 8.868773937225342,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_glucose_57299": {
+  "freq sols": -1,
+  "sr_time": 21.353763818740845,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_nbc_86219": {
+  "freq sols": -1,
+  "sr_time": 296.5009653568268,
+  "sols": 6,
+  "solver_time": 230.06
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_glucose_35254": {
+  "freq sols": -1,
+  "sr_time": 1177.9604215621948,
+  "sols": 500,
+  "solver_time": 1107.2399889999997
+ },
+ "hu_gen_fis_noincomp__german_30_glucose_66678": {
+  "freq sols": -1,
+  "sr_time": 6165.282033920288,
+  "sols": 223,
+  "solver_time": 5838.431700000004
+ },
+ "hu_closed_cost_util_freqmining__tumor_40_nbc_99060": {
+  "freq sols": -1,
+  "sr_time": 33.97623252868652,
+  "sols": 310,
+  "solver_time": 1.9000000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_nbc_58651": {
+  "freq sols": -1,
+  "sr_time": 7041.2096791267395,
+  "sols": 5103,
+  "solver_time": 6724.010000000001
+ },
+ "hu_gen_fis__heart_40_nbc_64582": {
+  "freq sols": -1,
+  "sr_time": 220.1732108592987,
+  "sols": 4928,
+  "solver_time": 293.06290000000024
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_glucose_12927": {
+  "freq sols": -1,
+  "sr_time": 427.1173758506775,
+  "sols": 268,
+  "solver_time": 374.4721699999997
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_minion_18677": {
+  "freq sols": -1,
+  "sr_time": 3203.3680398464203,
+  "sols": 1224,
+  "solver_time": 3064.3336680000043
+ },
+ "hu_gen_fis_noincomp__german_50_glucose_65267": {
+  "freq sols": -1,
+  "sr_time": 59.52844786643982,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_glucose_24415": {
+  "freq sols": -1,
+  "sr_time": 1262.2097322940826,
+  "sols": 7765,
+  "solver_time": 1052.3554770000028
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_glucose_41833": {
+  "freq sols": -1,
+  "sr_time": 6.536937236785889,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_glucose_34535": {
+  "freq sols": -1,
+  "sr_time": 4.809802293777466,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__anneal_30_minion_82272": {
+  "freq sols": -1,
+  "sr_time": 28.51460576057434,
+  "sols": 0,
+  "solver_time": 0.622335
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_glucose_69369": {
+  "freq sols": -1,
+  "sr_time": 4.604218006134033,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_20_minion_80544": {
+  "freq sols": -1,
+  "sr_time": 5331.92844581604,
+  "sols": 1819,
+  "solver_time": 5218.591152999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_glucose_9027": {
+  "freq sols": -1,
+  "sr_time": 6.146611928939819,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_30_glucose_59306": {
+  "freq sols": -1,
+  "sr_time": 910.2322068214417,
+  "sols": 1530,
+  "solver_time": 85.18398199999992
+ },
+ "hu_closed_cost_util_freqmining__german_40_nbc_68078": {
+  "freq sols": -1,
+  "sr_time": 367.9766516685486,
+  "sols": 1969,
+  "solver_time": 262.53
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_glucose_55761": {
+  "freq sols": -1,
+  "sr_time": 11.856539726257324,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__anneal_50_nbc_52994": {
+  "freq sols": -1,
+  "sr_time": 797.8947093486786,
+  "sols": 46920,
+  "solver_time": 501.8400000000001
+ },
+ "hu_dfis__tumor_50_nbc_30448": {
+  "freq sols": -1,
+  "sr_time": 17.636043071746826,
+  "sols": 2,
+  "solver_time": 0.03
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_nbc_4266": {
+  "freq sols": -1,
+  "sr_time": 5621.9139750003815,
+  "sols": 3010,
+  "solver_time": 6249.469999999999
+ },
+ "hu_gen_fis__tumor_40_nbc_62061": {
+  "freq sols": -1,
+  "sr_time": 21.929359674453735,
+  "sols": 310,
+  "solver_time": 2.9599999999999995
+ },
+ "hu_gen_fis_noincomp__tumor_30_minion_4142": {
+  "freq sols": -1,
+  "sr_time": 1657.9768946170807,
+  "sols": 1191,
+  "solver_time": 870.9041599999997
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_50_glucose_26127": {
+  "freq sols": -1,
+  "sr_time": 49.643890142440796,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_20_glucose_82718": {
+  "freq sols": -1,
+  "sr_time": 144.9364914894104,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_20_glucose_32935": {
+  "freq sols": -1,
+  "sr_time": 11.995997667312622,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__vote_50_nbc_33392": {
+  "freq sols": -1,
+  "sr_time": 77.19108319282532,
+  "sols": 6408,
+  "solver_time": 21.87
+ },
+ "hu_gen_fis_noincomp__aus_40_glucose_625": {
+  "freq sols": -1,
+  "sr_time": 509.581405878067,
+  "sols": 21,
+  "solver_time": 451.86762999999996
+ },
+ "hu_gen_fis_noincomp__krvskp_50_glucose_95721": {
+  "freq sols": -1,
+  "sr_time": 145.65143489837646,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_nbc_61892": {
+  "freq sols": -1,
+  "sr_time": 6.904062986373901,
+  "sols": 7,
+  "solver_time": 0.01
+ },
+ "hu_gen_fis_noincomp__hepatit_50_glucose_15190": {
+  "freq sols": -1,
+  "sr_time": 11.288325309753418,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__anneal_10_nbc_20091": {
+  "freq sols": -1,
+  "sr_time": 333.3382863998413,
+  "sols": 886,
+  "solver_time": 259.59000000000003
+ },
+ "hu_gen_fis__aus_50_nbc_62454": {
+  "freq sols": -1,
+  "sr_time": 522.3126950263977,
+  "sols": 4488,
+  "solver_time": 414.2600000000001
+ },
+ "hu_gen_fis_noincomp__heart_50_glucose_18004": {
+  "freq sols": -1,
+  "sr_time": 1392.6939396858215,
+  "sols": 591,
+  "solver_time": 1321.5177490000008
+ },
+ "hu_closed_cost_util_freqmining__heart_50_nbc_56070": {
+  "freq sols": -1,
+  "sr_time": 68.63412761688232,
+  "sols": 483,
+  "solver_time": 35.3
+ },
+ "hu_gen_fis_noincomp__anneal_50_glucose_45361": {
+  "freq sols": -1,
+  "sr_time": 38.73341679573059,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_40_glucose_69017": {
+  "freq sols": -1,
+  "sr_time": 44.83135199546814,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_glucose_44009": {
+  "freq sols": -1,
+  "sr_time": 18.97914981842041,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_minion_41439": {
+  "freq sols": -1,
+  "sr_time": 14.926127195358276,
+  "sols": 0,
+  "solver_time": 0.154331
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_minion_91851": {
+  "freq sols": -1,
+  "sr_time": 5.100526332855225,
+  "sols": 0,
+  "solver_time": 0.027796
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_minion_27028": {
+  "freq sols": -1,
+  "sr_time": 31.45443558692932,
+  "sols": 61,
+  "solver_time": 17.151687
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_glucose_40807": {
+  "freq sols": -1,
+  "sr_time": 27.61013412475586,
+  "sols": 5,
+  "solver_time": 6.1134319999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_nbc_67908": {
+  "freq sols": -1,
+  "sr_time": 4922.98473572731,
+  "sols": 6367,
+  "solver_time": 2813.2700000000077
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_glucose_5335": {
+  "freq sols": -1,
+  "sr_time": 450.9463312625885,
+  "sols": 6,
+  "solver_time": 381.2044
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_50_nbc_36377": {
+  "freq sols": -1,
+  "sr_time": 8513.573567152023,
+  "sols": 7923,
+  "solver_time": 3373.9399999999805
+ },
+ "hu_closed_cost_util_freqmining__vote_50_nbc_83113": {
+  "freq sols": -1,
+  "sr_time": 13.557119369506836,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_glucose_66826": {
+  "freq sols": -1,
+  "sr_time": 38.685616970062256,
+  "sols": 61,
+  "solver_time": 21.752789
+ },
+ "hu_gen_fis_noincomp__hypo_50_glucose_41923": {
+  "freq sols": -1,
+  "sr_time": 141.16221356391907,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_40_minion_68703": {
+  "freq sols": -1,
+  "sr_time": 31.10761785507202,
+  "sols": 0,
+  "solver_time": 0.593693
+ },
+ "hu_gen_fis__aus_20_nbc_11999": {
+  "freq sols": -1,
+  "sr_time": 7912.583951473236,
+  "sols": 5,
+  "solver_time": 14184.018000000005
+ },
+ "hu_gen_fis__hypo_10_nbc_45531": {
+  "freq sols": -1,
+  "sr_time": 8428.44707942009,
+  "sols": 1029,
+  "solver_time": 16166.539999999999
+ },
+ "hu_gen_fis_noincomp__zoo_50_glucose_84226": {
+  "freq sols": -1,
+  "sr_time": 9.156724214553833,
+  "sols": 7,
+  "solver_time": 0.150132
+ },
+ "hu_closed_cost_util_freqmining__lymph_10_nbc_76649": {
+  "freq sols": -1,
+  "sr_time": 73.23357653617859,
+  "sols": 3876,
+  "solver_time": 32.25000000000001
+ },
+ "hu_gen_fis_noincomp__aus_20_glucose_92196": {
+  "freq sols": -1,
+  "sr_time": 46.04557728767395,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_40_minion_92231": {
+  "freq sols": -1,
+  "sr_time": 91.08297228813171,
+  "sols": 4181,
+  "solver_time": 48.87305100000002
+ },
+ "hu_gen_fis_noincomp__anneal_30_minion_89565": {
+  "freq sols": -1,
+  "sr_time": 30.196221113204956,
+  "sols": 0,
+  "solver_time": 0.651825
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_10_glucose_29971": {
+  "freq sols": -1,
+  "sr_time": 70.72965097427368,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__heart_50_minion_45344": {
+  "freq sols": -1,
+  "sr_time": 3742.8291018009186,
+  "sols": 527,
+  "solver_time": 3648.545220000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_nbc_26044": {
+  "freq sols": -1,
+  "sr_time": 7831.768493175507,
+  "sols": 3812,
+  "solver_time": 5245.895800000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_nbc_72892": {
+  "freq sols": -1,
+  "sr_time": 273.9636266231537,
+  "sols": 268,
+  "solver_time": 227.54000000000008
+ },
+ "hu_gen_fis_noincomp__audio_40_glucose_88961": {
+  "freq sols": -1,
+  "sr_time": 3918.7846989631653,
+  "sols": 3660,
+  "solver_time": 2146.391545
+ },
+ "hu_gen_fis__zoo_20_nbc_98894": {
+  "freq sols": -1,
+  "sr_time": 23.322237014770508,
+  "sols": 4286,
+  "solver_time": 2.309999999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_minion_4008": {
+  "freq sols": -1,
+  "sr_time": 41.568907260894775,
+  "sols": 61,
+  "solver_time": 15.812980999999997
+ },
+ "hu_gen_fis_noincomp__vote_50_glucose_45307": {
+  "freq sols": -1,
+  "sr_time": 14.441794872283936,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__zoo_30_nbc_758": {
+  "freq sols": -1,
+  "sr_time": 22.70981526374817,
+  "sols": 628,
+  "solver_time": 0.44
+ },
+ "hu_gen_fis_noincomp__vote_10_glucose_8015": {
+  "freq sols": -1,
+  "sr_time": 23.81242299079895,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__heart_20_glucose_48278": {
+  "freq sols": -1,
+  "sr_time": 10005.099242210388,
+  "sols": 604,
+  "solver_time": 9684.761835999992
+ },
+ "hu_gen_fis_noincomp__heart_30_glucose_62446": {
+  "freq sols": -1,
+  "sr_time": 193.6920301914215,
+  "sols": 21,
+  "solver_time": 167.68882000000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_nbc_66094": {
+  "freq sols": -1,
+  "sr_time": 4.8797523975372314,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_50_glucose_48050": {
+  "freq sols": -1,
+  "sr_time": 12.107370138168335,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_glucose_66743": {
+  "freq sols": -1,
+  "sr_time": 11.091527223587036,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_nbc_59971": {
+  "freq sols": -1,
+  "sr_time": 23.48537802696228,
+  "sols": 5,
+  "solver_time": 1.2400000000000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_20_glucose_6647": {
+  "freq sols": -1,
+  "sr_time": 21.295339584350586,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_30_minion_26074": {
+  "freq sols": -1,
+  "sr_time": 15.472856760025024,
+  "sols": 1132,
+  "solver_time": 2.4846690000000007
+ },
+ "hu_closed_cost_util_freqmining__zoo_20_nbc_24853": {
+  "freq sols": -1,
+  "sr_time": 34.57472586631775,
+  "sols": 4374,
+  "solver_time": 2.9399999999999995
+ },
+ "hu_closed_cost_util_freqmining__anneal_40_nbc_11916": {
+  "freq sols": -1,
+  "sr_time": 546.0613992214203,
+  "sols": 5519,
+  "solver_time": 438.33000000000004
+ },
+ "hu_gen_fis_noincomp__german_20_glucose_52541": {
+  "freq sols": -1,
+  "sr_time": 63.04084253311157,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_40_glucose_45497": {
+  "freq sols": -1,
+  "sr_time": 134.11239385604858,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_20_glucose_31523": {
+  "freq sols": -1,
+  "sr_time": 22.3911190032959,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hypo_20_nbc_52971": {
+  "freq sols": -1,
+  "sr_time": 6741.9921770095825,
+  "sols": 39,
+  "solver_time": 3854.1800000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_glucose_89484": {
+  "freq sols": -1,
+  "sr_time": 6623.0105719566345,
+  "sols": 3009,
+  "solver_time": 1806.1947359999986
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_50_glucose_79224": {
+  "freq sols": -1,
+  "sr_time": 43.742846965789795,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_10_glucose_33345": {
+  "freq sols": -1,
+  "sr_time": 3400.6031737327576,
+  "sols": 4637,
+  "solver_time": 3206.8496720000066
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_10_glucose_33943": {
+  "freq sols": -1,
+  "sr_time": 37.447529315948486,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_50_glucose_89574": {
+  "freq sols": -1,
+  "sr_time": 34.79270601272583,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_40_glucose_68859": {
+  "freq sols": -1,
+  "sr_time": 12200.612364292145,
+  "sols": 12433,
+  "solver_time": 6279.119805000006
+ },
+ "hu_closed_cost_util_freqmining__heart_10_nbc_8502": {
+  "freq sols": -1,
+  "sr_time": 3465.1374163627625,
+  "sols": 3360,
+  "solver_time": 835.1600000000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_minion_93944": {
+  "freq sols": -1,
+  "sr_time": 500.32791113853455,
+  "sols": 268,
+  "solver_time": 417.43359300000003
+ },
+ "hu_gen_fis__german_40_nbc_27453": {
+  "freq sols": -1,
+  "sr_time": 407.156067609787,
+  "sols": 2338,
+  "solver_time": 292.9699999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_10_glucose_17306": {
+  "freq sols": -1,
+  "sr_time": 46.74219536781311,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_minion_44320": {
+  "freq sols": -1,
+  "sr_time": 0.7725002765655518,
+  "sols": 0,
+  "solver_time": 18.347044999999994
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_10_glucose_2621": {
+  "freq sols": -1,
+  "sr_time": 142.60870003700256,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_30_nbc_56083": {
+  "freq sols": -1,
+  "sr_time": 47.529369592666626,
+  "sols": 586,
+  "solver_time": 19.55999999999999
+ },
+ "hu_closed_cost_util_freqmining__tumor_20_nbc_86944": {
+  "freq sols": -1,
+  "sr_time": 58.93296837806702,
+  "sols": 4741,
+  "solver_time": 11.610000000000001
+ },
+ "hu_gen_fis__audio_40_nbc_91663": {
+  "freq sols": -1,
+  "sr_time": 72.94490909576416,
+  "sols": 1808,
+  "solver_time": 6.36
+ },
+ "hu_gen_fis_noincomp__anneal_50_glucose_14365": {
+  "freq sols": -1,
+  "sr_time": 37.02341079711914,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_50_nbc_38142": {
+  "freq sols": -1,
+  "sr_time": 27.61601948738098,
+  "sols": 1492,
+  "solver_time": 1.69
+ },
+ "hu_gen_fis__heart_20_nbc_51572": {
+  "freq sols": -1,
+  "sr_time": 942.8222780227661,
+  "sols": 485,
+  "solver_time": 884.5899999999999
+ },
+ "hu_gen_fis__german_30_nbc_67246": {
+  "freq sols": -1,
+  "sr_time": 565.6575186252594,
+  "sols": 144,
+  "solver_time": 474.95
+ },
+ "hu_closed_cost_util_freqmining__german_20_nbc_98969": {
+  "freq sols": -1,
+  "sr_time": 1034.4588823318481,
+  "sols": 4,
+  "solver_time": 948.9300000000003
+ },
+ "hu_gen_fis_noincomp__vote_40_minion_91528": {
+  "freq sols": -1,
+  "sr_time": 21.202075958251953,
+  "sols": 5,
+  "solver_time": 3.676212
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_40_glucose_97546": {
+  "freq sols": -1,
+  "sr_time": 10.63837742805481,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hypo_20_nbc_9198": {
+  "freq sols": -1,
+  "sr_time": 5885.959361791611,
+  "sols": 39,
+  "solver_time": 8073.49
+ },
+ "hu_gen_fis__tumor_40_nbc_28303": {
+  "freq sols": -1,
+  "sr_time": 18.860074996948242,
+  "sols": 310,
+  "solver_time": 2.8499999999999996
+ },
+ "hu_gen_fis__tumor_10_minion_28460": {
+  "freq sols": -1,
+  "sr_time": 8.211271524429321,
+  "sols": 0,
+  "solver_time": 0.075316
+ },
+ "hu_gen_fis_noincomp__aus_10_glucose_64772": {
+  "freq sols": -1,
+  "sr_time": 55.046101808547974,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_50_glucose_48936": {
+  "freq sols": -1,
+  "sr_time": 13.81264591217041,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_10_glucose_80591": {
+  "freq sols": -1,
+  "sr_time": 41.625651359558105,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_40_nbc_77847": {
+  "freq sols": -1,
+  "sr_time": 31.00604486465454,
+  "sols": 1711,
+  "solver_time": 2.97
+ },
+ "hu_gen_fis_noincomp__anneal_40_glucose_33230": {
+  "freq sols": -1,
+  "sr_time": 25.57068419456482,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_50_nbc_10004": {
+  "freq sols": -1,
+  "sr_time": 6.964488983154297,
+  "sols": 7,
+  "solver_time": 0.03
+ },
+ "hu_gen_fis_noincomp__audio_20_glucose_89508": {
+  "freq sols": -1,
+  "sr_time": 19.228761672973633,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_40_glucose_71920": {
+  "freq sols": -1,
+  "sr_time": 19.76089310646057,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__anneal_30_nbc_90934": {
+  "freq sols": -1,
+  "sr_time": 696.911257982254,
+  "sols": 4470,
+  "solver_time": 616.5399999999998
+ },
+ "hu_gen_fis__german_50_nbc_46597": {
+  "freq sols": -1,
+  "sr_time": 204.9888620376587,
+  "sols": 398,
+  "solver_time": 111.15
+ },
+ "hu_gen_fis__anneal_40_minion_79702": {
+  "freq sols": -1,
+  "sr_time": 30.279483795166016,
+  "sols": 0,
+  "solver_time": 0.5618
+ },
+ "hu_gen_fis__aus_40_nbc_5587": {
+  "freq sols": -1,
+  "sr_time": 742.1746575832367,
+  "sols": 18,
+  "solver_time": 1186.2139999999997
+ },
+ "hu_gen_fis_noincomp__tumor_20_minion_49007": {
+  "freq sols": -1,
+  "sr_time": 5064.248522520065,
+  "sols": 1998,
+  "solver_time": 4863.473435000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_glucose_35002": {
+  "freq sols": -1,
+  "sr_time": 37.40535831451416,
+  "sols": 61,
+  "solver_time": 21.207762999999993
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_30_glucose_59564": {
+  "freq sols": -1,
+  "sr_time": 133.14220023155212,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__zoo_30_minion_79050": {
+  "freq sols": -1,
+  "sr_time": 16.66975975036621,
+  "sols": 628,
+  "solver_time": 4.678451999999999
+ },
+ "hu_closed_cost_util_freqmining__lymph_40_nbc_18193": {
+  "freq sols": -1,
+  "sr_time": 27.042832851409912,
+  "sols": 1711,
+  "solver_time": 3.1099999999999994
+ },
+ "hu_gen_fis_noincomp__hepatit_10_glucose_98846": {
+  "freq sols": -1,
+  "sr_time": 7610.473019599915,
+  "sols": 6127,
+  "solver_time": 7290.265841999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_glucose_91751": {
+  "freq sols": -1,
+  "sr_time": 21.479746103286743,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_30_glucose_29643": {
+  "freq sols": -1,
+  "sr_time": 12.81095027923584,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_40_glucose_80531": {
+  "freq sols": -1,
+  "sr_time": 136.4533884525299,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__tumor_50_nbc_10468": {
+  "freq sols": -1,
+  "sr_time": 8.371567726135254,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_50_glucose_73890": {
+  "freq sols": -1,
+  "sr_time": 14758.26458978653,
+  "sols": 11820,
+  "solver_time": 14198.872468
+ },
+ "hu_gen_fis__hypo_40_nbc_71966": {
+  "freq sols": -1,
+  "sr_time": 3757.419267654419,
+  "sols": 1766,
+  "solver_time": 5244.57
+ },
+ "hu_gen_fis_noincomp__zoo_20_glucose_72851": {
+  "freq sols": -1,
+  "sr_time": 6.837489604949951,
+  "sols": 0,
+  "solver_time": 0.558324
+ },
+ "hu_gen_fis_noincomp__krvskp_50_glucose_28441": {
+  "freq sols": -1,
+  "sr_time": 139.8665783405304,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_30_nbc_15449": {
+  "freq sols": -1,
+  "sr_time": 44.425244092941284,
+  "sols": 3902,
+  "solver_time": 9.11
+ },
+ "hu_gen_fis_noincomp__heart_40_glucose_95840": {
+  "freq sols": -1,
+  "sr_time": 20.332164525985718,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__audio_10_nbc_87798": {
+  "freq sols": -1,
+  "sr_time": 168.11055064201355,
+  "sols": 6761,
+  "solver_time": 61.57000000000001
+ },
+ "hu_gen_fis__tumor_20_minion_80676": {
+  "freq sols": -1,
+  "sr_time": 26.79218602180481,
+  "sols": 1998,
+  "solver_time": 6.473228
+ },
+ "hu_gen_fis_noincomp__german_50_glucose_15069": {
+  "freq sols": -1,
+  "sr_time": 7443.12642121315,
+  "sols": 510,
+  "solver_time": 6878.141530000002
+ },
+ "hu_gen_fis__heart_50_nbc_26377": {
+  "freq sols": -1,
+  "sr_time": 71.4105532169342,
+  "sols": 527,
+  "solver_time": 33.01999999999999
+ },
+ "hu_gen_fis_noincomp__vote_10_glucose_32135": {
+  "freq sols": -1,
+  "sr_time": 16502.252347946167,
+  "sols": 10264,
+  "solver_time": 26000.56046900006
+ },
+ "hu_gen_fis__tumor_40_minion_77436": {
+  "freq sols": -1,
+  "sr_time": 14.131340026855469,
+  "sols": 310,
+  "solver_time": 2.042383
+ },
+ "hu_gen_fis_noincomp__german_30_glucose_6669": {
+  "freq sols": -1,
+  "sr_time": 59.79272222518921,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_glucose_97654": {
+  "freq sols": -1,
+  "sr_time": 6496.455851078033,
+  "sols": 3009,
+  "solver_time": 7114.074075999988
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_nbc_36277": {
+  "freq sols": -1,
+  "sr_time": 148.09865069389343,
+  "sols": 153,
+  "solver_time": 112.07999999999996
+ },
+ "hu_closed_cost_util_freqmining__audio_10_nbc_32016": {
+  "freq sols": -1,
+  "sr_time": 146.65869212150574,
+  "sols": 6761,
+  "solver_time": 50.64999999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_glucose_50321": {
+  "freq sols": -1,
+  "sr_time": 11.031303644180298,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_20_glucose_99553": {
+  "freq sols": -1,
+  "sr_time": 11.056314945220947,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_40_nbc_9753": {
+  "freq sols": -1,
+  "sr_time": 11.596283674240112,
+  "sols": 64,
+  "solver_time": 0.13
+ },
+ "hu_gen_fis_noincomp__vote_50_minion_64286": {
+  "freq sols": -1,
+  "sr_time": 14.047833442687988,
+  "sols": 0,
+  "solver_time": 0.141685
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_glucose_49114": {
+  "freq sols": -1,
+  "sr_time": 370.5615699291229,
+  "sols": 310,
+  "solver_time": 131.15703200000004
+ },
+ "hu_gen_fis_noincomp__german_30_glucose_30837": {
+  "freq sols": -1,
+  "sr_time": 57.65535092353821,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_30_glucose_20774": {
+  "freq sols": -1,
+  "sr_time": 1451.1366693973541,
+  "sols": 1211,
+  "solver_time": 770.9460699999997
+ },
+ "hu_gen_fis_noincomp__zoo_30_glucose_58634": {
+  "freq sols": -1,
+  "sr_time": 7.060401439666748,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_glucose_8496": {
+  "freq sols": -1,
+  "sr_time": 6751.667496204376,
+  "sols": 3009,
+  "solver_time": 6452.501135000007
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_glucose_23368": {
+  "freq sols": -1,
+  "sr_time": 12.290712118148804,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_10_glucose_46200": {
+  "freq sols": -1,
+  "sr_time": 13908.533530712128,
+  "sols": 5349,
+  "solver_time": 21677.031218000007
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_nbc_804": {
+  "freq sols": -1,
+  "sr_time": 3617.3654356002808,
+  "sols": 6277,
+  "solver_time": 3346.169999999991
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_10_glucose_50782": {
+  "freq sols": -1,
+  "sr_time": 139.85190629959106,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__krvskp_40_nbc_60058": {
+  "freq sols": -1,
+  "sr_time": 3085.9574642181396,
+  "sols": 1035,
+  "solver_time": 5287.89
+ },
+ "hu_closed_cost_util_freqmining__aus_40_nbc_8645": {
+  "freq sols": -1,
+  "sr_time": 1136.5534527301788,
+  "sols": 4474,
+  "solver_time": 2357.7900000000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_glucose_57199": {
+  "freq sols": -1,
+  "sr_time": 11.18608808517456,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_40_nbc_15019": {
+  "freq sols": -1,
+  "sr_time": 47.47726368904114,
+  "sols": 4181,
+  "solver_time": 5.36
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_nbc_11575": {
+  "freq sols": -1,
+  "sr_time": 10086.948874235153,
+  "sols": 5111,
+  "solver_time": 6178.610000000011
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_40_glucose_97604": {
+  "freq sols": -1,
+  "sr_time": 128.60020399093628,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_50_glucose_33731": {
+  "freq sols": -1,
+  "sr_time": 5.796672582626343,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_30_glucose_83448": {
+  "freq sols": -1,
+  "sr_time": 136.80491042137146,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hepatit_20_nbc_61218": {
+  "freq sols": -1,
+  "sr_time": 59.935190200805664,
+  "sols": 179,
+  "solver_time": 33.64000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_nbc_26192": {
+  "freq sols": -1,
+  "sr_time": 2814.5845024585724,
+  "sols": 556,
+  "solver_time": 2092.2799999999993
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_minion_40319": {
+  "freq sols": -1,
+  "sr_time": 5.366670846939087,
+  "sols": 0,
+  "solver_time": 0.02852
+ },
+ "hu_gen_fis__hypo_20_nbc_95585": {
+  "freq sols": -1,
+  "sr_time": 6299.7321763038635,
+  "sols": 47,
+  "solver_time": 6080.640000000001
+ },
+ "hu_gen_fis_noincomp__heart_50_glucose_6436": {
+  "freq sols": -1,
+  "sr_time": 21.88828754425049,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_50_glucose_69423": {
+  "freq sols": -1,
+  "sr_time": 19.68674898147583,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_20_glucose_89306": {
+  "freq sols": -1,
+  "sr_time": 139.40873074531555,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_glucose_77635": {
+  "freq sols": -1,
+  "sr_time": 20.95532774925232,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_10_glucose_9522": {
+  "freq sols": -1,
+  "sr_time": 61.954495668411255,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_10_nbc_97457": {
+  "freq sols": -1,
+  "sr_time": 75.09099173545837,
+  "sols": 3876,
+  "solver_time": 34.30000000000001
+ },
+ "hu_gen_fis__hypo_40_nbc_83544": {
+  "freq sols": -1,
+  "sr_time": 4118.247229814529,
+  "sols": 1766,
+  "solver_time": 3851.1600000000008
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_10_glucose_92589": {
+  "freq sols": -1,
+  "sr_time": 23.0696804523468,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_10_glucose_81704": {
+  "freq sols": -1,
+  "sr_time": 14206.291884183884,
+  "sols": 5349,
+  "solver_time": 13684.716903999988
+ },
+ "hu_gen_fis__krvskp_40_nbc_84209": {
+  "freq sols": -1,
+  "sr_time": 3122.1539504528046,
+  "sols": 1230,
+  "solver_time": 2902.5799999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_glucose_37564": {
+  "freq sols": -1,
+  "sr_time": 4986.557896614075,
+  "sols": 3812,
+  "solver_time": 4741.434381999996
+ },
+ "hu_closed_cost_util_freqmining__zoo_50_nbc_77827": {
+  "freq sols": -1,
+  "sr_time": 17.398699045181274,
+  "sols": 7,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hepatit_30_nbc_31011": {
+  "freq sols": -1,
+  "sr_time": 31.596110820770264,
+  "sols": 72,
+  "solver_time": 16.19
+ },
+ "hu_gen_fis_noincomp__lymph_10_glucose_81429": {
+  "freq sols": -1,
+  "sr_time": 12.207377672195435,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_20_glucose_93446": {
+  "freq sols": -1,
+  "sr_time": 6231.131021738052,
+  "sols": 2997,
+  "solver_time": 5101.925835000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_nbc_38330": {
+  "freq sols": -1,
+  "sr_time": 321.9592032432556,
+  "sols": 6,
+  "solver_time": 252.10999999999999
+ },
+ "hu_gen_fis__aus_20_nbc_63273": {
+  "freq sols": -1,
+  "sr_time": 4697.617455244064,
+  "sols": 5,
+  "solver_time": 4506.210000000001
+ },
+ "hu_closed_cost_util_freqmining__hypo_10_nbc_80899": {
+  "freq sols": -1,
+  "sr_time": 9512.21740102768,
+  "sols": 481,
+  "solver_time": 9275.560000000001
+ },
+ "hu_gen_fis_noincomp__tumor_30_glucose_11607": {
+  "freq sols": -1,
+  "sr_time": 12.894430875778198,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__heart_40_nbc_76468": {
+  "freq sols": -1,
+  "sr_time": 228.76449513435364,
+  "sols": 3630,
+  "solver_time": 169.02
+ },
+ "hu_closed_cost_util_freqmining__zoo_40_nbc_56041": {
+  "freq sols": -1,
+  "sr_time": 20.434781551361084,
+  "sols": 43,
+  "solver_time": 0.14
+ },
+ "hu_gen_fis__hypo_30_nbc_82181": {
+  "freq sols": -1,
+  "sr_time": 7199.640820264816,
+  "sols": 3222,
+  "solver_time": 16144.080000000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_20_glucose_36341": {
+  "freq sols": -1,
+  "sr_time": 21.544179439544678,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_10_nbc_65345": {
+  "freq sols": -1,
+  "sr_time": 56.84397101402283,
+  "sols": 3812,
+  "solver_time": 11.94
+ },
+ "hu_gen_fis__audio_40_nbc_72601": {
+  "freq sols": -1,
+  "sr_time": 61.72563576698303,
+  "sols": 1808,
+  "solver_time": 6.02
+ },
+ "hu_gen_fis_noincomp__german_40_glucose_75230": {
+  "freq sols": -1,
+  "sr_time": 61.52534890174866,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__vote_30_nbc_7087": {
+  "freq sols": -1,
+  "sr_time": 49.938225746154785,
+  "sols": 268,
+  "solver_time": 13.44
+ },
+ "hu_gen_fis_noincomp__hypo_40_glucose_89074": {
+  "freq sols": -1,
+  "sr_time": 133.91047763824463,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_nbc_18962": {
+  "freq sols": -1,
+  "sr_time": 772.981011390686,
+  "sols": 1223,
+  "solver_time": 691.6
+ },
+ "hu_gen_fis__lymph_50_minion_88794": {
+  "freq sols": -1,
+  "sr_time": 29.893378973007202,
+  "sols": 1044,
+  "solver_time": 8.238932
+ },
+ "hu_gen_fis_noincomp__tumor_40_glucose_95599": {
+  "freq sols": -1,
+  "sr_time": 341.2059180736542,
+  "sols": 310,
+  "solver_time": 127.2798809999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_nbc_73242": {
+  "freq sols": -1,
+  "sr_time": 5823.211120605469,
+  "sols": 3812,
+  "solver_time": 5597.749999999989
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_10_glucose_55974": {
+  "freq sols": -1,
+  "sr_time": 45.75296354293823,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_10_minion_5269": {
+  "freq sols": -1,
+  "sr_time": 5.0711774826049805,
+  "sols": 0,
+  "solver_time": 0.029704
+ },
+ "hu_gen_fis_noincomp__hepatit_50_glucose_15601": {
+  "freq sols": -1,
+  "sr_time": 2491.459983110428,
+  "sols": 4400,
+  "solver_time": 1093.8472849999987
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_40_glucose_16914": {
+  "freq sols": -1,
+  "sr_time": 60.673555850982666,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hepatit_20_nbc_56344": {
+  "freq sols": -1,
+  "sr_time": 52.546335220336914,
+  "sols": 179,
+  "solver_time": 27.400000000000002
+ },
+ "hu_gen_fis__hepatit_10_nbc_67669": {
+  "freq sols": -1,
+  "sr_time": 113.0650007724762,
+  "sols": 4643,
+  "solver_time": 60.319999999999986
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_30_glucose_90591": {
+  "freq sols": -1,
+  "sr_time": 19.67612075805664,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_10_glucose_17139": {
+  "freq sols": -1,
+  "sr_time": 11.393941402435303,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_20_glucose_31715": {
+  "freq sols": -1,
+  "sr_time": 327.4255516529083,
+  "sols": 0,
+  "solver_time": 189.419
+ },
+ "hu_closed_cost_util_freqmining__tumor_20_nbc_84533": {
+  "freq sols": -1,
+  "sr_time": 48.17883801460266,
+  "sols": 4741,
+  "solver_time": 13.120000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_50_glucose_44165": {
+  "freq sols": -1,
+  "sr_time": 137.48709654808044,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_nbc_12670": {
+  "freq sols": -1,
+  "sr_time": 196.76510000228882,
+  "sols": 14,
+  "solver_time": 3276.21
+ },
+ "hu_closed_cost_util_freqmining__aus_20_nbc_56429": {
+  "freq sols": -1,
+  "sr_time": 9414.626706123352,
+  "sols": 4312,
+  "solver_time": 19304.179999999997
+ },
+ "hu_gen_fis__tumor_30_nbc_46437": {
+  "freq sols": -1,
+  "sr_time": 32.25440192222595,
+  "sols": 1191,
+  "solver_time": 6.999999999999998
+ },
+ "hu_minimal_rare_fis__zoo_20_nbc_80565": {
+  "freq sols": -1,
+  "sr_time": 64.27936005592346,
+  "sols": 32785,
+  "solver_time": 17.140000000000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_40_glucose_15336": {
+  "freq sols": -1,
+  "sr_time": 6736.367830038071,
+  "sols": 8125,
+  "solver_time": 1564.6096750000002
+ },
+ "hu_gen_fis__tumor_50_minion_18147": {
+  "freq sols": -1,
+  "sr_time": 13.829025983810425,
+  "sols": 61,
+  "solver_time": 1.688766
+ },
+ "hu_gen_fis_noincomp__zoo_20_glucose_74081": {
+  "freq sols": -1,
+  "sr_time": 6.158188104629517,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_40_glucose_35140": {
+  "freq sols": -1,
+  "sr_time": 28.32331132888794,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_40_glucose_66542": {
+  "freq sols": -1,
+  "sr_time": 342.39257740974426,
+  "sols": 310,
+  "solver_time": 132.38162900000003
+ },
+ "hu_gen_fis_noincomp__zoo_40_glucose_72346": {
+  "freq sols": -1,
+  "sr_time": 33.448267459869385,
+  "sols": 68,
+  "solver_time": 1.920593
+ },
+ "hu_closed_cost_util_freqmining__heart_20_nbc_53704": {
+  "freq sols": -1,
+  "sr_time": 1478.4143159389496,
+  "sols": 8484,
+  "solver_time": 1377.3700000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_glucose_94693": {
+  "freq sols": -1,
+  "sr_time": 13.993624210357666,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_50_minion_67406": {
+  "freq sols": -1,
+  "sr_time": 7.503262519836426,
+  "sols": 7,
+  "solver_time": 1.1894999999999998
+ },
+ "hu_closed_cost_util_freqmining__lymph_40_nbc_29274": {
+  "freq sols": -1,
+  "sr_time": 26.576887369155884,
+  "sols": 1711,
+  "solver_time": 3.2199999999999998
+ },
+ "hu_closed_cost_util_freqmining__audio_40_nbc_73731": {
+  "freq sols": -1,
+  "sr_time": 145.97412514686584,
+  "sols": 8283,
+  "solver_time": 19.290000000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_glucose_90218": {
+  "freq sols": -1,
+  "sr_time": 65.76375579833984,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_glucose_11094": {
+  "freq sols": -1,
+  "sr_time": 4763.733825683594,
+  "sols": 4964,
+  "solver_time": 4483.320815999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_20_glucose_26153": {
+  "freq sols": -1,
+  "sr_time": 143.66178822517395,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_glucose_52545": {
+  "freq sols": -1,
+  "sr_time": 863.2214875221252,
+  "sols": 4805,
+  "solver_time": 692.9614519999988
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_glucose_13628": {
+  "freq sols": -1,
+  "sr_time": 27.632320404052734,
+  "sols": 5,
+  "solver_time": 6.25657
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_10_glucose_32364": {
+  "freq sols": -1,
+  "sr_time": 14452.664730072021,
+  "sols": 11397,
+  "solver_time": 13934.729277000046
+ },
+ "hu_closed_cost_util_freqmining__hepatit_50_nbc_27704": {
+  "freq sols": -1,
+  "sr_time": 49.39930987358093,
+  "sols": 3590,
+  "solver_time": 9.07
+ },
+ "hu_gen_fis__heart_30_nbc_28788": {
+  "freq sols": -1,
+  "sr_time": 294.19195914268494,
+  "sols": 21,
+  "solver_time": 263.6500000000001
+ },
+ "hu_gen_fis_noincomp__german_50_glucose_69240": {
+  "freq sols": -1,
+  "sr_time": 7930.395341873169,
+  "sols": 510,
+  "solver_time": 7622.632800000004
+ },
+ "hu_gen_fis_noincomp__lymph_50_glucose_94882": {
+  "freq sols": -1,
+  "sr_time": 11.258297204971313,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__heart_40_nbc_4566": {
+  "freq sols": -1,
+  "sr_time": 216.18954586982727,
+  "sols": 3630,
+  "solver_time": 162.81
+ },
+ "hu_gen_fis_noincomp__anneal_30_glucose_64542": {
+  "freq sols": -1,
+  "sr_time": 28.5727117061615,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_40_glucose_85017": {
+  "freq sols": -1,
+  "sr_time": 30.262059211730957,
+  "sols": 5,
+  "solver_time": 6.294809
+ },
+ "hu_gen_fis_noincomp__tumor_30_glucose_11614": {
+  "freq sols": -1,
+  "sr_time": 12.543620586395264,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_nbc_27146": {
+  "freq sols": -1,
+  "sr_time": 6667.213409423828,
+  "sols": 6366,
+  "solver_time": 2587.7500000000027
+ },
+ "hu_gen_fis_noincomp__tumor_10_glucose_44411": {
+  "freq sols": -1,
+  "sr_time": 8.47089409828186,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__anneal_50_nbc_49584": {
+  "freq sols": -1,
+  "sr_time": 352.40741658210754,
+  "sols": 4436,
+  "solver_time": 426.36000000000007
+ },
+ "hu_gen_fis_noincomp__hepatit_30_glucose_6665": {
+  "freq sols": -1,
+  "sr_time": 9.944813251495361,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__german_40_minion_64937": {
+  "freq sols": -1,
+  "sr_time": 594.7214956283569,
+  "sols": 2338,
+  "solver_time": 501.90331000000015
+ },
+ "hu_gen_fis__hepatit_40_nbc_27209": {
+  "freq sols": -1,
+  "sr_time": 71.35530352592468,
+  "sols": 9231,
+  "solver_time": 22.040000000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_10_glucose_19775": {
+  "freq sols": -1,
+  "sr_time": 12986.663125514984,
+  "sols": 6421,
+  "solver_time": 12606.965135999992
+ },
+ "hu_minimal_rare_fis__vote_40_nbc_9693": {
+  "freq sols": -1,
+  "sr_time": 199.8108193874359,
+  "sols": 34180,
+  "solver_time": 83.16
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_glucose_41278": {
+  "freq sols": -1,
+  "sr_time": 4731.461052656174,
+  "sols": 4964,
+  "solver_time": 4478.263383000006
+ },
+ "hu_closed_cost_util_freqmining__hepatit_10_nbc_49085": {
+  "freq sols": -1,
+  "sr_time": 129.80958127975464,
+  "sols": 3166,
+  "solver_time": 89.84000000000003
+ },
+ "hu_gen_fis__german_40_nbc_99117": {
+  "freq sols": -1,
+  "sr_time": 396.1773796081543,
+  "sols": 2338,
+  "solver_time": 282.8599999999998
+ },
+ "hu_gen_fis_noincomp__vote_20_glucose_67383": {
+  "freq sols": -1,
+  "sr_time": 5759.939601182938,
+  "sols": 2997,
+  "solver_time": 4345.8962679999895
+ },
+ "hu_gen_fis__lymph_10_nbc_12570": {
+  "freq sols": -1,
+  "sr_time": 68.9073212146759,
+  "sols": 2391,
+  "solver_time": 28.45
+ },
+ "hu_gen_fis_noincomp__hepatit_50_glucose_9503": {
+  "freq sols": -1,
+  "sr_time": 3131.2033343315125,
+  "sols": 4400,
+  "solver_time": 1039.0488710000002
+ },
+ "hu_closed_cost_util_freqmining__heart_30_nbc_67932": {
+  "freq sols": -1,
+  "sr_time": 650.4748315811157,
+  "sols": 7165,
+  "solver_time": 564.41
+ },
+ "hu_gen_fis_noincomp__aus_20_glucose_29793": {
+  "freq sols": -1,
+  "sr_time": 782.0695436000824,
+  "sols": 6,
+  "solver_time": 719.1986
+ },
+ "hu_gen_fis__audio_30_nbc_76072": {
+  "freq sols": -1,
+  "sr_time": 7526.962321519852,
+  "sols": 466380,
+  "solver_time": 4933.919999999999
+ },
+ "hu_gen_fis_noincomp__audio_10_glucose_22490": {
+  "freq sols": -1,
+  "sr_time": 20.134861946105957,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__heart_20_nbc_60650": {
+  "freq sols": -1,
+  "sr_time": 958.961172580719,
+  "sols": 485,
+  "solver_time": 903.3299999999999
+ },
+ "hu_closed_cost_util_freqmining__aus_50_nbc_62893": {
+  "freq sols": -1,
+  "sr_time": 474.02632689476013,
+  "sols": 2093,
+  "solver_time": 383.304371
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_glucose_59997": {
+  "freq sols": -1,
+  "sr_time": 10.648530721664429,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_40_minion_92549": {
+  "freq sols": -1,
+  "sr_time": 170.9158480167389,
+  "sols": 310,
+  "solver_time": 113.74734199999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_minion_3085": {
+  "freq sols": -1,
+  "sr_time": 19.31687641143799,
+  "sols": 5,
+  "solver_time": 3.312033
+ },
+ "hu_closed_cost_util_freqmining__audio_20_nbc_92272": {
+  "freq sols": -1,
+  "sr_time": 164.11350679397583,
+  "sols": 9667,
+  "solver_time": 42.179999999999986
+ },
+ "hu_closed_cost_util_freqmining__lymph_20_nbc_61665": {
+  "freq sols": -1,
+  "sr_time": 69.2354748249054,
+  "sols": 6322,
+  "solver_time": 26.019999999999996
+ },
+ "hu_gen_fis_noincomp__vote_50_glucose_13978": {
+  "freq sols": -1,
+  "sr_time": 14.454899787902832,
+  "sols": 0,
+  "solver_time": 0.00114
+ },
+ "hu_gen_fis_noincomp__zoo_20_glucose_48364": {
+  "freq sols": -1,
+  "sr_time": 6.564665079116821,
+  "sols": 0,
+  "solver_time": 0.804845
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_glucose_24500": {
+  "freq sols": -1,
+  "sr_time": 13.07211709022522,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_nbc_98917": {
+  "freq sols": -1,
+  "sr_time": 2461.6101422309875,
+  "sols": 486,
+  "solver_time": 2298.9900000000007
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_glucose_47613": {
+  "freq sols": -1,
+  "sr_time": 11.68331527709961,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_minion_37187": {
+  "freq sols": -1,
+  "sr_time": 20.71442437171936,
+  "sols": 5,
+  "solver_time": 3.680139
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_nbc_15717": {
+  "freq sols": -1,
+  "sr_time": 5.185726642608643,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_10_glucose_77259": {
+  "freq sols": -1,
+  "sr_time": 20.44833731651306,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__zoo_30_nbc_61825": {
+  "freq sols": -1,
+  "sr_time": 92.99893808364868,
+  "sols": 48282,
+  "solver_time": 28.18
+ },
+ "hu_gen_fis__zoo_30_nbc_43343": {
+  "freq sols": -1,
+  "sr_time": 14.19214391708374,
+  "sols": 1132,
+  "solver_time": 0.8400000000000001
+ },
+ "hu_gen_fis_noincomp__audio_30_glucose_22736": {
+  "freq sols": -1,
+  "sr_time": 20.422964811325073,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hypo_40_nbc_31070": {
+  "freq sols": -1,
+  "sr_time": 4763.085324525833,
+  "sols": 1766,
+  "solver_time": 7149.51
+ },
+ "hu_gen_fis__hypo_30_nbc_17041": {
+  "freq sols": -1,
+  "sr_time": 6384.853008031845,
+  "sols": 3222,
+  "solver_time": 6074.810000000001
+ },
+ "hu_gen_fis_noincomp__zoo_10_minion_58462": {
+  "freq sols": -1,
+  "sr_time": 4.9170308113098145,
+  "sols": 0,
+  "solver_time": 0.029881
+ },
+ "hu_gen_fis__vote_30_minion_19672": {
+  "freq sols": -1,
+  "sr_time": 34.171995639801025,
+  "sols": 268,
+  "solver_time": 9.317605
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_nbc_99559": {
+  "freq sols": -1,
+  "sr_time": 10547.151893377304,
+  "sols": 16858,
+  "solver_time": 3249.619999999946
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_nbc_26820": {
+  "freq sols": -1,
+  "sr_time": 288.2243688106537,
+  "sols": 154,
+  "solver_time": 133.47999999999993
+ },
+ "hu_gen_fis_noincomp__lymph_20_glucose_61499": {
+  "freq sols": -1,
+  "sr_time": 10.81632375717163,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_glucose_3159": {
+  "freq sols": -1,
+  "sr_time": 208.86660885810852,
+  "sols": 135,
+  "solver_time": 87.99571699999998
+ },
+ "hu_closed_cost_util_freqmining__lymph_30_nbc_62715": {
+  "freq sols": -1,
+  "sr_time": 45.73979592323303,
+  "sols": 3902,
+  "solver_time": 9.399999999999999
+ },
+ "hu_closed_cost_util_freqmining__krvskp_50_nbc_78308": {
+  "freq sols": -1,
+  "sr_time": 1458.9852378368378,
+  "sols": 381,
+  "solver_time": 1223.19
+ },
+ "hu_gen_fis__anneal_40_nbc_46759": {
+  "freq sols": -1,
+  "sr_time": 28.900104761123657,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_glucose_18686": {
+  "freq sols": -1,
+  "sr_time": 17.00369906425476,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__vote_40_nbc_88402": {
+  "freq sols": -1,
+  "sr_time": 40.12096405029297,
+  "sols": 5,
+  "solver_time": 3.47
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_50_glucose_35669": {
+  "freq sols": -1,
+  "sr_time": 2392.696409702301,
+  "sols": 5099,
+  "solver_time": 4038.597494000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_glucose_79521": {
+  "freq sols": -1,
+  "sr_time": 67.71658563613892,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_20_glucose_68377": {
+  "freq sols": -1,
+  "sr_time": 48.66409683227539,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_glucose_56875": {
+  "freq sols": -1,
+  "sr_time": 12.300469875335693,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_50_nbc_29981": {
+  "freq sols": -1,
+  "sr_time": 56.49143648147583,
+  "sols": 61,
+  "solver_time": 4.4700000000000015
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_minion_21339": {
+  "freq sols": -1,
+  "sr_time": 13.189043283462524,
+  "sols": 0,
+  "solver_time": 0.125831
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_glucose_65611": {
+  "freq sols": -1,
+  "sr_time": 196.69238448143005,
+  "sols": 135,
+  "solver_time": 89.12974600000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_50_nbc_95262": {
+  "freq sols": -1,
+  "sr_time": 17834.450432538986,
+  "sols": 412,
+  "solver_time": 16972.109999999997
+ },
+ "hu_gen_fis_noincomp__audio_40_glucose_56078": {
+  "freq sols": -1,
+  "sr_time": 18.752121210098267,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__aus_40_nbc_96570": {
+  "freq sols": -1,
+  "sr_time": 699.3114860057831,
+  "sols": 18,
+  "solver_time": 635.6000000000001
+ },
+ "hu_closed_cost_util_freqmining__vote_50_nbc_92764": {
+  "freq sols": -1,
+  "sr_time": 14.496954441070557,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__krvskp_20_nbc_26914": {
+  "freq sols": -1,
+  "sr_time": 16377.425120592117,
+  "sols": 23859,
+  "solver_time": 36426.94
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_20_nbc_28053": {
+  "freq sols": -1,
+  "sr_time": 11010.036522388458,
+  "sols": 78,
+  "solver_time": 10659.12
+ },
+ "hu_gen_fis__vote_50_nbc_50091": {
+  "freq sols": -1,
+  "sr_time": 15.485046625137329,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_20_minion_30092": {
+  "freq sols": -1,
+  "sr_time": 4868.435563802719,
+  "sols": 1998,
+  "solver_time": 4679.501997
+ },
+ "hu_closed_cost_util_freqmining__lymph_50_minion_87052": {
+  "freq sols": -1,
+  "sr_time": 47.50842523574829,
+  "sols": 1492,
+  "solver_time": 15.963355
+ },
+ "hu_gen_fis__vote_20_minion_85398": {
+  "freq sols": -1,
+  "sr_time": 62.65634083747864,
+  "sols": 2983,
+  "solver_time": 24.738171
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_40_glucose_99595": {
+  "freq sols": -1,
+  "sr_time": 20.285021543502808,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_40_glucose_66856": {
+  "freq sols": -1,
+  "sr_time": 135.9889941215515,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_glucose_48842": {
+  "freq sols": -1,
+  "sr_time": 410.1451749801636,
+  "sols": 268,
+  "solver_time": 360.28935700000005
+ },
+ "hu_gen_fis__anneal_50_nbc_37559": {
+  "freq sols": -1,
+  "sr_time": 803.1528742313385,
+  "sols": 46920,
+  "solver_time": 498.5299999999999
+ },
+ "hu_closed_cost_util_freqmining__hypo_40_nbc_80684": {
+  "freq sols": -1,
+  "sr_time": 4735.6013169288635,
+  "sols": 1629,
+  "solver_time": 4493.68
+ },
+ "hu_closed_cost_util_freqmining__vote_20_nbc_3769": {
+  "freq sols": -1,
+  "sr_time": 77.5981969833374,
+  "sols": 2983,
+  "solver_time": 36.589999999999996
+ },
+ "hu_closed_cost_util_freqmining__heart_40_nbc_70339": {
+  "freq sols": -1,
+  "sr_time": 192.8896176815033,
+  "sols": 3630,
+  "solver_time": 26.079896
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_40_glucose_56651": {
+  "freq sols": -1,
+  "sr_time": 45.94941258430481,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_40_glucose_65728": {
+  "freq sols": -1,
+  "sr_time": 55.809688091278076,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__german_50_nbc_98550": {
+  "freq sols": -1,
+  "sr_time": 161.8184094429016,
+  "sols": 377,
+  "solver_time": 85.14
+ },
+ "hu_gen_fis__hypo_50_nbc_79820": {
+  "freq sols": -1,
+  "sr_time": 5740.397730350494,
+  "sols": 20634,
+  "solver_time": 11822.810000000003
+ },
+ "hu_gen_fis_noincomp__krvskp_40_glucose_53738": {
+  "freq sols": -1,
+  "sr_time": 136.36739778518677,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_40_glucose_27512": {
+  "freq sols": -1,
+  "sr_time": 4199.111908197403,
+  "sols": 3660,
+  "solver_time": 2141.2471030000006
+ },
+ "hu_gen_fis__heart_10_nbc_97543": {
+  "freq sols": -1,
+  "sr_time": 2231.083911418915,
+  "sols": 256,
+  "solver_time": 2149.09
+ },
+ "hu_closed_cost_util_freqmining__vote_20_nbc_87859": {
+  "freq sols": -1,
+  "sr_time": 84.10695624351501,
+  "sols": 2983,
+  "solver_time": 26.009999999999998
+ },
+ "hu_closed_cost_util_freqmining__heart_40_minion_52601": {
+  "freq sols": -1,
+  "sr_time": 1028.744570016861,
+  "sols": 3630,
+  "solver_time": 986.4208059999999
+ },
+ "hu_closed_cost_util_freqmining__hypo_10_nbc_31648": {
+  "freq sols": -1,
+  "sr_time": 9772.8112180233,
+  "sols": 481,
+  "solver_time": 14718.69
+ },
+ "hu_gen_fis_noincomp__zoo_10_minion_13502": {
+  "freq sols": -1,
+  "sr_time": 4.99052095413208,
+  "sols": 0,
+  "solver_time": 0.024487
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_20_glucose_6823": {
+  "freq sols": -1,
+  "sr_time": 67.95300245285034,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_10_nbc_47374": {
+  "freq sols": -1,
+  "sr_time": 7180.853426933289,
+  "sols": 3812,
+  "solver_time": 4614.669999999997
+ },
+ "hu_gen_fis_noincomp__heart_30_glucose_66354": {
+  "freq sols": -1,
+  "sr_time": 219.77724027633667,
+  "sols": 21,
+  "solver_time": 189.70036999999996
+ },
+ "hu_gen_fis__vote_20_nbc_10517": {
+  "freq sols": -1,
+  "sr_time": 74.35501861572266,
+  "sols": 2983,
+  "solver_time": 27.519999999999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_30_minion_29713": {
+  "freq sols": -1,
+  "sr_time": 493.33055806159973,
+  "sols": 268,
+  "solver_time": 393.65435099999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_30_glucose_10595": {
+  "freq sols": -1,
+  "sr_time": 11.621027708053589,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_30_glucose_25416": {
+  "freq sols": -1,
+  "sr_time": 141.89146947860718,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hepatit_50_glucose_8386": {
+  "freq sols": -1,
+  "sr_time": 10.677360534667969,
+  "sols": 0,
+  "solver_time": 0.475577
+ },
+ "hu_gen_fis__hepatit_40_minion_60863": {
+  "freq sols": -1,
+  "sr_time": 235.59619998931885,
+  "sols": 9231,
+  "solver_time": 180.37632699999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_minion_21828": {
+  "freq sols": -1,
+  "sr_time": 7462.069617033005,
+  "sols": 611,
+  "solver_time": 7250.226160000001
+ },
+ "hu_gen_fis_noincomp__heart_10_glucose_24999": {
+  "freq sols": -1,
+  "sr_time": 8493.835338830948,
+  "sols": 304,
+  "solver_time": 9354.553910000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_glucose_99592": {
+  "freq sols": -1,
+  "sr_time": 11.849242448806763,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_40_glucose_63257": {
+  "freq sols": -1,
+  "sr_time": 11.253554582595825,
+  "sols": 68,
+  "solver_time": 1.9935019999999997
+ },
+ "hu_gen_fis__vote_50_minion_97449": {
+  "freq sols": -1,
+  "sr_time": 15.47977614402771,
+  "sols": 0,
+  "solver_time": 0.166763
+ },
+ "hu_gen_fis_noincomp__krvskp_20_glucose_85430": {
+  "freq sols": -1,
+  "sr_time": 355.4527475833893,
+  "sols": 0,
+  "solver_time": 207.774
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_glucose_72162": {
+  "freq sols": -1,
+  "sr_time": 876.0795483589172,
+  "sols": 1203,
+  "solver_time": 797.6724959999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_glucose_83938": {
+  "freq sols": -1,
+  "sr_time": 4.670538663864136,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_20_glucose_46171": {
+  "freq sols": -1,
+  "sr_time": 20.249341011047363,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_20_glucose_89277": {
+  "freq sols": -1,
+  "sr_time": 7.233086824417114,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_40_minion_29918": {
+  "freq sols": -1,
+  "sr_time": 13.806695699691772,
+  "sols": 310,
+  "solver_time": 2.1176600000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_nbc_51269": {
+  "freq sols": -1,
+  "sr_time": 14317.301416873932,
+  "sols": 16382,
+  "solver_time": 16516.54970000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_30_glucose_96478": {
+  "freq sols": -1,
+  "sr_time": 59.77774453163147,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_50_glucose_78969": {
+  "freq sols": -1,
+  "sr_time": 16.08592963218689,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_30_glucose_49667": {
+  "freq sols": -1,
+  "sr_time": 184.46175742149353,
+  "sols": 135,
+  "solver_time": 89.98228499999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_nbc_4155": {
+  "freq sols": -1,
+  "sr_time": 13.237623453140259,
+  "sols": 7,
+  "solver_time": 0.02
+ },
+ "hu_gen_fis_noincomp__vote_20_glucose_6049": {
+  "freq sols": -1,
+  "sr_time": 18.779834508895874,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_30_nbc_47523": {
+  "freq sols": -1,
+  "sr_time": 41.04078483581543,
+  "sols": 1191,
+  "solver_time": 6.03
+ },
+ "hu_gen_fis_noincomp__tumor_30_glucose_82784": {
+  "freq sols": -1,
+  "sr_time": 12.464370012283325,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__heart_50_nbc_14230": {
+  "freq sols": -1,
+  "sr_time": 60.6999831199646,
+  "sols": 483,
+  "solver_time": 26.51
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_50_glucose_44582": {
+  "freq sols": -1,
+  "sr_time": 5.8753461837768555,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_40_glucose_98945": {
+  "freq sols": -1,
+  "sr_time": 20.304713487625122,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__aus_30_nbc_595": {
+  "freq sols": -1,
+  "sr_time": 3763.9812343120575,
+  "sols": 9566,
+  "solver_time": 3626.209999999999
+ },
+ "hu_gen_fis_noincomp__zoo_10_glucose_45830": {
+  "freq sols": -1,
+  "sr_time": 4.57235860824585,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__anneal_10_nbc_75354": {
+  "freq sols": -1,
+  "sr_time": 1501.2534391880035,
+  "sols": 8788,
+  "solver_time": 1378.97
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_minion_26064": {
+  "freq sols": -1,
+  "sr_time": 170.05557918548584,
+  "sols": 310,
+  "solver_time": 135.35483299999996
+ },
+ "hu_gen_fis_noincomp__zoo_40_glucose_2707": {
+  "freq sols": -1,
+  "sr_time": 6.156176567077637,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__vote_10_nbc_90816": {
+  "freq sols": -1,
+  "sr_time": 133.71156787872314,
+  "sols": 9962,
+  "solver_time": 61.22
+ },
+ "hu_closed_cost_util_freqmining__heart_10_nbc_38683": {
+  "freq sols": -1,
+  "sr_time": 3653.6774168014526,
+  "sols": 3360,
+  "solver_time": 4062.5999999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_glucose_2224": {
+  "freq sols": -1,
+  "sr_time": 184.39759588241577,
+  "sols": 310,
+  "solver_time": 147.97285199999996
+ },
+ "hu_gen_fis_noincomp__heart_30_glucose_90791": {
+  "freq sols": -1,
+  "sr_time": 197.0213668346405,
+  "sols": 21,
+  "solver_time": 169.04756999999998
+ },
+ "hu_gen_fis_noincomp__heart_20_glucose_25039": {
+  "freq sols": -1,
+  "sr_time": 22.370991945266724,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__krvskp_40_nbc_51994": {
+  "freq sols": -1,
+  "sr_time": 3545.281585454941,
+  "sols": 1230,
+  "solver_time": 3262.16
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_glucose_77313": {
+  "freq sols": -1,
+  "sr_time": 6921.1100561618805,
+  "sols": 455,
+  "solver_time": 6661.683049999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_30_glucose_29493": {
+  "freq sols": -1,
+  "sr_time": 61.887141704559326,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_glucose_98103": {
+  "freq sols": -1,
+  "sr_time": 902.0220210552216,
+  "sols": 1203,
+  "solver_time": 824.8447289999999
+ },
+ "hu_gen_fis_noincomp__vote_20_glucose_69815": {
+  "freq sols": -1,
+  "sr_time": 6499.378797054291,
+  "sols": 2997,
+  "solver_time": 9623.313005
+ },
+ "hu_gen_fis__vote_30_nbc_89053": {
+  "freq sols": -1,
+  "sr_time": 41.64446568489075,
+  "sols": 268,
+  "solver_time": 13.009999999999996
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_glucose_66745": {
+  "freq sols": -1,
+  "sr_time": 112.52916550636292,
+  "sols": 1162,
+  "solver_time": 72.76832299999998
+ },
+ "hu_gen_fis__zoo_30_nbc_66920": {
+  "freq sols": -1,
+  "sr_time": 14.030716896057129,
+  "sols": 1132,
+  "solver_time": 0.6800000000000002
+ },
+ "hu_closed_cost_util_freqmining__hepatit_20_minion_98180": {
+  "freq sols": -1,
+  "sr_time": 4289.16394162178,
+  "sols": 179,
+  "solver_time": 4222.988972
+ },
+ "hu_gen_fis_noincomp__zoo_10_glucose_51536": {
+  "freq sols": -1,
+  "sr_time": 5.074504852294922,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__vote_20_glucose_28981": {
+  "freq sols": -1,
+  "sr_time": 21.058058261871338,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__aus_30_nbc_56105": {
+  "freq sols": -1,
+  "sr_time": 2143.770438671112,
+  "sols": 295,
+  "solver_time": 2029.3200000000002
+ },
+ "hu_closed_cost_util_freqmining__aus_50_minion_26554": {
+  "freq sols": -1,
+  "sr_time": 877.8087620735168,
+  "sols": 2093,
+  "solver_time": 1002.2006510000002
+ },
+ "hu_closed_cost_util_freqmining__aus_40_minion_22123": {
+  "freq sols": -1,
+  "sr_time": 12365.687489271164,
+  "sols": 4474,
+  "solver_time": 5785.126679999999
+ },
+ "hu_gen_fis_noincomp__heart_20_glucose_45482": {
+  "freq sols": -1,
+  "sr_time": 9341.879451274872,
+  "sols": 604,
+  "solver_time": 14543.326713000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_30_glucose_46838": {
+  "freq sols": -1,
+  "sr_time": 143.25352573394775,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_glucose_15646": {
+  "freq sols": -1,
+  "sr_time": 19.556747674942017,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_20_glucose_83936": {
+  "freq sols": -1,
+  "sr_time": 11.805848836898804,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_50_glucose_91259": {
+  "freq sols": -1,
+  "sr_time": 20.76268172264099,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_20_nbc_73049": {
+  "freq sols": -1,
+  "sr_time": 78.92205142974854,
+  "sols": 1819,
+  "solver_time": 40.65
+ },
+ "hu_gen_fis__heart_20_nbc_25349": {
+  "freq sols": -1,
+  "sr_time": 1079.3174703121185,
+  "sols": 485,
+  "solver_time": 1032.3000000000002
+ },
+ "hu_gen_fis__anneal_30_nbc_95779": {
+  "freq sols": -1,
+  "sr_time": 29.96182918548584,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_50_nbc_86742": {
+  "freq sols": -1,
+  "sr_time": 29.440804719924927,
+  "sols": 1044,
+  "solver_time": 1.28
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_40_glucose_74747": {
+  "freq sols": -1,
+  "sr_time": 47.071678161621094,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__heart_50_nbc_66782": {
+  "freq sols": -1,
+  "sr_time": 74.29333019256592,
+  "sols": 483,
+  "solver_time": 29.18
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_20_glucose_58752": {
+  "freq sols": -1,
+  "sr_time": 20.965043306350708,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_nbc_82767": {
+  "freq sols": -1,
+  "sr_time": 4194.833142757416,
+  "sols": 17214,
+  "solver_time": 3490.5200000000054
+ },
+ "hu_gen_fis_noincomp__tumor_50_glucose_17747": {
+  "freq sols": -1,
+  "sr_time": 11.529090881347656,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__hepatit_10_nbc_90725": {
+  "freq sols": -1,
+  "sr_time": 97.45758867263794,
+  "sols": 4643,
+  "solver_time": 54.62000000000001
+ },
+ "hu_closed_cost_util_freqmining__hypo_10_nbc_16226": {
+  "freq sols": -1,
+  "sr_time": 10245.158042669296,
+  "sols": 481,
+  "solver_time": 10158.500000000002
+ },
+ "hu_closed_cost_util_freqmining__krvskp_50_nbc_31869": {
+  "freq sols": -1,
+  "sr_time": 1811.8628606796265,
+  "sols": 381,
+  "solver_time": 3165.61942
+ },
+ "hu_gen_fis_noincomp__hypo_20_glucose_15811": {
+  "freq sols": -1,
+  "sr_time": 141.99427032470703,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_40_glucose_40481": {
+  "freq sols": -1,
+  "sr_time": 2194.6111550331116,
+  "sols": 7374,
+  "solver_time": 1954.6364659999956
+ },
+ "hu_closed_cost_util_freqmining_noincomp__audio_40_glucose_71831": {
+  "freq sols": -1,
+  "sr_time": 19.55843710899353,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__krvskp_40_nbc_68056": {
+  "freq sols": -1,
+  "sr_time": 3592.8403310775757,
+  "sols": 1035,
+  "solver_time": 6651.1089999999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_40_nbc_5215": {
+  "freq sols": -1,
+  "sr_time": 105.07374954223633,
+  "sols": 310,
+  "solver_time": 66.42
+ },
+ "hu_closed_cost_util_freqmining__audio_50_nbc_84708": {
+  "freq sols": -1,
+  "sr_time": 125.80902528762817,
+  "sols": 6699,
+  "solver_time": 39.89000000000002
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_nbc_63471": {
+  "freq sols": -1,
+  "sr_time": 1482.2349905967712,
+  "sols": 2228,
+  "solver_time": 76.29999999999936
+ },
+ "hu_closed_cost_util_freqmining__audio_50_nbc_8687": {
+  "freq sols": -1,
+  "sr_time": 144.78563857078552,
+  "sols": 6699,
+  "solver_time": 27.02
+ },
+ "hu_gen_fis_noincomp__vote_30_glucose_47071": {
+  "freq sols": -1,
+  "sr_time": 525.0615689754486,
+  "sols": 268,
+  "solver_time": 341.04984400000023
+ },
+ "hu_gen_fis_noincomp__heart_10_glucose_22892": {
+  "freq sols": -1,
+  "sr_time": 23.594913244247437,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__german_30_minion_60938": {
+  "freq sols": -1,
+  "sr_time": 4984.707055807114,
+  "sols": 9087,
+  "solver_time": 3506.7740000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_50_glucose_24559": {
+  "freq sols": -1,
+  "sr_time": 14.664870500564575,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_30_glucose_98692": {
+  "freq sols": -1,
+  "sr_time": 142.69214725494385,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__lymph_30_minion_75657": {
+  "freq sols": -1,
+  "sr_time": 484.69616627693176,
+  "sols": 3902,
+  "solver_time": 445.860554
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_40_nbc_39729": {
+  "freq sols": -1,
+  "sr_time": 11.511369466781616,
+  "sols": 95,
+  "solver_time": 1.340000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_glucose_52278": {
+  "freq sols": -1,
+  "sr_time": 6.392629623413086,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__heart_50_glucose_84833": {
+  "freq sols": -1,
+  "sr_time": 20.748427867889404,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_40_glucose_33504": {
+  "freq sols": -1,
+  "sr_time": 126.71092081069946,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__vote_40_nbc_11908": {
+  "freq sols": -1,
+  "sr_time": 41.76757192611694,
+  "sols": 5,
+  "solver_time": 3.3799999999999994
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_10_glucose_43357": {
+  "freq sols": -1,
+  "sr_time": 4.529988765716553,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__krvskp_20_glucose_18326": {
+  "freq sols": -1,
+  "sr_time": 143.96030831336975,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__lymph_10_minion_43937": {
+  "freq sols": -1,
+  "sr_time": 1061.6067390441895,
+  "sols": 2391,
+  "solver_time": 1019.397951
+ },
+ "hu_minimal_rare_fis__audio_40_nbc_65449": {
+  "freq sols": -1,
+  "sr_time": 104.03194785118103,
+  "sols": 5793,
+  "solver_time": 23.09
+ },
+ "hu_closed_cost_util_freqmining_noincomp__aus_20_glucose_61568": {
+  "freq sols": -1,
+  "sr_time": 47.16861701011658,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__zoo_10_minion_76539": {
+  "freq sols": -1,
+  "sr_time": 4.098697900772095,
+  "sols": 0,
+  "solver_time": 0.026578
+ },
+ "hu_gen_fis__vote_10_nbc_35085": {
+  "freq sols": -1,
+  "sr_time": 125.32976460456848,
+  "sols": 9962,
+  "solver_time": 58.67
+ },
+ "hu_gen_fis_noincomp__hepatit_20_glucose_93844": {
+  "freq sols": -1,
+  "sr_time": 7014.500956296921,
+  "sols": 2629,
+  "solver_time": 2927.8395579999997
+ },
+ "hu_closed_cost_util_freqmining__vote_20_minion_90558": {
+  "freq sols": -1,
+  "sr_time": 84.49727535247803,
+  "sols": 2983,
+  "solver_time": 43.947082
+ },
+ "hu_gen_fis__zoo_50_minion_17501": {
+  "freq sols": -1,
+  "sr_time": 6.5501708984375,
+  "sols": 7,
+  "solver_time": 0.465601
+ },
+ "hu_closed_cost_util_freqmining__zoo_40_minion_72924": {
+  "freq sols": -1,
+  "sr_time": 6.966854095458984,
+  "sols": 43,
+  "solver_time": 0.6372840000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_glucose_35550": {
+  "freq sols": -1,
+  "sr_time": 116.69627285003662,
+  "sols": 1162,
+  "solver_time": 71.75231599999995
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_50_glucose_70114": {
+  "freq sols": -1,
+  "sr_time": 35.37041449546814,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__tumor_20_glucose_47331": {
+  "freq sols": -1,
+  "sr_time": 1794.2879269123077,
+  "sols": 2003,
+  "solver_time": 1671.8401959999994
+ },
+ "hu_closed_cost_util_freqmining__vote_30_nbc_32729": {
+  "freq sols": -1,
+  "sr_time": 39.75471305847168,
+  "sols": 268,
+  "solver_time": 13.94
+ },
+ "hu_gen_fis_noincomp__heart_20_glucose_83682": {
+  "freq sols": -1,
+  "sr_time": 9809.923373699188,
+  "sols": 604,
+  "solver_time": 10691.090953000004
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_glucose_25461": {
+  "freq sols": -1,
+  "sr_time": 56.580684423446655,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__german_20_glucose_11295": {
+  "freq sols": -1,
+  "sr_time": 62.345147132873535,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__vote_50_nbc_44995": {
+  "freq sols": -1,
+  "sr_time": 15.502264499664307,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__zoo_20_glucose_67358": {
+  "freq sols": -1,
+  "sr_time": 3757.588515996933,
+  "sols": 5759,
+  "solver_time": 4141.798659999991
+ },
+ "hu_gen_fis_noincomp__german_10_glucose_65368": {
+  "freq sols": -1,
+  "sr_time": 66.22176313400269,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__tumor_20_minion_92608": {
+  "freq sols": -1,
+  "sr_time": 67.91976928710938,
+  "sols": 4741,
+  "solver_time": 42.568839
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_glucose_29406": {
+  "freq sols": -1,
+  "sr_time": 10.853067398071289,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__zoo_20_nbc_16142": {
+  "freq sols": -1,
+  "sr_time": 24.564960956573486,
+  "sols": 4374,
+  "solver_time": 3.5500000000000003
+ },
+ "hu_closed_cost_util_freqmining__vote_20_nbc_18278": {
+  "freq sols": -1,
+  "sr_time": 76.38223028182983,
+  "sols": 2983,
+  "solver_time": 31.830000000000002
+ },
+ "hu_gen_fis_noincomp__krvskp_40_glucose_969": {
+  "freq sols": -1,
+  "sr_time": 129.26643228530884,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_10_glucose_54326": {
+  "freq sols": -1,
+  "sr_time": 47.58561611175537,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_30_nbc_4329": {
+  "freq sols": -1,
+  "sr_time": 15.766120195388794,
+  "sols": 1132,
+  "solver_time": 0.6200000000000001
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_30_glucose_21453": {
+  "freq sols": -1,
+  "sr_time": 22.554232597351074,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__vote_10_nbc_5896": {
+  "freq sols": -1,
+  "sr_time": 98.96054339408875,
+  "sols": 5267,
+  "solver_time": 46.8
+ },
+ "hu_closed_cost_util_freqmining__vote_10_minion_12726": {
+  "freq sols": -1,
+  "sr_time": 152.87284660339355,
+  "sols": 5267,
+  "solver_time": 109.37865500000001
+ },
+ "hu_closed_cost_util_freqmining__german_10_nbc_54567": {
+  "freq sols": -1,
+  "sr_time": 5652.490508317947,
+  "sols": 5581,
+  "solver_time": 5453.599999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_20_glucose_89053": {
+  "freq sols": -1,
+  "sr_time": 807.2241094112396,
+  "sols": 387,
+  "solver_time": 708.8351219999998
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_30_glucose_39868": {
+  "freq sols": -1,
+  "sr_time": 138.79739499092102,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__heart_20_nbc_71893": {
+  "freq sols": -1,
+  "sr_time": 1535.285700559616,
+  "sols": 8484,
+  "solver_time": 2708.253
+ },
+ "hu_gen_fis__lymph_40_nbc_65003": {
+  "freq sols": -1,
+  "sr_time": 41.08832025527954,
+  "sols": 4181,
+  "solver_time": 5.159999999999999
+ },
+ "hu_closed_cost_util_freqmining_noincomp__anneal_40_glucose_8028": {
+  "freq sols": -1,
+  "sr_time": 33.76623010635376,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__lymph_30_glucose_80651": {
+  "freq sols": -1,
+  "sr_time": 16.909246683120728,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__german_50_nbc_11928": {
+  "freq sols": -1,
+  "sr_time": 182.53289031982422,
+  "sols": 377,
+  "solver_time": 98.19000000000003
+ },
+ "hu_gen_fis__german_30_nbc_18715": {
+  "freq sols": -1,
+  "sr_time": 594.1060020923615,
+  "sols": 144,
+  "solver_time": 504.97999999999996
+ },
+ "hu_gen_fis_noincomp__lymph_40_glucose_18098": {
+  "freq sols": -1,
+  "sr_time": 10.931941747665405,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__krvskp_50_glucose_20143": {
+  "freq sols": -1,
+  "sr_time": 136.29292130470276,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_40_nbc_94305": {
+  "freq sols": -1,
+  "sr_time": 16669.09992170334,
+  "sols": 11089,
+  "solver_time": 16092.109999999975
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hypo_20_glucose_63532": {
+  "freq sols": -1,
+  "sr_time": 143.1880660057068,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__heart_30_nbc_1591": {
+  "freq sols": -1,
+  "sr_time": 626.8354105949402,
+  "sols": 7165,
+  "solver_time": 854.966588
+ },
+ "hu_closed_cost_util_freqmining__hepatit_30_minion_45639": {
+  "freq sols": -1,
+  "sr_time": 435.5544967651367,
+  "sols": 72,
+  "solver_time": 413.59029200000003
+ },
+ "hu_gen_fis__audio_30_nbc_48511": {
+  "freq sols": -1,
+  "sr_time": 7977.1457443237305,
+  "sols": 466380,
+  "solver_time": 4732.209999999999
+ },
+ "hu_gen_fis_noincomp__tumor_50_glucose_70542": {
+  "freq sols": -1,
+  "sr_time": 72.66449999809265,
+  "sols": 61,
+  "solver_time": 19.625863000000003
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_nbc_34720": {
+  "freq sols": -1,
+  "sr_time": 626.9184534549713,
+  "sols": 1222,
+  "solver_time": 524.92
+ },
+ "hu_minimal_rare_fis__hepatit_50_nbc_2541": {
+  "freq sols": -1,
+  "sr_time": 69.67180871963501,
+  "sols": 5671,
+  "solver_time": 10.109999999999992
+ },
+ "hu_closed_cost_util_freqmining_noincomp__lymph_50_glucose_82323": {
+  "freq sols": -1,
+  "sr_time": 828.1470956802368,
+  "sols": 4805,
+  "solver_time": 673.3991550000007
+ },
+ "hu_closed_cost_util_freqmining_noincomp__vote_40_glucose_12233": {
+  "freq sols": -1,
+  "sr_time": 19.695172786712646,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__audio_10_nbc_44014": {
+  "freq sols": -1,
+  "sr_time": 151.5871605873108,
+  "sols": 6761,
+  "solver_time": 75.86
+ },
+ "hu_closed_cost_util_freqmining__hepatit_50_nbc_4989": {
+  "freq sols": -1,
+  "sr_time": 43.01105189323425,
+  "sols": 3590,
+  "solver_time": 8.95
+ },
+ "hu_closed_cost_util_freqmining__vote_30_nbc_91439": {
+  "freq sols": -1,
+  "sr_time": 52.812100648880005,
+  "sols": 268,
+  "solver_time": 9.269999999999998
+ },
+ "hu_gen_fis__tumor_50_nbc_608": {
+  "freq sols": -1,
+  "sr_time": 18.003888368606567,
+  "sols": 61,
+  "solver_time": 1.4000000000000004
+ },
+ "hu_gen_fis_noincomp__tumor_40_glucose_31018": {
+  "freq sols": -1,
+  "sr_time": 12.565591812133789,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_minimal_rare_fis__tumor_40_nbc_94077": {
+  "freq sols": -1,
+  "sr_time": 7.740803480148315,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__zoo_10_nbc_97222": {
+  "freq sols": -1,
+  "sr_time": 5.9945361614227295,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__audio_10_glucose_95679": {
+  "freq sols": -1,
+  "sr_time": 21.98526644706726,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__zoo_30_nbc_37584": {
+  "freq sols": -1,
+  "sr_time": 189.59738945960999,
+  "sols": 2121,
+  "solver_time": 72.02999999999976
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_30_glucose_51040": {
+  "freq sols": -1,
+  "sr_time": 57.474668741226196,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_glucose_94606": {
+  "freq sols": -1,
+  "sr_time": 12.274057149887085,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__aus_20_glucose_36131": {
+  "freq sols": -1,
+  "sr_time": 48.99475049972534,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis__krvskp_20_nbc_84311": {
+  "freq sols": -1,
+  "sr_time": 8552.132053852081,
+  "sols": 0,
+  "solver_time": 8316.7
+ },
+ "hu_gen_fis_noincomp__anneal_30_glucose_34246": {
+  "freq sols": -1,
+  "sr_time": 28.18424940109253,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining_noincomp__heart_50_nbc_18359": {
+  "freq sols": -1,
+  "sr_time": 1050.829430103302,
+  "sols": 579,
+  "solver_time": 971.3199999999998
+ },
+ "hu_closed_cost_util_freqmining__german_20_minion_98783": {
+  "freq sols": -1,
+  "sr_time": 11026.086142778397,
+  "sols": 4,
+  "solver_time": 4877.640409999999
+ },
+ "hu_closed_cost_util_freqmining__heart_10_nbc_37082": {
+  "freq sols": -1,
+  "sr_time": 3177.9135270118713,
+  "sols": 3360,
+  "solver_time": 3093.5099999999998
+ },
+ "hu_gen_fis__lymph_30_minion_97109": {
+  "freq sols": -1,
+  "sr_time": 232.2583019733429,
+  "sols": 9811,
+  "solver_time": 181.33220999999992
+ },
+ "hu_closed_cost_util_freqmining__zoo_20_nbc_73360": {
+  "freq sols": -1,
+  "sr_time": 36.97152900695801,
+  "sols": 4374,
+  "solver_time": 2.65
+ },
+ "hu_closed_cost_util_freqmining__hepatit_30_nbc_22211": {
+  "freq sols": -1,
+  "sr_time": 30.54032015800476,
+  "sols": 72,
+  "solver_time": 14.36
+ },
+ "hu_closed_cost_util_freqmining_noincomp__hepatit_40_glucose_43882": {
+  "freq sols": -1,
+  "sr_time": 12639.810602664948,
+  "sols": 8051,
+  "solver_time": 8328.565488999979
+ },
+ "hu_closed_cost_util_freqmining_noincomp__tumor_30_minion_30415": {
+  "freq sols": -1,
+  "sr_time": 3250.328877925873,
+  "sols": 1224,
+  "solver_time": 2911.604786000003
+ },
+ "hu_gen_fis__zoo_10_nbc_82033": {
+  "freq sols": -1,
+  "sr_time": 5.338487148284912,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_closed_cost_util_freqmining__hypo_50_nbc_75399": {
+  "freq sols": -1,
+  "sr_time": 2263.741162776947,
+  "sols": 1342,
+  "solver_time": 1534.8799999999997
+ },
+ "hu_gen_fis_noincomp__vote_20_glucose_849": {
+  "freq sols": -1,
+  "sr_time": 19.568727016448975,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_20_glucose_80042": {
+  "freq sols": -1,
+  "sr_time": 6632.668167114258,
+  "sols": 75,
+  "solver_time": 6161.752800000001
+ },
+ "hu_gen_fis_noincomp__german_20_glucose_26671": {
+  "freq sols": -1,
+  "sr_time": 472.86316680908203,
+  "sols": 9,
+  "solver_time": 404.253
+ },
+ "hu_closed_cost_util_freqmining_noincomp__german_50_minion_2760": {
+  "freq sols": -1,
+  "sr_time": 11003.757420063019,
+  "sols": 601,
+  "solver_time": 10681.743719999986
+ },
+ "hu_gen_fis_noincomp__hypo_20_glucose_73878": {
+  "freq sols": -1,
+  "sr_time": 144.92065620422363,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__anneal_40_glucose_81380": {
+  "freq sols": -1,
+  "sr_time": 28.638033390045166,
+  "sols": 0,
+  "solver_time": 0.0
+ },
+ "hu_gen_fis_noincomp__hypo_20_glucose_66155": {
+  "freq sols": -1,
+  "sr_time": 147.35994458198547,
+  "sols": 0,
+  "solver_time": 0.0
+ }
+}
