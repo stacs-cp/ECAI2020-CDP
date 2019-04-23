@@ -1,0 +1,67 @@
+language ESSENCE' 1.0
+
+given db : mset of record { itemset : set of int, class : int }
+
+given min_freq : int
+
+letting db_minValue be  min([val | entry <- db, val <- entry[itemset]])
+letting db_maxValue be max([val | entry <- db, val <- entry[itemset]])
+letting db_maxEntrySize be max([ |entry[itemset]| | entry <- db ])
+letting db_row_size be |db|
+$ letting db_min_class_value be min([entry[class] | entry <- db])
+$ letting db_max_class_value be max([entry[class] | entry <- db])
+
+given utility_values : matrix indexed by [int(db_minValue..db_maxValue)] of int
+given cost_values : matrix indexed by [int(db_minValue..db_maxValue)] of int
+
+given min_utility : int
+given max_cost : int
+
+find db_minValue_var : int(db_minValue)
+find db_maxValue_var : int(db_maxValue)
+find db_maxEntrySize_var : int(db_maxEntrySize)
+
+find current_size: int(0..db_maxEntrySize)
+
+$ letting class_domain be domain int(db_min_class_value..db_max_class_value)
+letting class_domain be domain int(0..1)
+
+letting support_domain be domain int(1..db_row_size)
+
+find freq_items : record { 
+                        itemset : set (minSize 1, maxSize db_maxEntrySize) of int(db_minValue..db_maxValue), 
+                        wanted_class : class_domain,
+                        support_func : matrix indexed by [class_domain] of support_domain
+                    } 
+
+such that
+    |freq_items[itemset]| = current_size
+
+$ frequency
+such that
+    (sum entry in db . toInt(freq_items[itemset] subsetEq entry[itemset] /\ entry[class] = 0)) = freq_items[support_func][0]
+
+such that
+    (sum entry in db . toInt(freq_items[itemset] subsetEq entry[itemset] /\ entry[class] = 1)) = freq_items[support_func][1]
+
+such that
+    [freq_items[support_func][1] >= min_freq /\ freq_items[support_func][0] < min_freq]
+
+such that
+    freq_items[wanted_class]=1
+
+
+$ utilities
+
+such that
+    (sum item in freq_items[itemset] . utility_values[item]) >= min_utility
+
+such that
+    (sum item in freq_items[itemset] . cost_values[item]) <= max_cost
+ 
+
+dominance_relation (freq_items[itemset] subsetEq fromSolution(freq_items[itemset])) -> (freq_items[support_func][1] > fromSolution(freq_items[support_func][1]))
+
+incomparability_function descending current_size
+
+    
