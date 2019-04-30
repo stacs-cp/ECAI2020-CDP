@@ -36,8 +36,14 @@ such that
         (sum entry in db . toInt(freq_items[itemset] subsetEq entry[itemset] /\ entry[class] = f_class)) = f_support
 
 such that
-    [freq_items[support_func](1) >= min_freq /\ freq_items[support_func](0) < min_freq, freq_items[support_func](0) >= min_freq /\ freq_items[support_func](1) < min_freq; int(0..1) ][toInt(freq_items[wanted_class]=0)]
+    $ [freq_items[support_func](1) >= min_freq /\ freq_items[support_func](0) < min_freq, freq_items[support_func](0) >= min_freq /\ freq_items[support_func](1) < min_freq; int(0..1) ][toInt(freq_items[wanted_class]=0)]
+    
+    $ Directly pos - negative > threshold or neg - pos > threshold instead. wanted class is the predominant one. Do other experiments later.
 
+    $ we can only look pos - neg easily instead
+     
+    [freq_items[support_func](1) - freq_items[support_func](0) > min_freq, freq_items[support_func](0) - freq_items[support_func](1) > min_freq; int(0..1) ][toInt(freq_items[wanted_class]=1)]
+    
 
 $ utilities
 
