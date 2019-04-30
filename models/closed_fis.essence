@@ -33,10 +33,10 @@ such that
 such that
     (sum item in freq_items[itemset] . cost_values[item]) <= max_cost
 
-$ generator  dominance on small itemsets dominates biggers.
+$ closure 
 
-dominance_relation (fromSolution(freq_items[itemset]) subsetEq freq_items[itemset]) -> (freq_items[support] < fromSolution(freq_items[support]))
+dominance_relation (freq_items[itemset] subsetEq fromSolution(freq_items[itemset])) -> (freq_items[support] > fromSolution(freq_items[support]))
 
-incomparability_function ascending |freq_items[itemset]|
+incomparability_function descending |freq_items[itemset]|
 
     
