@@ -15,8 +15,6 @@ given cost_values : matrix indexed by [int(db_minValue..db_maxValue)] of int
 given min_utility : int
 given max_cost : int
 
-find current_size: int(0..db_maxEntrySize)
-
 find infreq_items : record { itemset : set (maxSize db_maxEntrySize) of int(db_minValue..db_maxValue), support : int(1..db_row_size) }
 
 $ frequency
