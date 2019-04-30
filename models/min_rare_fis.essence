@@ -25,6 +25,13 @@ such that
 such that
     infreq_items[support] < min_freq
 
+$ above epsilon threshold
+
+such that
+    infreq_items[support] > 0
+
+
+
 $ utilities
 
 such that
