@@ -54,14 +54,22 @@ such that
     (sum item in freq_items[itemset] . cost_values[item]) <= max_cost
 
 
+$ option 1: not sure?
 $ there isnt any superset Y that Y+ > X+ and X- > Y- and X = Y can be expressed as
 $ Y superset X implies that X+ > Y+ or Y- > X- or Y!=X 
 $ - i.e. in english if we are finding subsets of stuff we have found so far, some support must be different in +, - or total.
 
-dominance_relation (freq_items[itemset] subsetEq fromSolution(freq_items[itemset])) -> 
-(freq_items[support_func](1) > fromSolution(freq_items[support_func](1)) 
-\/ (freq_items[support_func](0) < fromSolution(freq_items[support_func](0)))
-\/ (freq_items[support_func](1) + freq_items[support_func](0) != fromSolution(freq_items[support_func](1)) + fromSolution(freq_items[support_func](0))))
+$ dominance_relation (freq_items[itemset] subsetEq fromSolution(freq_items[itemset])) -> 
+$ (freq_items[support_func](1) > fromSolution(freq_items[support_func](1)) 
+$ \/ (freq_items[support_func](0) < fromSolution(freq_items[support_func](0)))
+$ \/ (freq_items[support_func](1) + freq_items[support_func](0) != fromSolution(freq_items[support_func](1)) + fromSolution(freq_items[support_func](0))))
+
+$ option 2: closer to the orig spec
+$ there isnt any other itemset with more + supp, less - supp and if same total supp bigger one ->
+$ X+ > Y+ or Y- > X- or Y superset X -> Y!=X 
+dominance_relation freq_items[support_func](1) > fromSolution(freq_items[support_func](1)) 
+\/ freq_items[support_func](0) < fromSolution(freq_items[support_func](0)) 
+\/ (freq_items[itemset] subsetEq fromSolution(freq_items[itemset]) -> (freq_items[support_func](1) + freq_items[support_func](0) != fromSolution(freq_items[support_func](1)) + fromSolution(freq_items[support_func](0))))
 
 incomparability_function descending |freq_items[itemset]|
 
