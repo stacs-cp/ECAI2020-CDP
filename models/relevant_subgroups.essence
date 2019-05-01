@@ -18,7 +18,6 @@ given min_utility : int
 given max_cost : int
 
 $ letting class_domain be domain int(db_min_class_value..db_max_class_value)
-letting class_domain be domain int(0..1)
 
 letting support_domain be domain int(1..db_row_size)
 
@@ -26,40 +25,30 @@ letting support_domain be domain int(1..db_row_size)
 $keep wanted class for now in this model.
 find freq_items : record { 
                         itemset : set (minSize 1, maxSize db_maxEntrySize) of int(db_minValue..db_maxValue), 
-                        wanted_class : class_domain,
-                        $ support_func : function (total) class_domain --> support_domain
-                        cover_func : function (total) class_domain --> set (maxSize db_row_size) of support_domain
+                        cover_pos : set (maxSize db_row_size) of support_domain ,
+                        cover_neg : set (maxSize db_row_size) of support_domain 
                     } 
 
-$focus on positive directly, but keep wanted as 1
-such that
-    freq_items[wanted_class] = 1
-
-$ frequency 
-$old
-$ such that
-$     forAll (f_class, f_support) in freq_items[support_func] .
-$         (sum entry in db . toInt(freq_items[itemset] subsetEq entry[itemset] /\ entry[class] = f_class)) = f_support
 
 
 $cover of transactions
 such that 
-     forAll (f_class, f_cover) in freq_items[cover_func] .
-        forAll (row, entry) in db . 
-            row in f_cover <-> (entry[itemset] supset freq_items[itemset]  /\ entry[class] = f_class)
+    forAll (row, entry) in db . 
+        row in freq_items[cover_neg]  <-> (entry[itemset] supsetEq freq_items[itemset] /\ entry[class] = 0)
 
+such that 
+    forAll (row, entry) in db . 
+        row in freq_items[cover_pos]  <-> (entry[itemset] supsetEq freq_items[itemset] /\ entry[class] = 1)
 
-
-$ such that 
-$     forAll (f_class, f_cover) in freq_items[cover_func] .
-$         sum([toInt( entry[itemset] supset freq_items[itemset]  /\ entry[class] = f_class /\ row in f_cover[cover]) | (row, entry) <- db ]) = f_cover[support]
+$ following looks simpler but logically different
+$ row in [freq_items[cover_neg], freq_items[cover_pos]][entry[class]]  <-> (entry[itemset] supsetEq freq_items[itemset]) ??
 
 $ supp X+ > min_freq
 such that
-    |freq_items[cover_func](freq_items[wanted_class])| > min_freq
+    |freq_items[cover_pos]| > min_freq
+
 
 $ utilities
-
 such that
     (sum item in freq_items[itemset] . utility_values[item]) >= min_utility
 
@@ -87,9 +76,9 @@ $ \/ (freq_items[itemset] subsetEq fromSolution(freq_items[itemset]) -> (freq_it
 $ option 3: exact orig spec
 $ there isnt any other itemset with more covering more + transaciton, less - transaction and if same total cover bigger one ->
 $ !(Y+ subseteq X+)  or !(Y- supsetEq X-) or (!(Y superset X) and Y=X) 
-dominance_relation !(freq_items[cover_func](1) subsetEq fromSolution(freq_items[cover_func](1))) 
-\/ !( freq_items[cover_func](0) supsetEq fromSolution(freq_items[cover_func](0)) ) 
-\/ ((freq_items[cover_func](1) union freq_items[cover_func](0) = fromSolution(freq_items[cover_func](1)) union fromSolution(freq_items[cover_func](0)) ) /\ !(freq_items[itemset] subset fromSolution(freq_items[itemset]) ))
+dominance_relation !(freq_items[cover_pos] subsetEq fromSolution(freq_items[cover_pos])) 
+\/ !( freq_items[cover_neg] supsetEq fromSolution(freq_items[cover_neg]) ) 
+\/ !((freq_items[cover_pos] union freq_items[cover_neg] = fromSolution(freq_items[cover_pos]) union fromSolution(freq_items[cover_neg]) ) -> (freq_items[itemset] subsetEq fromSolution(freq_items[itemset]) ))
 
 incomparability_function descending |freq_items[itemset]|
 
