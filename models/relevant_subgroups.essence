@@ -46,7 +46,7 @@ $cover of transactions
 such that 
      forAll (f_class, f_cover) in freq_items[cover_func] .
         forAll (row, entry) in db . 
-            (entry[itemset] supset freq_items[itemset]  /\ entry[class] = f_class) -> row in f_cover
+            row in f_cover <-> (entry[itemset] supset freq_items[itemset]  /\ entry[class] = f_class)
 
 
 
