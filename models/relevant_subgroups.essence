@@ -86,11 +86,10 @@ $ \/ (freq_items[itemset] subsetEq fromSolution(freq_items[itemset]) -> (freq_it
 
 $ option 3: exact orig spec
 $ there isnt any other itemset with more covering more + transaciton, less - transaction and if same total cover bigger one ->
-$ X+ > Y+ or Y- > X- or Y superset X -> Y!=X 
-dominance_relation freq_items[cover_func](1) supset fromSolution(freq_items[cover_func](1) ) 
-\/ freq_items[cover_func](0)  subset fromSolution(freq_items[cover_func](0) ) 
-\/ (freq_items[itemset] subset fromSolution(freq_items[itemset]) -> (freq_items[cover_func](1)  union freq_items[cover_func](0)  != fromSolution(freq_items[cover_func](1)) union fromSolution(freq_items[cover_func](0) )))
-
+$ !(Y+ subseteq X+)  or !(Y- supsetEq X-) or (!(Y superset X) and Y=X) 
+dominance_relation !(freq_items[cover_func](1) subsetEq fromSolution(freq_items[cover_func](1))) 
+\/ !( freq_items[cover_func](0) supsetEq fromSolution(freq_items[cover_func](0)) ) 
+\/ ((freq_items[cover_func](1) union freq_items[cover_func](0) = fromSolution(freq_items[cover_func](1)) union fromSolution(freq_items[cover_func](0)) ) /\ !(freq_items[itemset] subset fromSolution(freq_items[itemset]) ))
 
 incomparability_function descending |freq_items[itemset]|
 
