@@ -35,7 +35,7 @@ such that
 
 $ generator  dominance on small itemsets dominates biggers.
 
-dominance_relation (fromSolution(freq_items[itemset]) subsetEq freq_items[itemset]) -> (freq_items[support] < fromSolution(freq_items[support]))
+dominance_relation (fromSolution(freq_items[itemset]) subsetEq freq_items[itemset]) -> (freq_items[support] != fromSolution(freq_items[support]))
 
 incomparability_function ascending |freq_items[itemset]|
 

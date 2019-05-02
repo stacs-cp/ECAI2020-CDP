@@ -35,7 +35,7 @@ such that
 
 $ closure 
 
-dominance_relation (freq_items[itemset] subsetEq fromSolution(freq_items[itemset])) -> (freq_items[support] > fromSolution(freq_items[support]))
+dominance_relation (freq_items[itemset] subsetEq fromSolution(freq_items[itemset])) -> (freq_items[support] != fromSolution(freq_items[support]))
 
 incomparability_function descending |freq_items[itemset]|
 
