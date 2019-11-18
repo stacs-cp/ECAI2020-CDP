@@ -15,35 +15,37 @@ given cost_values : matrix indexed by [int(db_minValue..db_maxValue)] of int
 given min_utility : int
 given max_cost : int
 
-find infreq_items : record { itemset : set (maxSize db_maxEntrySize) of int(db_minValue..db_maxValue), support : int(1..db_row_size) }
+find db_minValue_var : int(db_minValue)
+find db_maxValue_var : int(db_maxValue)
+find db_maxEntrySize_var : int(db_maxEntrySize)
+
+find current_size: int(0..db_maxEntrySize)
+
+find freq_items : (set (maxSize db_maxEntrySize) of int(db_minValue..db_maxValue), int(1..db_row_size))
+
+such that
+    |freq_items[1]| = current_size
 
 $ frequency
 
 such that
-    (sum entry in db . toInt(infreq_items[itemset] subsetEq entry)) = infreq_items[support]
+    (sum entry in db . toInt(freq_items[1] subsetEq entry)) = freq_items[2]
 
 such that
-    infreq_items[support] < min_freq
-
-$ above epsilon threshold
-
-such that
-    infreq_items[support] > 0
-
-
+    freq_items[2] < min_freq
 
 $ utilities
 
 such that
-    (sum item in infreq_items[itemset] . utility_values[item]) >= min_utility
+    (sum item in freq_items[1] . utility_values[item]) >= min_utility
 
 such that
-    (sum item in infreq_items[itemset] . cost_values[item]) <= max_cost
+    (sum item in freq_items[1] . cost_values[item]) <= max_cost
 
 $ generator dominance on small non-freq itemsets dominates biggers ones.
 
-dominance_relation !(fromSolution(infreq_items[itemset]) subsetEq infreq_items[itemset])
+dominance_relation !(fromSolution(freq_items[1]) subsetEq freq_items[1])
 
-incomparability_function ascending |infreq_items[itemset]|
+incomparability_function ascending current_size
 
     
